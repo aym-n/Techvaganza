@@ -10,6 +10,7 @@ export default function EventDetails() {
   }
 
   const event = events[eventIndex];
+
   return (
     <>
       <EventDetailsLayout

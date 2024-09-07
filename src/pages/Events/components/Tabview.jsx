@@ -10,13 +10,13 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
       <Tabs>
         <TabList className="flex md:gap-5 my-3">
           <Tab
-            className="px-14 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
+            className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
             selectedClassName="active-tab"
           >
             Rules / prizes
           </Tab>
           <Tab
-            className="px-14 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
+            className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
             selectedClassName="active-tab"
           >
             Judging Criteria

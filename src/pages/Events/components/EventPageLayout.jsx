@@ -17,7 +17,7 @@ const EventsPageLayout = ({events}) => {
                 title={item["Event Name"]}
                 time={item["Start Time"] + " - " + item["End Time"]}
                 venue={item["Venue"]}
-                img={''}
+                image={`/events/${item["Card Image"]}`}
                 url={`${index}`}
               />
           ))}

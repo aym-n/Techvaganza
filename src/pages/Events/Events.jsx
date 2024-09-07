@@ -7,10 +7,16 @@ import GamingZone from "./pages/GamingZone";
 import Others from "./pages/Others";
 import EventDetails from "./pages/Detailing/EventDetails";
 import AllEvents from "./pages/AllEvents";
+import { useEffect } from "react";
+import ScrollToTop from "../../Components/ScrollToTop";
 
 export default function Events() {
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scroll to the top
+  }, []);
   return (
     <>
+      <ScrollToTop />
       <Routes>
         {/* <Route path="/" element={<EventCategory />} />
         <Route path="/visual-arts" element={<VisualArts />} />

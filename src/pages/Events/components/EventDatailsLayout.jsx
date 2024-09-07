@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 
 export default function EventDetailsLayout({data}) {
   return (
-    <PageLayout title={data["Event Name"]} imgUrl={'/ambassador.png'}>
+    <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
           <p className="font-semibold font-neotriad textShadow text-5xl text-gray-800 leading-normal mb-3">
