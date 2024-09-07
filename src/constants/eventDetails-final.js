@@ -1,4 +1,4 @@
-[
+export const events = [
     {
       "Event Name": "AutoCAD",
       "Description": "In this exciting event, participants will be provided with a specific design challenge or project that they must complete using AutoCAD software. The competition guidelines emphasize the participants' ability to create precise and detailed technical drawings, employ appropriate dimensioning techniques and effectively utilize the various tools and features offered by AutoCAD.",
@@ -12,7 +12,9 @@
       "Start Time": "11:00",
       "End Time": "13:00",
       "Day": 2,
-      "Venue": "LH2"
+      "Venue": "LH2",
+      "Card Image" : "autocad 2.jpg",
+      "Cover Image" : "autocad-1.jpg"
     },
     {
       "Event Name": "Remote control car racing",
@@ -27,7 +29,9 @@
       "Start Time": "10:00",
       "End Time": "12:00",
       "Day": 1,
-      "Venue": "Open ground near chinar or near directors office"
+      "Venue": "Open ground near chinar or near directors office",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -42,7 +46,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Catapult",
@@ -57,7 +63,9 @@
       "Start Time": "15:00",
       "End Time": "16:30",
       "Day": 2,
-      "Venue": "NIT Srinagar main ground"
+      "Venue": "NIT Srinagar main ground",
+      "Card Image" : "catapult competition.png",
+      "Cover Image" : "catapult.jpeg"
     },
     {
       "Event Name": "hydraulic lift",
@@ -72,7 +80,9 @@
       "Start Time": "14:00",
       "End Time": "15:30",
       "Day": 2,
-      "Venue": "Common Hall"
+      "Venue": "Common Hall",
+      "Card Image" : "hydraulic lift.jpg",
+      "Cover Image" : "hydraulic-lift-1.jpg"
     },
     {
       "Event Name": "Civil engineering Quizathon",
@@ -87,7 +97,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Vernacular BuildingStyle and Earthquake Prone Areas with specialReference to Kashmir",
@@ -102,7 +114,9 @@
       "Start Time": "10:00",
       "End Time": "13:00",
       "Day": 1,
-      "Venue": "LH3"
+      "Venue": "LH3",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Bombsquad",
@@ -117,7 +131,9 @@
       "Start Time": "10:00",
       "End Time": "11:30",
       "Day": 1,
-      "Venue": "Activity Center"
+      "Venue": "Activity Center",
+      "Card Image" : "bombsquad.webp",
+      "Cover Image" : "bombsquad.jpg"
     },
     {
       "Event Name": "STRUCTURE BATTLES(Earthquake resistant building)",
@@ -132,7 +148,9 @@
       "Start Time": "12:00",
       "End Time": "13:30",
       "Day": 2,
-      "Venue": "Common Hall"
+      "Venue": "Common Hall",
+      "Card Image" : "earthquake in kashmir 2.jpg",
+      "Cover Image" : "earthquake-in-kashmir.jpg"
     },
     {
       "Event Name": "",
@@ -147,7 +165,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Typing Competition",
@@ -162,7 +182,9 @@
       "Start Time": "16:00",
       "End Time": "17:00",
       "Day": 2,
-      "Venue": "LH-2"
+      "Venue": "LH-2",
+      "Card Image" : "typing competition.jpg",
+      "Cover Image" : "typing-competition2.jpg"
     },
     {
       "Event Name": "",
@@ -177,7 +199,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Line Follower",
@@ -192,7 +216,9 @@
       "Start Time": "10:00",
       "End Time": "12:00",
       "Day": 2,
-      "Venue": "Common hall"
+      "Venue": "Common hall",
+      "Card Image" : "line-following.jpg",
+      "Cover Image" : "line-following.jpg"
     },
     {
       "Event Name": "",
@@ -207,7 +233,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -222,7 +250,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Ecobuild Challenge",
@@ -237,7 +267,9 @@
       "Start Time": "02:00",
       "End Time": "03:30",
       "Day": 1,
-      "Venue": "Hi Tech 3"
+      "Venue": "Hi Tech 3",
+      "Card Image" : "ecobuild 1.jpg",
+      "Cover Image" : "ecobuild.jpg"
     },
     {
       "Event Name": "art competition",
@@ -252,7 +284,9 @@
       "Start Time": "10.00 am",
       "End Time": "3.00 pm",
       "Day": 2,
-      "Venue": "campus parks"
+      "Venue": "campus parks",
+      "Card Image" : "art competition 1.jpg",
+      "Cover Image" : "art-competition.jpg"
     },
     {
       "Event Name": "",
@@ -267,7 +301,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "TECHNICAL EXHIBITION",
@@ -282,7 +318,9 @@
       "Start Time": "10.00 am",
       "End Time": "2.00 pm",
       "Day": 1,
-      "Venue": "library park near director's office"
+      "Venue": "library park near director's office",
+      "Card Image" : "technical-exhibition.jpg",
+      "Cover Image" : "technical-exhibition.jpg"
     },
     {
       "Event Name": "typing competetion",
@@ -297,7 +335,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Pressure rocket Battle",
@@ -312,7 +352,9 @@
       "Start Time": "10:00",
       "End Time": "11:00",
       "Day": 2,
-      "Venue": "Football ground"
+      "Venue": "Football ground",
+      "Card Image" : "air pressure rockets 2.jpg",
+      "Cover Image" : "air-pressure-rockets-1.jpg"
     },
     {
       "Event Name": "Rapid fire Technical Quiz",
@@ -327,7 +369,9 @@
       "Start Time": "14:00",
       "End Time": "16:00",
       "Day": 2,
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "techical-rapid-fire-quiz.png",
+      "Cover Image" : "techical-rapid-fire-quiz.png"
     },
     {
       "Event Name": "",
@@ -342,7 +386,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -357,7 +403,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -372,7 +420,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -387,7 +437,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -402,7 +454,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "",
@@ -417,7 +471,9 @@
       "Start Time": "",
       "End Time": "",
       "Day": "",
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "meme.jpg",
+      "Cover Image" : "meme.jpg"
     },
     {
       "Event Name": "Symbola",
@@ -432,7 +488,9 @@
       "Start Time": "14:00",
       "End Time": "15:30",
       "Day": 1,
-      "Venue": ""
+      "Venue": "",
+      "Card Image" : "symbola 3.jpeg",
+      "Cover Image" : "symbola-2.jpeg"
     },
     {
       "Event Name": "Science Experiments",
@@ -447,7 +505,9 @@
       "Start Time": "10:00",
       "End Time": "12:00",
       "Day": 1,
-      "Venue": "Main Stage"
+      "Venue": "Main Stage",
+      "Card Image" : "science experiment 1.jpg",
+      "Cover Image" : "science-experiment.jpg"
     },
     {
       "Event Name": "Best Out Of Waste",
@@ -462,6 +522,18 @@
       "Start Time": "16:00",
       "End Time": "18:00",
       "Day": 2,
-      "Venue": "Common Hall and Nit streets ."
+      "Venue": "Common Hall and Nit streets .",
+      "Card Image" : "best of waste.png",
+      "Cover Image" : "best-of-waste.jpg"
     }
   ]
+
+
+// Filter the events based on the 'Day' field
+export const day1Events = events
+  .map((event, index) => ({ ...event, index })) // Add index to each event
+  .filter(event => event.Day === 1);
+
+export const day2Events = events
+  .map((event, index) => ({ ...event, index })) // Add index to each event
+  .filter(event => event.Day === 2);

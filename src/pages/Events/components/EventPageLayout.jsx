@@ -14,11 +14,11 @@ const EventsPageLayout = ({events}) => {
           {events.map((item, index) => (
               <EventCard
                 key={index}
-                title={item.event}
-                time={item.time}
-                venue={item.venue}
-                img={item.image}
-                url={item.url}
+                title={item["Event Name"]}
+                time={item["Start Time"] + " - " + item["End Time"]}
+                venue={item["Venue"]}
+                image={`/events/${item["Card Image"]}`}
+                url={`${index}`}
               />
           ))}
         </div>

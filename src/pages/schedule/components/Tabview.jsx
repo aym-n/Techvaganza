@@ -1,7 +1,6 @@
 import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import ScheduleItem from "./ScheduleItem";
-import { day1Events, day2Events } from "../../../constants/events";
-
+import { day1Events, day2Events } from "../../../constants/eventDetails-final";
 
 const Tabview = ({ tab1, tab2 }) => {
   return (
@@ -20,22 +19,21 @@ const Tabview = ({ tab1, tab2 }) => {
           className={
             "px-14 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
           }
-          
         >
           {tab2}
         </Tab>
-      </TabList> 
+      </TabList>
       <div className="BoxShadow mx-1 my-1 px-3 py-4 pb-12">
         <TabPanel>
           {day1Events.map((item, index) => (
             <ScheduleItem
               key={index}
-              title={item.title}
-              startTime={item.startTime}
-              endTime={item.endTime}
-              venue={item.venue}
-              exploreUrl={item.exploreUrl}
-              fullDay = {item.fullDay}
+              title={item["Event Name"]}
+              startTime={item["Start Time"]}
+              endTime={item["End Time"]}
+              venue={item["Venue"]}
+              exploreUrl={`/events/${item.index}`} 
+              // fullDay={item.fullDay} // If this field exists or modify based on your logic
             />
           ))}
         </TabPanel>
@@ -43,11 +41,11 @@ const Tabview = ({ tab1, tab2 }) => {
           {day2Events.map((item, index) => (
             <ScheduleItem
               key={index}
-              title={item.title}
-              startTime={item.startTime}
-              endTime={item.endTime}
-              venue={item.venue}
-              exploreUrl={item.exploreUrl}
+              title={item["Event Name"]}
+              startTime={item["Start Time"]}
+              endTime={item["End Time"]}
+              venue={item["Venue"]}
+              exploreUrl={`/events/${item.index}`} 
             />
           ))}
         </TabPanel>
