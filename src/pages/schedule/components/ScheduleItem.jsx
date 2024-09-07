@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const ScheduleItem = ({title, startTime, endTime, venue, exploreUrl, fullDay}) => {
   const Titles = title.split(", ");
   return (
-    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center mb-4 pl-5 py-4 md:py-0 bg-gray-100 font-kodeMono">
+    <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center mb-4 pl-5 pr-5 md:pr-0 py-4 md:py-0 bg-gray-100 font-kodeMono">
       <div className="flex flex-col lg:flex-row lg:items-center lg:gap-6">
         <h3 className="text-2xl font-bold text-gray-700 textShadow-sm font-figtree py-2 lg:w-64">
           {

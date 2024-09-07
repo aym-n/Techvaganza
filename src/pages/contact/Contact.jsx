@@ -7,7 +7,7 @@ export default function Contact() {
     <PageLayout title={"Contact"} imgUrl={"/ambassador.png"}>
       {/* Ambassador team  */}
       <div>
-        <div className="text-5xl font-bold font-neotriad textShadow-md text-white my-8">
+        <div className="text-4xl md:text-5xl font-bold font-neotriad textShadow-md text-white my-8">
           Ambassador Team
         </div>
         <div className="px-5 py-8 flex gap-8 flex-wrap items-center overflow-hidden justify-center">
@@ -19,7 +19,7 @@ export default function Contact() {
 
       {/* events team  */}
       <div>
-        <div className="text-5xl font-bold font-neotriad textShadow-md text-white my-8">
+        <div className="text-4xl md:text-5xl font-bold font-neotriad textShadow-md text-white my-8">
           Event Management Team
         </div>
         <div className="px-5 py-8 flex gap-8 flex-wrap items-center overflow-hidden justify-center">
@@ -31,7 +31,7 @@ export default function Contact() {
 
       {/* web dev team  */}
       <div>
-        <div className="text-5xl font-bold font-neotriad textShadow-md text-white my-8">
+        <div className="text-4xl md:text-5xl font-bold font-neotriad textShadow-md text-white my-8">
           Web Dev Team
         </div>
         <div className="px-5 py-8 flex gap-8 flex-wrap items-center overflow-hidden justify-center">
