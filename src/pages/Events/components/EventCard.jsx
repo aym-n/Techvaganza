@@ -28,5 +28,5 @@ EventCard.propTypes = {
   time: PropTypes.string.isRequired,
   venue: PropTypes.string.isRequired,
   url: PropTypes.string.isRequired,
-  image: PropTypes.string.isRequired,
+  image: PropTypes.string,
 };

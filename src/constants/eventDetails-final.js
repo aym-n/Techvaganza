@@ -1,4 +1,4 @@
-[
+export const events = [
     {
       "Event Name": "AutoCAD",
       "Description": "In this exciting event, participants will be provided with a specific design challenge or project that they must complete using AutoCAD software. The competition guidelines emphasize the participants' ability to create precise and detailed technical drawings, employ appropriate dimensioning techniques and effectively utilize the various tools and features offered by AutoCAD.",
@@ -465,3 +465,13 @@
       "Venue": "Common Hall and Nit streets ."
     }
   ]
+
+
+// Filter the events based on the 'Day' field
+export const day1Events = events
+  .map((event, index) => ({ ...event, index })) // Add index to each event
+  .filter(event => event.Day === 1);
+
+export const day2Events = events
+  .map((event, index) => ({ ...event, index })) // Add index to each event
+  .filter(event => event.Day === 2);
