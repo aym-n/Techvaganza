@@ -18,7 +18,7 @@ const CategoryCard = ({ img, title, url, index }) => {
   }, []);
   return (
     <div data-aos="fade-down" data-aos-delay={index*100} className="mb-5 CardShadow">
-      <img className="h-[450px] w-96 md:w-80 overflow-hidden" src={img} alt={title + " image"} />
+      <img className="h-[450px] w-100 md:w-80 overflow-hidden" src={img} alt={title + " image"} />
       <div className="p-4 bg-background">
         <p className="text-3xl text-primary bg-opacity-70 font-semibold font-neotriad overflow-visible">{title}</p>
         <Link to={url}>

@@ -48,4 +48,7 @@ export const photographyData = {
     "Marks awarded by the judges will be confidential",
     "Organizers hold the authority to make changes in the rulebook at any time of the event",
   ],
+  startTime: "8:00 am",
+  endTime: "10:00 am",
+  day: "1",
 };

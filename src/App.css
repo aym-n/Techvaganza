@@ -126,7 +126,7 @@ body{
 
 /* active tab  */
 .active-tab {
-    background-color: #3b5704 !important;
+    background-color: var(--dark-blue) !important;
     color: white !important;
   }
 
