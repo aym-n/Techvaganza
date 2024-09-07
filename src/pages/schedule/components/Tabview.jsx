@@ -6,10 +6,10 @@ import { day1Events, day2Events } from "../../../constants/events";
 const Tabview = ({ tab1, tab2 }) => {
   return (
     <Tabs>
-      <TabList className={"flex mx-1 md:gap-2 my-2 font-kodeMono"}>
+      <TabList className={"flex mx-1 md:gap-2 my-2 py-4 font-kodeMono"}>
         <Tab
           className={
-            "px-14 py-3 text-base font-medium text-primary bg-white border-primary focus:outline-none hover:bg-[#e3dbcc] text-center border-2 cursor-pointer"
+            "px-14 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
           }
           selectedClassName="active-tab"
         >
@@ -18,7 +18,7 @@ const Tabview = ({ tab1, tab2 }) => {
         <Tab
           selectedClassName="active-tab"
           className={
-            "px-14 py-3 text-base font-medium text-primary bg-white border-primary focus:outline-none hover:bg-[#e3dbcc] text-center border-2 cursor-pointer"
+            "px-14 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
           }
           
         >
