@@ -32,7 +32,7 @@ title{
 }
 
 body{
-    background: url("public/common/background-2.png");
+    background: url("/common/background-2.png");
     overflow-x: hidden;    
 }
 
@@ -84,10 +84,17 @@ body{
     box-shadow: 0px 0px 6px 0px rgba(83, 206, 134, 0.9);
 }
 
+/* Tab button  */
+.tab-button{
+    transition: all 0.6s ease;
+}
+
 /* active tab  */
 .active-tab {
     background-color: var(--dark-green) !important;
-    color: white !important;
+    color: var(--gray) !important;
+    border-color: var(--dark-green) !important;
+    transition: all 0.3s ease;
   }
 
 
@@ -136,4 +143,8 @@ body{
 
 .textShadow-sm{
     text-shadow: 1px 2px var(--dark-green);
+}
+
+.textShadow-md{
+    text-shadow: 1px 3px var(--dark-blue);
 }
