@@ -7,11 +7,6 @@ import PropTypes from "prop-types";
 export default function PageLayout({ title, imgUrl, children }) {
   return (
     <>
-      {/* <div className="background-image bg-1"></div>
-      <div className="background-image hidden md:block bg-3"></div>
-      <div className="background-image hidden md:block bg-4"></div> */}
-
-
       <div className="content">
         <div
           style={{
@@ -22,7 +17,7 @@ export default function PageLayout({ title, imgUrl, children }) {
           <div className="w-full h-full flex flex-col">
             <Header />
             <div className="px-10 md:px-[160px] lg:px-[180px] lg2:px-[220px] xl:px-[300px] xl2:px-[340px] flex items-center font-playfair flex-grow">
-              <p className="text-white font-neotriad textShadow font-extrabold text-5xl leading-normal">
+              <p className="text-white font-neotriad font-extrabold textShadow-md text-6xl leading-normal">
                 {title}
               </p>
             </div>

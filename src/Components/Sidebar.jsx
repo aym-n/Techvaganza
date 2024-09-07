@@ -52,7 +52,10 @@ const Sidebar = ({ isOpen, onClose }) => {
           <p className="underline-animate relative inline-block">Events</p>
         </Link>
 
-        <div className="py-2 flex justify-center">
+
+        {/* register link  */}
+
+        {/* <div className="py-2 flex justify-center">
           <button
             className="text-gray-200 hover:text-secondary flex items-center text-xl "
             onClick={() => toggleDropdown("register")}
@@ -70,9 +73,11 @@ const Sidebar = ({ isOpen, onClose }) => {
               position={{ left: 180, top: 170 }}
             />
           )}
-        </div>
+        </div> */}
 
-        <div className="py-2 flex justify-center">
+        {/* resources link  */}
+
+        {/* <div className="py-2 flex justify-center">
           <button
             className="text-white hover:text-secondary flex items-center text-xl"
             onClick={() => toggleDropdown("resources")}
@@ -90,8 +95,16 @@ const Sidebar = ({ isOpen, onClose }) => {
               position={{ left: 180, top: 205 }}
             />
           </div>
-        </div>
+        </div> */}
+        <Link
+          to="/schedule"
+          className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
+          onClick={onClose}
+        >
+          <p className="underline-animate relative inline-block">Schedule</p>
+        </Link>
 
+        {/* contact link  */}
         <Link
           to="/contact"
           className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"

@@ -32,52 +32,12 @@ title{
 }
 
 body{
-    background: url("public/common/background-2.png");
+    background: url("/common/background-2.png");
     overflow-x: hidden;    
 }
 
 .linear-bg{
     background: linear-gradient(to bottom, #0c0c0c 0%,#0c0c0c7f 50%, #0c0c0c00 100%);
-}
-
-/* Background Images */
-.background-image {
-    position: absolute;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-    opacity: 1; /*Adjust to make content readable */
-}
-
-.bg-1 {
-    width: 100dvw; 
-    height: 110rem; 
-    background-image: url('/group5.png');
-}
-
-
-.bg-2 {
-    bottom: -120%; /* Adjust position as needed */
-    left: 0%; /* Adjust position as needed */
-    width: 100vw; 
-    height: 30rem; 
-    background-image: url('/group4.png');
-}
-
-.bg-3 {
-    top: 180%; /* Adjust position as needed */
-    right: -8%; /* Adjust position as needed */
-    width: 20rem; 
-    height: 20rem; 
-    background-image: url('/group6.png');
-}
-
-.bg-4 {
-    top: 180%; /* Adjust position as needed */
-    left: -4%; /* Adjust position as needed */
-    width: 90rem; 
-    height: 36rem; 
-    background-image: url('/group3.png');
 }
 
 /* Content Layer */
@@ -113,21 +73,28 @@ body{
 }
 
 .CardShadow{
-    -webkit-box-shadow: 0px 0px 20px 0px rgba(59, 87, 4, 0.8);
-    -moz-box-shadow: 0px 0px 20px 0px rgba(59, 87, 4, 0.8);
-    box-shadow: 0px 0px 20px 0px rgba(59, 87, 4, 0.8);
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(83, 206, 134, 0.8);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(83, 206, 134, 0.8);
+    box-shadow: 0px 0px 20px 0px rgba(83, 206, 134, 0.8);
 }
 
 .BoxShadow{
-    -webkit-box-shadow: 0px 0px 6px 0px rgba(59, 87, 4, 0.9);
-    -moz-box-shadow: 0px 0px 6px 0px rgba(59, 87, 4, 0.9);
-    box-shadow: 0px 0px 6px 0px rgba(59, 87, 4, 0.9);
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(83, 206, 134, 0.9);
+    -moz-box-shadow: 0px 0px 6px 0px rgba(83, 206, 134, 0.9);
+    box-shadow: 0px 0px 6px 0px rgba(83, 206, 134, 0.9);
+}
+
+/* Tab button  */
+.tab-button{
+    transition: all 0.6s ease;
 }
 
 /* active tab  */
 .active-tab {
-    background-color: var(--dark-blue) !important;
-    color: white !important;
+    background-color: var(--dark-green) !important;
+    color: var(--gray) !important;
+    border-color: var(--dark-green) !important;
+    transition: all 0.3s ease;
   }
 
 
@@ -176,4 +143,8 @@ body{
 
 .textShadow-sm{
     text-shadow: 1px 2px var(--dark-green);
+}
+
+.textShadow-md{
+    text-shadow: 1px 3px var(--dark-blue);
 }
