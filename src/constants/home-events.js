@@ -1,24 +1,24 @@
 export const cards = [
     {
-        title: "Drone Show",
+        title: "StartupFest",
         description:
-            "The Drone Show  will be a mesmerizing aerial display that transforms the night sky into a canvas of light and motion. Spectators can expect a blend of cutting-edge technology and artistic expression that pushes the boundaries of visual entertainment.",
-            image: "/mr-ms-rang-e-chinar.jpg",
-        link: "#",
+            "Startup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
+            image: "events/startup.jpg",
+        link: "/events/28",
     },
     {
-        title: "Soap Box Car Racing",
+        title: "Women in Tech",
         description:
-            "Participants of all ages construct their own non-motorized vehicles to compete on a challenging course.The competition includes categories for speed, creativity, and engineering excellence. Spectators can enjoy the colorful parade of unique cars and the exciting atmosphere as gravity-powered racers speed towards the finish line.",
-            image: "/event2.jpeg",
+            "This event showcases accomplished women professionals from various technology fields sharing their experiences, insights, and expertise. each session would feature 2-3 women speakers who are leaders in their respective areas of tech.",
+            image: "events/women.jpg",
         link: "#",
     },
     {
         title: "Game Zone",
         description:
             "Competitors will face off in intense head-to-head matches across popular titles including Valorant, BGMI, Free Fire, CS:GO, and FIFA. The event features multiple stages where gamers can showcase their skills in strategic shooters, battle royales, and virtual soccer",
-        image: "/event3.jpeg",
-        link: "#",
+        image: "events/gamezone.jpg",
+        link: "/events/27",
     }
 ];
 
@@ -86,26 +86,26 @@ export const images = [
     { 
       src: '/slider-1.jpg', 
       alt: 'Slider 1', 
-      title: 'TECHVAGANZA', 
-      description: 'Image 1 Description' 
+      title: 'Vihang Performance', 
+      description: 'Main Stage' 
     },
     { 
       src: '/slider-2.jpg', 
       alt: 'Slider 2', 
-      title: 'TECHVAGANZA', 
-      description: 'Image 2 Description' 
+      title: 'Yawar Abdaal', 
+      description: 'Main Stage' 
     },
     { 
       src: '/slider-3.jpg', 
       alt: 'Slider 3', 
-      title: 'TECHVAGANZA', 
-      description: 'Image 3 Description' 
+      title: 'Group Photo', 
+      description: 'Organizing team' 
     },
     { 
       src: '/slider-4.jpg', 
       alt: 'Slider 3', 
-      title: 'TECHVAGANZA', 
-      description: 'Image 3 Description' 
+      title: 'Yawar Abdaal', 
+      description: 'Main Stage' 
     },
   ];
   
