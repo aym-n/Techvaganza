@@ -44,7 +44,7 @@ const Card = ({ event, index }) => {
           <p className="mb-6 md:mb-8">{event.description}</p>
           <Link
             to={event.link}
-            className="px-3 md:px-6 py-3 ShadowBlur font-kodeMono text-sm md:text-base rounded-md font-medium text-white bg-primary border border-primary text-center"
+            className="px-3 md:px-6 py-3 ShadowBlur font-kodeMono text-sm md:text-base rounded-md font-medium text-gray-800 bg-primary border border-primary text-center"
           >
             EXPLORE
           </Link>

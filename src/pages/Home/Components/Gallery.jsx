@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from 'react';
 import {images} from '../../../constants/home-events';
 
+
 const Gallery = () => {
   const galleryRef = useRef(null);
   const [imageList, setImageList] = useState([...images, ...images, ...images]); // Create a large list of images to create infinite scroll
@@ -62,7 +63,7 @@ const Gallery = () => {
       </div>
       <button
         onClick={handleRightArrowClick}
-        className="absolute bottom-8 left-1/2 transform -translate-x-1/2 bg-primary text-white p-6 rounded-full shadow-md hover:shadow-lg"
+        className="absolute bottom-8 left-1/2 transform -translate-x-1/2 bg-primary text-gray-800 p-6 rounded-full shadow-md hover:shadow-lg"
       >
         <svg
           className="w-8 h-8"

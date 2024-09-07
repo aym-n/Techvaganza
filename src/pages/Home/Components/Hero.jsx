@@ -170,14 +170,15 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div className="flex flex-col items-center justify-center md:flex-row gap-8 md:gap-7 py-10 md:mt-8">
+        <div className="flex flex-col items-center justify-center md:flex-row gap-8 md:gap-7 my-10 md:mt-8">
+          <p className="flex gap-4 items-center text-white textShadow font-neotriad md:text-3xl mt-5 ">[ Event Registrations Opening Soon ]</p>
           {/* <div className="flex gap-4 items-center text-secondary">
             <FaAddressCard size={24} />
             <Link
               data-aos="fade-in"
               data-aos-delay="500"
               to={'/register'}
-              className="flex gap-4 items-center underline-animate textShadow-sm text-2xl md:text-4xl "
+              className=""
             >
               [ Register Yourself ]
             </Link>
