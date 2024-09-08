@@ -18,7 +18,7 @@ export default function Contact() {
 
 const Section = ({ teamname, teamMembers, len }) => (
   <div>
-    <div className="text-center text-4xl md:text-5xl font-bold font-neotriad textShadow-md text-white my-8">
+    <div className="text-center text-4xl md:text-5xl overflow-visible font-bold font-figtree textShadow-md text-white my-8">
       {teamname} {len != 1? "Team" : ""}
     </div>
     <div className="px-5 py-8 flex gap-8 flex-wrap items-center overflow-hidden justify-center">

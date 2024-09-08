@@ -8,19 +8,19 @@ export default function EventDetailsLayout({data}) {
     <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
-          <p className="font-semibold font-neotriad textShadow text-5xl text-gray-800 leading-normal mb-3">
+          <p className="font-semibold font-figtree textShadow text-5xl text-gray-800 leading-normal mb-3">
             {data["Event Name"]}
           </p>
           <p className="text-base">{data["Description"]}</p>
         </div>
         <div className="mb-4">
-          <p className="font-semibold text-gray-600 font-neotriad textShadow-sm text-3xl leading-normal mb-4">Timing</p>
+          <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl leading-normal mb-4">Timing</p>
           <p className="text-base mb-2">
             {data["Start Time"]} - {data["End Time"]} , Day {data["Day"]}
           </p>
         </div>
         <div className="mb-4">
-          <p className="font-semibold text-gray-600 font-neotriad textShadow-sm text-3xl leading-normal mb-4">Entry Fee</p>
+          <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl leading-normal mb-4">Entry Fee</p>
           <p className="text-base mb-2">
             {/* {Object.keys(data.entryFee).map((key) => (
               <div className="mb-3">

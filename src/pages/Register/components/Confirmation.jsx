@@ -13,13 +13,13 @@ export default function Confirmation() {
     <PageLayout title={"Register"} imgUrl={"/events/visual-cover.jpg"}>
       <div className="bg-background ShadowLarge pb-8">
         <div className="font-playfair text-center px-8 pt-8">
-          <p className="text-primary font-extrabold font-neotriad text-3xl md:text-5xl leading-normal">
+          <p className="text-primary font-extrabold font-figtree text-3xl md:text-5xl leading-normal">
             Confirmation
           </p>
         </div>
         <div className="px-8 mt-8">
           <div className="bg-white rounded-lg p-4 shadow-md">
-            <p className="text-2xl font-medium font-neotriad text-primary">
+            <p className="text-2xl font-medium font-figtree text-primary">
               Selected Events:
             </p>
             {userData.events && <ul className="list-disc list-inside mt-4 space-y-2">
@@ -35,7 +35,7 @@ export default function Confirmation() {
           </div>
           <div className="mt-8 p-4 bg-white rounded-lg ">
             <p className="text-xl  font-medium">
-              <span className="font-neotriad text-primary font-semibold text-3xl">Total Price:</span> ₹ {userData.totalPrice}
+              <span className="font-figtree text-primary font-semibold text-3xl">Total Price:</span> ₹ {userData.totalPrice}
             </p>
           </div>
         </div>

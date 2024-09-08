@@ -82,7 +82,7 @@ export default function EventDetails() {
     <PageLayout title={"Register"} imgUrl={"/events/visual-cover.jpg"}>
       <div className="bg-background ShadowLarge pb-8">
         <div className="font-playfair text-center px-8 pt-8">
-          <p className="text-primary font-extrabold font-neotriad text-3xl md:text-5xl leading-normal">
+          <p className="text-primary font-extrabold font-figtree text-3xl md:text-5xl leading-normal">
             Event Selection
           </p>
         </div>
@@ -133,7 +133,7 @@ export default function EventDetails() {
           </form>
           <div className="mt-8 p-4 bg-white rounded-lg ">
             <p className="text-xl font-medium">
-              <span className="font-neotriad text-primary font-semibold text-3xl">Total Price:</span> ₹ {userData.totalPrice}
+              <span className="font-figtree text-primary font-semibold text-3xl">Total Price:</span> ₹ {userData.totalPrice}
             </p>
           </div>
           <div className="px-8 py-4 flex items-center gap-8 justify-center">
