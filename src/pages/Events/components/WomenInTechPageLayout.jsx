@@ -2,7 +2,7 @@ import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import EventCard from "./EventCard";
 import PropTypes from "prop-types";
 
-const WomenInTechPageLayout = ({ events }) => {
+const WomenInTechPageLayout = ({ talks, competitions }) => {
   return (
     <div className="bg-background ShadowLarge">
       <div className="font-playfair px-8 pt-8 ">
@@ -14,7 +14,7 @@ const WomenInTechPageLayout = ({ events }) => {
         </p>
       </div>
       <Tabs>
-        <TabList className="flex md:gap-5 my-3">
+        <TabList className="flex px-8 md:gap-5 my-3">
           <Tab
             className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
             selectedClassName="active-tab"
@@ -28,17 +28,17 @@ const WomenInTechPageLayout = ({ events }) => {
             Competitions
           </Tab>
         </TabList>
-        <div className="BoxShadow mx-2 my-2 px-3 py-4 pb-12">
+        {/* <div className="BoxShadow mx-2 my-2 px-3 py-4 pb-12"> */}
           <TabPanel>
             <div className="px-10 flex flex-wrap justify-center gap-8 pt-20 pb-10 relative ">
-              {events.map((item, index) => (
+              {talks.map((item, index) => (
                 <EventCard
                   key={index}
                   title={item["Event Name"]}
                   time={item["Start Time"] + " - " + item["End Time"]}
                   venue={item["Venue"]}
                   image={`/events/${item["Card Image"]}`}
-                  url={`${index}`}
+                  url={`/events/talks-and-workshops/${item.originalIndex}`}
                 />
               ))}
             </div>
@@ -46,7 +46,7 @@ const WomenInTechPageLayout = ({ events }) => {
 
           <TabPanel>
             <div className="px-10 flex flex-wrap justify-center gap-8 pt-20 pb-10 relative ">
-              {events.map((item, index) => (
+              {competitions.map((item, index) => (
                 <EventCard
                   key={index}
                   title={item["Event Name"]}
@@ -58,7 +58,7 @@ const WomenInTechPageLayout = ({ events }) => {
               ))}
             </div>
           </TabPanel>
-        </div>
+        {/* </div> */}
       </Tabs>
 
     </div>
