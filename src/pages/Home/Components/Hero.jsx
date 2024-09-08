@@ -122,6 +122,12 @@ function Hero() {
           {scrambledText}
         </p>
 
+        <p 
+          className="text-center text-2xl ss:text-3xl sm:text-4xl md:text-5xl mt-4 text-white font-figtree font-bold overflow-visible textShadow-md"
+        >
+          Greener Innovations
+        </p>
+
         <div className="font-kodeMono mt-6 md:mt-10 flex justify-center">
           <div className="w-full min-w-150 mt-7 px-12 lg:px-40 flex flex-wrap gap-6 justify-between text-white font-bold overflow-hidden">
             <div data-aos="fade-down" className="text-center overflow-visible">
