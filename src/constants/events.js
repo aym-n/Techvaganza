@@ -1,20 +1,20 @@
 export const EventCategoryList = [
   {
     id: 1,
-    title: "Visual Arts",
-    url: "visual-arts",
+    title: "Competitions",
+    url: "competitions",
     img: "events/photography.jpg",
   },
   {
     id: 2,
-    title: "Performing Arts",
-    url: "performing-arts",
+    title: "Talks and Workshops",
+    url: "talks-and-workshops",
     img: "events/dance.jpg",
   },
   {
     id: 3,
-    title: "Musical Arts",
-    url: "muzical-arts",
+    title: "Performances",
+    url: "performances",
     img: "events/music.jpg",
   },
   {
@@ -25,8 +25,8 @@ export const EventCategoryList = [
   },
   {
     id: 5,
-    title: "Others",
-    url: "others",
+    title: "Women In Tech",
+    url: "women-in-tech",
     img: "events/other.jpg",
   },
 ];

@@ -1,9 +1,8 @@
 import PageLayout from "../../../Components/PageLayout";
-import TabView from "./Tabview";
 import PropTypes from "prop-types";
 
 
-export default function EventDetailsLayout({data}) {
+export default function PerformingEventsDetailsLayout({data}) {
   return (
     <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
@@ -43,16 +42,11 @@ export default function EventDetailsLayout({data}) {
               </li>
           </ul>
         </div>
-
-        {/* Tabs */}
-        <div>
-          <TabView data={data} />
-        </div>
       </div>
     </PageLayout>
   );
 }
 
-// EventDetailsLayout.propTypes = {  
-//   data: PropTypes.object.isRequired,
-// };
+EventDetailsLayout.propTypes = {  
+  data: PropTypes.object.isRequired,
+};

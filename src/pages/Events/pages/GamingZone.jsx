@@ -1,5 +1,5 @@
 import PageLayout from "../../../Components/PageLayout";
-import { gamingEvents } from "../../../constants/events";
+import { gamingEvents } from "../../../constants/eventDetails-final";
 import EventsPageLayout from "../components/EventPageLayout";
 
 export default function GamingZone(){
