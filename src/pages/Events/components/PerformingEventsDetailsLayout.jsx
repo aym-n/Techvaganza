@@ -47,6 +47,6 @@ export default function PerformingEventsDetailsLayout({data}) {
   );
 }
 
-EventDetailsLayout.propTypes = {  
+PerformingEventsDetailsLayout.propTypes = {  
   data: PropTypes.object.isRequired,
 };

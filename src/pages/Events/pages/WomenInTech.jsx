@@ -1,10 +1,10 @@
 import PageLayout from "../../../Components/PageLayout";
 import { OtherEvents } from "../../../constants/events";
-import EventsPageLayout from "../components/EventPageLayout";
+import WomenInTechPageLayout from "../components/WomenInTechPageLayout";
 export default function WomenInTech(){
     return(
         <PageLayout title={"Women In Tech"} imgUrl={'/BattleOfBands.png'}>
-          <EventsPageLayout events={OtherEvents} /> 
+          <WomenInTechPageLayout events={OtherEvents} /> 
         </PageLayout>
     )
 }

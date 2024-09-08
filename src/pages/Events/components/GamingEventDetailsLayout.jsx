@@ -65,6 +65,6 @@ export default function GamingEventDetailsLayout({data}) {
   );
 }
 
-EventDetailsLayout.propTypes = {  
+GamingEventDetailsLayout.propTypes = {  
   data: PropTypes.object.isRequired,
 };

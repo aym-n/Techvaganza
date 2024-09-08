@@ -163,15 +163,6 @@ export var MuzicalEvents = [
   },
 ];
 
-export var gamingEvents = [
-  {
-    event: "Gaming Zone",
-    time: "9:00 am, Both Days",
-    venue: "PF",
-    image: "",
-    url: "",
-  },
-];
 
 export var OtherEvents = [
   {
