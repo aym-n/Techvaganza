@@ -1,7 +1,6 @@
 import EventDetailsLayout from "../../components/EventDatailsLayout";
 import { useParams } from "react-router-dom";
 import {events} from "../../../../constants/eventDetails-final";
-import { useEffect } from "react";
 export default function EventDetails() {
   const { index } = useParams();
   const eventIndex = parseInt(index, 10); // Convert index to integer
