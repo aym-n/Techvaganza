@@ -1,9 +1,9 @@
 import PageLayout from "../../../Components/PageLayout";
-import TabView from "./Tabview";
 import PropTypes from "prop-types";
 
 
-export default function EventDetailsLayout({data}) {
+export default function TalksAndWorkshopDetailsLayout({data}) {
+    // const rules = data["Rules"].split(";").map(rule => rule.trim()).filter(rule => rule !== "");
   return (
     <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
@@ -44,15 +44,19 @@ export default function EventDetailsLayout({data}) {
           </ul>
         </div>
 
-        {/* Tabs */}
-        <div>
-          <TabView data={data} />
+        <div className="BoxShadow mx-2 my-2 px-3 py-2 pb-12">
+        <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 leading-normal">About The Speakers</h1>
+            {/* <div className="space-y-5 mx-4 font-semibold font-kodeMono">
+              {rules.map((rule, index) => (
+                <p key={index}>{rule}</p>
+              ))}
+            </div> */}
         </div>
       </div>
     </PageLayout>
   );
 }
 
-// EventDetailsLayout.propTypes = {  
-//   data: PropTypes.object.isRequired,
-// };
+TalksAndWorkshopDetailsLayout.propTypes = {  
+  data: PropTypes.object.isRequired,
+};

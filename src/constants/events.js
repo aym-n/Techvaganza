@@ -1,32 +1,32 @@
 export const EventCategoryList = [
   {
     id: 1,
-    title: "Visual Arts",
-    url: "visual-arts",
-    img: "events/photography.jpg",
+    title: "Competitions",
+    url: "competitions",
+    img: "events/other.jpg",
   },
   {
     id: 2,
-    title: "Performing Arts",
-    url: "performing-arts",
-    img: "events/dance.jpg",
+    title: "Talks and Workshops",
+    url: "talks-and-workshops",
+    img: "events/other.jpg",
   },
   {
     id: 3,
-    title: "Musical Arts",
-    url: "muzical-arts",
-    img: "events/music.jpg",
+    title: "Performances",
+    url: "performances",
+    img: "events/other.jpg",
   },
   {
     id: 4,
     title: "Game Zone",
     url: "gaming-zone",
-    img: "events/gaming.jpg",
+    img: "events/other.jpg",
   },
   {
     id: 5,
-    title: "Others",
-    url: "others",
+    title: "Women In Tech",
+    url: "women-in-tech",
     img: "events/other.jpg",
   },
 ];
@@ -163,15 +163,6 @@ export var MuzicalEvents = [
   },
 ];
 
-export var gamingEvents = [
-  {
-    event: "Gaming Zone",
-    time: "9:00 am, Both Days",
-    venue: "PF",
-    image: "",
-    url: "",
-  },
-];
 
 export var OtherEvents = [
   {

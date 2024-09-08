@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 
 export default function EventCard({title, time, venue, url, image}) {
-  console.log(image);
+  console.log(title, time, venue, url, image)
   return (
     <>
       <Link to={url} className="rounded-xl bg-white flex flex-col items-center BoxShadow w-[250px] md:w-[310px] px-4 py-4 mb-6">
@@ -24,10 +24,10 @@ export default function EventCard({title, time, venue, url, image}) {
   );
 }
 
-EventCard.propTypes = {
-  title: PropTypes.string.isRequired,
-  time: PropTypes.string.isRequired,
-  venue: PropTypes.string.isRequired,
-  url: PropTypes.string.isRequired,
-  image: PropTypes.string,
-};
+// EventCard.propTypes = {
+//   title: PropTypes.string.isRequired,
+//   time: PropTypes.string.isRequired,
+//   venue: PropTypes.string.isRequired,
+//   url: PropTypes.string.isRequired,
+//   image: PropTypes.string,
+// };
