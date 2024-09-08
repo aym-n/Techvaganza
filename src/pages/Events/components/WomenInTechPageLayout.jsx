@@ -9,7 +9,7 @@ const WomenInTechPageLayout = ({ talks, competitions }) => {
         <p className="text-base text-black text-opacity-80 font-kodeMono">
           Explore
         </p>
-        <p className="text-primary font-extrabold font-figtree text-5xl leading-normal">
+        <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-5xl leading-normal">
           Event List
         </p>
       </div>
@@ -53,7 +53,7 @@ const WomenInTechPageLayout = ({ talks, competitions }) => {
                   time={item["Start Time"] + " - " + item["End Time"]}
                   venue={item["Venue"]}
                   image={`/events/${item["Card Image"]}`}
-                  url={`${index}`}
+                  url={`/events/competitions/${item.originalIndex}`}
                 />
               ))}
             </div>

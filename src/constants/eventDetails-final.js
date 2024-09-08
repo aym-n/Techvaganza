@@ -516,25 +516,108 @@ export const competitions = [
     "Venue": "Campus Roads",
     "Card Image": "SoapboxCarRacing.png"
   },
-]
-
-export const performingEvents = [
   {
-    "Event Name": "programble LED light show",
-    "Description": "Programmable LED light shows are visually captivating displays that utilize LED lights controlled and synchronized to create dynamic patterns, animations, or sequences. These shows often feature complex and intricate designs that come to life through the manipulation of light, color, and movement. The ability to program the LED lights allows for the creation of a wide range of visual effects, from simple, static patterns to elaborate, multi-dimensional animations. This technology is frequently used in a variety of settings, including concerts, festivals, and public spaces, to enhance the atmosphere and create a visually engaging experience.",
+    "Event Name": "Reel Heroines: Women Who Lead the Future",
+    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers.Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
     "Rules": "",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": "9149494702",
     "Judging Criteria": "",
     "Start Time": "",
     "End Time": "",
     "Day": "",
+    "isWomen" : true,
     "Venue": "",
-    "Card Image": "led-show.jpg",
-    "Cover Image": "led-show.jpg"
+    // "Card Image" : ""
+  },
+  {
+    "Event Name": "TechQuest: Trailblazing Women Edition",
+    "Description": "The Technology-Themed Scavenger Hunt is designed to engage young girls in an interactive and educational experience that highlights various aspects of technology and STEM (Science, Technology, Engineering, and Mathematics). The event aims to spark curiosity, foster problem-solving skills, and encourage collaboration while introducing participants to exciting tech concepts and career paths.The Women in tech scavenger hunt promises to be an enriching and exciting event for all the participants. We look forward to meeting highly competitive teams that are ready to compete, learn and showcase their technical skills and teamwork.",
+    "Rules": "The scavenger hunt is open to all female students of any institute.The participants have to find the alphabets hidden in the campus using the given clue cards and then join them to make a technical word, but the word will have anagrams, so you have to make the right one.Only the first 6 teams to register will be eligible for the participation in event.\n\n\nNumber of teams: 6\n\nMembers in each team: 3\n\nAll the teams will be provided with clue cards. The cards will include various riddles based on technology, women in tech and main theme of techvaganza,2024 . A map will also be provided to the students for reference of places across the campus. The clue cards will have hints of location where each letter of the final word will be kept at. Each team has to guess the location using the hints and reach there to find letters. On each location, volunteers will be present to regulate and mark the teams which have found the particular letter. The team that guesses the correct word and reaches the final location, after check-marking each of the prior locations will be declared as the winner of the scavenger hunt.",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The team that reaches the final checkpoint,after check-marking all the previous checkpoints and completes the corret word first will be declared as the winner of the scavanger hunt.",
+    "Start Time": "10:00 a.m.",
+    "End Time": "3:00 p.m.",
+    "Day": 1,
+    "isWomen" : true,
+    "Venue": "Campus"
+  },
+  {
+    "Event Name": "SheSpeaks: Debating the Future of Women in Tech",
+    "Description": "The \"Women in the Workplace\" debate is an engaging and insightful event tailored for young girls interested in exploring gender dynamics in professional environments. This debate will feature influential speakers discussing key issues such as gender equality, leadership opportunities, and the challenges women face in various industries. Attendees will gain a deeper understanding of the evolving role of women in the workplace, learn about successful strategies for overcoming obstacles, and explore ways to advocate for a more inclusive work environment. Join us for an inspiring discussion that will empower and motivate you to shape your own career path with confidence and knowledge.Don’t miss this opportunity to engage in a thought-provoking dialogue on shaping the future of women in the workplace. Hope to see you soon!",
+    "Rules": "The debate is open to all female students of any institute.Only the first 8 teams to register will be eligible for the participation in event.The debate is a BRITISH PARLIAMENTARY DEBATE. The topics of the debate will be provided to the teams 30 minutes before starting of debate.Number of teams: 8\nMembers in each team: 4 \n\nEach team will have :\nA ) Opening House: It includes first two speakers from the team i.e. Leader and Deputy Leader. Their Task is to lay down the motion and perspectives by defining the topic. Perspectives they need to specify very clearly for E.g. – Political, Social, Legal, Technological, Cultural, Economical etc. The Leader has to define the topic and lay down perspectives. Deputy Leader can lay down more perspectives and also has to start with the case building of the perspectives laid by the leader by giving examples. \n\nb) Closing House : It includes the last two speakers from the team i.e. the Member and Whip. Members task is to do case building of the perspectives laid down by first two speakers. Here he cannot bring any new perspective to the house. Whips task is to only give rebuttals on what the opposite team has said.\n\n\n\nIn the British Parliamentary Debating format there are two (2) teams in each round (match) – one representing the Government, and the other the Opposition. Each team consists of four members with an allotted time up to Five (5) minutes given to each speaker (Timings will depend upon the round). The Government supports the motion (the given topic or subject being debated), and the Opposition opposes it. As is graphically represented below, the teams are also divided into the Opening and Closing halves of the 'House' (an imaginary House of Parliament akin to the British House of Common in which the debate tasks place).\n\nROLES OF GOVERNMENT/PROPOSITION AND OPPOSITION\n Government/Proposition In supporting the motion, the Government/Proposition carries out the following functions: Defining the motion; \nConstructing a positive case in favour of the motion;  Providing substantive materials and arguments in support of the case;  Responding to any challenges made to the case made by the Opposition.\n\n\nOpposition In negating/opposing the motion, the Opposition carries out the following functions:  Responding to the Government's definition;  Constructing a case in opposition to the motion;  Providing substantive material and arguments in support of the opposition case;  Responding to the arguments delivered by the Government.\n\n\n\nSPEAKER ROLES AND SPEECH SPECIFIC PURPOSES \nEach speaker has a role and each speech has a purpose. The descriptions of speaker roles and speech purposes listed are suggestive and are not exhaustive or exclusive.\n Prime Minister: The primary role of First Proposition team, initiated in this speech, is to establish the foundation for a meaningful debate on the motion. The Prime Minister’s responsibilities may include some or all of the following: 1) to offer a reasonable interpretation of the motion; 2) to present a case supporting that interpretation; 3) to employ other strategies deemed necessary in advancing the Government's stance.\n\n\nLeader of the Opposition:\n The primary roles of the First Opposition team, initiated in this speech, are to confront the First Government’s case and to establish the First Opposition’s strategy for opposing this case. The Leader of the Opposition’s responsibilities may include some or all of the following: 1) to directly or indirectly refute part or all of the government's case; 2) to make at least one argument that demonstrates why the First Opposition team opposes the motion as interpreted by the Prime Minister; 3) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\nThe Leader of the Opposition may also challenge the interpretation of the government's case if it is unreasonable, that is, if it completely misinterprets the motion or severely inhibits meaningful debate.\n\n\nDeputy Prime Minister: The Deputy Prime Minister’s responsibilities may include some or all of the following: 1) to reestablish the First Proposition’s case by confronting any refutation presented by the Leader of the Opposition; 2) to refute some or all of the arguments presented by the Leader of the Opposition; 3) to further develop the case presented by the Prime Minister; 4) to employ other strategies deemed necessary in advancing the Government's stance.\n\n            Deputy Leader of the Opposition :  The Deputy Leader of the Opposition’s responsibilities may     include some or all of the following: 1) to continue refutation initiated by the Leader of the Opposition; 2) to reestablish the Leader of Opposition’s arguments against the motion; 3) to initiate a new argument against the motion as interpreted by the First Proposition team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\n             Member of the Government: The primary roles of the Second Proposition team, initiated in this speech, are to support the First Proposition team while simultaneously moving the proposition position in a new and positive direction. The responsibilities of the Member of the Government may include some or all of the following: 1) to briefly support the case developed by the First Proposition team; 2) to introduce a different argument, sometimes called a “case extension” which is consistent with yet different from the case introduced by the First Proposition team; 3) to employ other strategies deemed necessary in advancing the Government's stance.\n\n\n    Member of the Opposition: The primary roles of the Second Opposition team, initiated in this speech, are to support the First Opposition team while simultaneously moving the opposition position in a new and positive direction. The responsibilities of the Member of the Opposition may include some or all of the following: 1) to briefly support one or more arguments introduced by the First Opposition team; 2) to introduce direct and/or indirect refutation to the case extension presented by the Member of Government; 3) to introduce some new argument, compatible with, but different from that of the First Opposition Team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\n\nGovernment Whip: The responsibilities of the Government Whip may include some or all of the following: 1) to support any new arguments introduced by the Member of the Government; 2) to reply to any new arguments introduced by the Member of the Opposition; 3) to summarize the debate from the perspective of the Proposition Teams, especially from that of the Second Proposition team; 4) to employ other strategies deemed necessary in advancing the Government's stance. The Government Whip should not introduce new arguments into the debate.\n\n\nOpposition Whip: The responsibilities of the Opposition Whip may include some or all of the following: 1) to support any new arguments introduced by the Member of the Opposition; 2) to reply to any new arguments introduced by the Member of the Government; 3) to summarize the debate from the perspective of the Proposition Teams, especially from that of the Second Opposition team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\nPoint of Order - Unacceptable in the Parliament House • Slang\n • Defamatory Language \n• Aggressive behavior\n • Unparliamentary language like “Underdeveloped countries” \n• Pointing fingers \n• Not addressing the member by right designation • Smirking, mockery, or making mirth of house proceedings, etc.",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The judgement of the debate will keep the following points in consideration : \n \nContent and style: Judges  will evaluate the speaker's argumentation and refutation, as well as how they present their content. \n \nOrganization and delivery: Judges will  look for whether the speaker presents their case in a clear and persuasive manner. \n \nRelevance: Judges will consider whether the arguments presented are relevant to the topic. \n \nSupport: Judges will look for whether the arguments are well supported. \n \nResponsibilities: Judges will consider whether the teams or speakers met their responsibilities in the debate.",
+    "Start Time": "10:00 a.m.",
+    "End Time": "12:00 noon",
+    "Day": 2,
+    "isWomen" : true,
+    "Venue": "L4"
+  },
+  {
+    "Event Name": "Ink Women's Voice in Technology",
+    "Description": "Essay Writing Competition focused on the theme \"Women in Tech,\" invites students to explore and articulate the significant roles, achievements, and challenges faced by women in the technology industry. This competition provides a platform for students to engage with important issues such as gender diversity, innovation, and the impact of women leaders in tech fields. Participants are encouraged to delve into topics like the history of women in technology, current trends, and future prospects, while showcasing their analytical skills and creativity. Essays should reflect thoughtful research, originality, and a clear understanding of the subject matter.\nThe competition is going to be an enriching experience for all of you. It will be a confluence of sharing, expressing and learning. We hope to read your amazing thoughts through your insightful essays. Looking forward to meet you soon!",
+    "Rules": "Only female students are allowed to participate . We will have the chits of topics ready which will be placed in a box. Each participant will take out one chit and write an essay on the topic which they get.The essays need to be innovative and must reflect the clarity of thoughts of the candidate.The writers of the best 3 essays will be awarded with prizes",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The essays will be judged on the basis of :\n      Creativity\nExpression of the topic \n        Understanding of the theme\n        Clarity of ideas",
+    "Start Time": "10:00 a.m.",
+    "End Time": "11:30 a.m.",
+    "Day": 2,
+    "isWomen" : true,
+    "Venue": "L5"
+  },
+  {
+    "Event Name": "Vihang Band",
+    "Description": "Singing performance from NIT Srinagar Student band.",
+    "Rules": "",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Reeba Amin",
+    "Lead Contact Number": "6006993971",
+    "Judging Criteria": "",
+    "Start Time": "18:00:",
+    "End Time": "19:00",
+    "Day": 1,
+    "isWomen" : true,
+    "Venue": "Main Stage",
+    // "Card Image" : ""
+  },
+]
+
+export const performingEvents = [
+  {
+    "Event Name": "Vihang Band",
+    "Description": "Singing performance from NIT Srinagar Student band.",
+    "Rules": "",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Reeba Amin",
+    "Lead Contact Number": "6006993971",
+    "Judging Criteria": "",
+    "Start Time": "18:00:",
+    "End Time": "19:00",
+    "Day": 1,
+    "isWomen" : true,
+    "Venue": "Main Stage",
+    // "Card Image" : ""
+
   },
 ]
 
