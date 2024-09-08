@@ -1,4 +1,4 @@
-export const events = [
+export const competitions = [
   {
     "Event Name": "AutoCAD",
     "Description": "In this exciting event, participants will be provided with a specific design challenge or project that they must complete using AutoCAD software. The competition guidelines emphasize the participants' ability to create precise and detailed technical drawings, employ appropriate dimensioning techniques and effectively utilize the various tools and features offered by AutoCAD.",
@@ -13,8 +13,7 @@ export const events = [
     "End Time": "13:00",
     "Day": 2,
     "Venue": "LH2",
-    "Card Image": "autocad 2.jpg",
-    "Cover Image": "autocad-1.jpg"
+    "Card Image": "AutoCad.png",
   },
   {
     "Event Name": "Remote control car racing",
@@ -30,8 +29,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 1,
     "Venue": "Open ground near chinar or near directors office",
-    "Card Image": "rc.jpg",
-    "Cover Image": "rc.jpg"
+    "Card Image": "RemoteControlledCar.png",
   },
   {
     "Event Name": "Catapult",
@@ -47,8 +45,7 @@ export const events = [
     "End Time": "16:30",
     "Day": 2,
     "Venue": "NIT Srinagar main ground",
-    "Card Image": "catapult competition.png",
-    "Cover Image": "catapult.jpeg"
+    "Card Image": "Catapult.png",
   },
   {
     "Event Name": "hydraulic lift",
@@ -64,8 +61,7 @@ export const events = [
     "End Time": "15:30",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "hydraulic lift.jpg",
-    "Cover Image": "hydraulic-lift-1.jpg"
+    "Card Image": "HydralicLift.png",
   },
   {
     "Event Name": "Vernacular BuildingStyle and Earthquake Prone Areas with specialReference to Kashmir",
@@ -81,8 +77,7 @@ export const events = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "kashmir.jpg",
-    "Cover Image": "kashmir.jpg"
+    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
   },
   {
     "Event Name": "Bombsquad",
@@ -98,8 +93,7 @@ export const events = [
     "End Time": "11:30",
     "Day": 1,
     "Venue": "Activity Center",
-    "Card Image": "bombsquad.webp",
-    "Cover Image": "bombsquad.jpg"
+    "Card Image": "BombSqUAD.png",
   },
   {
     "Event Name": "STRUCTURE BATTLES(Earthquake resistant building)",
@@ -115,8 +109,7 @@ export const events = [
     "End Time": "13:30",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "earthquake in kashmir 2.jpg",
-    "Cover Image": "earthquake-in-kashmir.jpg"
+    "Card Image": "Structure Battles.png",
   },
 
   {
@@ -133,8 +126,7 @@ export const events = [
     "End Time": "17:00",
     "Day": 2,
     "Venue": "LH-2",
-    "Card Image": "typing competition.jpg",
-    "Cover Image": "typing-competition2.jpg"
+    "Card Image": "TypingCompetition.png",
   },
   {
     "Event Name": "Line Follower",
@@ -150,7 +142,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 2,
     "Venue": "Common hall",
-    "Card Image": "line-following.jpg",
+    "Card Image": "LineFollower.png",
     "Cover Image": "line-following.jpg"
   },
 
@@ -168,8 +160,7 @@ export const events = [
     "End Time": "03:30",
     "Day": 1,
     "Venue": "Hi Tech 3",
-    "Card Image": "ecobuild 1.jpg",
-    "Cover Image": "ecobuild.jpg"
+    "Card Image": "Ecobuild Challenge .png",
   },
   {
     "Event Name": "art competition",
@@ -185,8 +176,7 @@ export const events = [
     "End Time": "3.00 pm",
     "Day": 2,
     "Venue": "campus parks",
-    "Card Image": "art competition 1.jpg",
-    "Cover Image": "art-competition.jpg"
+    "Card Image": "ArtCompetition.png",
   },
   {
     "Event Name": "TECHNICAL EXHIBITION",
@@ -202,8 +192,7 @@ export const events = [
     "End Time": "2.00 pm",
     "Day": 1,
     "Venue": "library park near director's office",
-    "Card Image": "technical-exhibition.jpg",
-    "Cover Image": "technical-exhibition.jpg"
+    "Card Image": "TechnicalExhibtion.png",
   },
   {
     "Event Name": "typing competetion",
@@ -219,8 +208,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "typing competition.jpg",
-    "Cover Image": "typing-competition2.jpg"
+    "Card Image": "TypingCompetition.png",
   },
   {
     "Event Name": "Pressure rocket Battle",
@@ -236,8 +224,7 @@ export const events = [
     "End Time": "11:00",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "air pressure rockets 2.jpg",
-    "Cover Image": "air-pressure-rockets-1.jpg"
+    "Card Image": "Rocketbattle.png",
   },
   {
     "Event Name": "Rapid fire Technical Quiz",
@@ -253,8 +240,7 @@ export const events = [
     "End Time": "16:00",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "techical-rapid-fire-quiz.png",
-    "Cover Image": "techical-rapid-fire-quiz.png"
+    "Card Image": "RapidFire.png",
   },
   {
     "Event Name": "Symbola",
@@ -270,8 +256,7 @@ export const events = [
     "End Time": "15:30",
     "Day": 1,
     "Venue": "",
-    "Card Image": "symbola 3.jpeg",
-    "Cover Image": "symbola-2.jpeg"
+    "Card Image": "Symbola.png",
   },
   {
     "Event Name": "Science Experiments",
@@ -287,8 +272,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image": "science experiment 1.jpg",
-    "Cover Image": "science-experiment.jpg"
+    "Card Image": "Chemical Reaction Race.png",
   },
   {
     "Event Name": "Best Out Of Waste",
@@ -304,8 +288,7 @@ export const events = [
     "End Time": "18:00",
     "Day": 2,
     "Venue": "Common Hall and Nit streets .",
-    "Card Image": "best of waste.png",
-    "Cover Image": "best-of-waste.jpg"
+    "Card Image": "Bestoutofwaste.png",
   },
   {
     "Event Name": "Robo Soccer Competition",
@@ -321,8 +304,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "robo-xoc.jpg",
-    "Cover Image": "robo-xoc.jpg"
+    "Card Image": "RoboSoccer.png",
   },
   {
     "Event Name": "Robo War Competition",
@@ -338,8 +320,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "robowar.jpg",
-    "Cover Image": "robowar.jpg"
+    "Card Image": "ROBOWAR.png",
   },
   {
     "Event Name": "Use the AI",
@@ -355,8 +336,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "ai.jpg",
-    "Cover Image": "ai.jpg"
+    "Card Image": "UsetheAI.png",
   },
   {
     "Event Name": "Code Mania",
@@ -372,8 +352,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "codemania.jpg",
-    "Cover Image": "codemania.jpg"
+    "Card Image": "Code Mania.png",
   },
   {
     "Event Name": "Graphic design competetion",
@@ -389,8 +368,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "gd.jpg",
-    "Cover Image": "gd.jpg"
+    "Card Image": "GraphicDesignCompetition.png",
   },
   {
     "Event Name": "Technical Quiz",
@@ -406,8 +384,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",    
-    "Card Image": "techical-rapid-fire-quiz.png",
-    "Cover Image": "techical-rapid-fire-quiz.png"
+    "Card Image": "TechnicalQuiz.png",
   },
   {
     "Event Name": "Web Design Competition",
@@ -423,8 +400,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "webd.jpg",
-    "Cover Image": "webd.jpg"
+    "Card Image": "WebDesignCompetition.png",
   },
   {
     "Event Name": "the cheat day(open book competition)",
@@ -441,7 +417,6 @@ export const events = [
     "Day": "",
     "Venue": "",
     "Card Image": "open-book.jpg",
-    "Cover Image": "open-book.jpg"
   },
   {
     "Event Name": "programble LED light show",
@@ -457,8 +432,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "led-show.jpg",
-    "Cover Image": "led-show.jpg"
+    "Card Image": "ProgrammableLEDLIGHT.png",
   },
   {
     "Event Name": "Game Zone",
@@ -491,8 +465,7 @@ export const events = [
     "End Time": "October 11, 2024, 1:00 PM IST (result declaration)",
     "Day": "Multiple days event",
     "Venue": "Online for idea submission; Conference venue not specified (may be online or offline)",
-    "Card Image": "startup.jpg",
-    "Cover Image": "startup.jpg"
+    "Card Image": "STARTUP.png",
   }
 ]
 
@@ -530,7 +503,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "CS Lab 2,3"
+      "Venue": "CS Lab 2,3",
+      "Card Image" : "valoarant.png"
     },
     {
       "Event Name": "BGMI",
@@ -544,7 +518,8 @@ export const gamezone = [
       "Start Time": "11:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 2"
+      "Venue": "PF 2",
+      "Card Image" : "BGMI.png"
     },
     {
       "Event Name": "Free Fire",
@@ -558,7 +533,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "11:00",
       "Day": 0,
-      "Venue": "PF 3"
+      "Venue": "PF 3",
+      "Card Image" : "FreeFire.png"
     },
     {
       "Event Name": "Tekken 8",
@@ -572,7 +548,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 4"
+      "Venue": "PF 4",
+      "Card Image" : "Tekken8.png"
     },
     {
       "Event Name": "Mortal Kombat",
@@ -586,7 +563,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 5"
+      "Venue": "PF 5",
+      "Card Image" : "MortalCombat.png"
     },
     {
       "Event Name": "WWE 2K23",
@@ -600,7 +578,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 7"
+      "Venue": "PF 7",
+      "Card Image" : "2k23.png"
     },
     {
       "Event Name": "FIFA",
@@ -614,7 +593,8 @@ export const gamezone = [
       "Start Time": "11:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 6"
+      "Venue": "PF 6",
+      "Card Image" : "Fifa.png"
     },
     {
       "Event Name": "E FOOTBALL",
@@ -628,7 +608,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "11:00",
       "Day": 0,
-      "Venue": "PF 7"
+      "Venue": "PF 7",
+      "Card Image" : "E-football.png"
     },
     {
       "Event Name": "Basket the balls",
@@ -642,7 +623,8 @@ export const gamezone = [
       "Start Time": "09:30",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Basket the balls.png"
     },
     {
       "Event Name": "Robo soccer",
@@ -656,7 +638,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "RoboSoccer.png"
     },
     {
       "Event Name": "Blow the glass tower",
@@ -670,7 +653,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Blow the glass tower.png"
     },
     {
       "Event Name": "Gun shoot balloon",
@@ -684,7 +668,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Gun shoot balloon.png"
     },
     {
       "Event Name": "Ping pong ball",
@@ -698,7 +683,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "PingPong.png"
     },
     {
       "Event Name": "Bayblades",
@@ -712,7 +698,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Bayblade.png"
     },
     {
       "Event Name": "Pass the wire",
@@ -726,7 +713,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Pass the wire.png"
     },
     {
       "Event Name": "Blow the candle",
@@ -740,7 +728,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Blowthecandles.png"
     },
     {
       "Event Name": "Bow and arrow",
@@ -754,7 +743,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Bowand arrow.png"
     },
     {
       "Event Name": "Arm wrestling",
@@ -768,7 +758,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "ArmWrestling .png"
     },
     {
       "Event Name": "Pull ups",
@@ -782,7 +773,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Pullpup.png"
     },
     {
       "Event Name": "Dart throw",
@@ -796,7 +788,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Darts.png"
     },
     {
       "Event Name": "Ring toss",
@@ -810,7 +803,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "tossthering.png"
     }
 ]
 
@@ -892,10 +886,10 @@ export const talks = [
 
 
 // Filter the events based on the 'Day' field
-export const day1Events = events
+export const day1Events = competitions
   .map((event, index) => ({ ...event, index })) // Add index to each event
   .filter(event => event.Day === 1 || event.Day === "");
 
-export const day2Events = events
+export const day2Events = competitions
   .map((event, index) => ({ ...event, index })) // Add index to each event
   .filter(event => event.Day === 2 || event.Day === "");

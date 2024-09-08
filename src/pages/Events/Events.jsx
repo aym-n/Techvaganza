@@ -6,7 +6,7 @@ import Performances from "./pages/Performances";
 import GamingZone from "./pages/GamingZone";
 import WomenInTech from "./pages/WomenInTech";
 import EventDetails from "./pages/Detailing/EventDetails";
-import AllEvents from "./pages/AllEvents";
+// import AllEvents from "./pages/AllEvents";
 import { useEffect } from "react";
 import ScrollToTop from "../../Components/ScrollToTop";
 import GameZoneDetails from "./pages/Detailing/GameZoneDetails";
