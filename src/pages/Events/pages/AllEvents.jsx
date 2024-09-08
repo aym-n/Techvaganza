@@ -8,7 +8,7 @@ export default function AllEvents() {
     window.scrollTo(0, 0); // Scroll to the top
   }, []);
   return (
-    <PageLayout title={"Events"} imgUrl={"/events/events.jpg"}>
+    <PageLayout title={"Events"} imgUrl={"/events.jpg"}>
       <EventsPageLayout events={events} /> 
     </PageLayout>
   );

@@ -5,7 +5,7 @@ import { teams } from "../../constants/contacts";
 
 export default function Contact() {
   return (
-    <PageLayout title={"Contact"} imgUrl={"/ambassador.png"}>
+    <PageLayout title={"Contact"} imgUrl={"/contact.jpg"}>
       <div>
         {Object.keys(teams).map((teamKey) => (
           <Section key={teamKey} teamname={teamKey} teamMembers={teams[teamKey]} len={teams[teamKey].length} />
