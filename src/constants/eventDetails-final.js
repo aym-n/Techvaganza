@@ -797,6 +797,74 @@ export const gamezone = [
 ]
 
 
+export const talks = [
+  {
+    "Event Name": "Leading With Vision Workshop",
+    "Description": "The Leadership Building Workshop in “Women in Tech” is designed to cultivate essential leadership skills among students, preparing them to take on future roles as innovators, team leaders, and decision-makers. This workshop focuses on developing qualities like effective communication, problem-solving, teamwork, and emotional intelligence, all of which are crucial for leading in both academic and professional settings. Only female participants are eligible for the workshop.\nEvent Format\n\n1. Session Overview\n\n•        Brief speech on the concept of leadership, its significance, and the objectives of the workshop.\n•        Highlight the importance of qualities such as decision-making, teamwork, and creative problem-solving.\n•        Encourage active participation and interaction, setting a lively and engaging tone for the workshop.\n\n2. \"What If\" Scenario Game \n•        Objective: Engage participants to think like leaders in real-life situations.\no        Key Takeaway: Emphasize leadership qualities like adaptability, decision-making, and managing diverse talents.\no        Awards: Participants with the most innovative and practical solutions will be recognized with prizes, fostering competitive yet constructive engagement.\n\n3. Survival Scenario Game \n•        Objective: Develop decision-making and prioritization skills crucial for leadership roles.\no        Key Takeaway: Stress the importance of situational awareness, resource management, and rational decision-making in leadership.\n4. Conclusion and Q&A \n•        Summarize key learnings from the games, reinforcing leadership traits developed during the workshop.\n•        Q&A Session: Open the floor to questions, allowing participants to clarify doubts, share experiences, or seek advice on leadership challenges.\n5. Prize distribution for the winners.",
+    "Description about Instructor / Speaker": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": 9149494702,
+    "Start Time": "",
+    "End Time": "",
+    "Day": "",
+    "Venue": ""
+  },
+  {
+    "Event Name": "Women in tech: breaking boundaries",
+    "Description": "The Technical Skill Building Workshop in “Women in Tech” aims to equip students with practical skills essential for the ever-evolving tech industry. This workshop provides an intensive learning experience designed to enhance participants' knowledge in emerging technologies, programming languages, and software tools.Only female participants are eligible for the workshop.\n\nEvent Format\n\n1.        The event will consist of 4 workshops.\n                  A) Web Development Workshop:\n•        Topics: Introduction to HTML, CSS, JavaScript, and frameworks like React.js.\n•        Interactive Session: Build a small web project live, followed by a Q&A.\n                   B) Robotics Workshop:\n•        Topics: Basics of robotics, components, and their applications in real-world scenarios.\n•        Interactive Session: Discuss the future of robotics, involving participant views and creative ideas.\n                   C) Cyber Security Workshop:\n•        Topics: Introduction to key cybersecurity concepts, encryption, and data protection.\n•        Interactive Session: Explore vulnerabilities through live demonstrations.\n                   D) LaTeX Workshop:\n•        Topics: Introduction to LaTeX, its use for academic and professional writing (e.g., research papers, theses).\n•        Hands-on Practice: Guide students in creating a simple document in LaTeX.",
+    "Description about Instructor / Speaker": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": 9149494702,
+    "Start Time": "",
+    "End Time": "",
+    "Day": "",
+    "Venue": ""
+  },
+  {
+    "Event Name": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
+    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
+    "Description about Instructor / Speaker": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Tanisha Khan",
+    "Lead Contact Number": 9149844814,
+    "Start Time": "10:00",
+    "End Time": "1:00 PM",
+    "Day": 1,
+    "Venue": "LH3"
+  },
+  {
+    "Event Name": "Tech Forward: Empowering Women in STEM",
+    "Description": "As part of “Women in Tech”, the Career Pathways in Tech Workshop is designed to guide students through the diverse and rapidly evolving landscape of the tech industry. This workshop aims to provide insights into various career opportunities, emerging trends, and essential skills that students need to thrive in the tech world.Only female participants are eligible for the workshop.\n\nEvent Format\n\n1. Introduction \n•        Welcome and brief overview of the workshop.\n•        Introduction of the speaker and any industry professionals present.\n•        Outline of the domains to be covered (Data Science, Data Analytics, Cyber Security, Full Stack Web Development).\n2. Exploring Career Domains in Technology \n•        Data Science and Analytics \n•        Explanation of how data science and analytics are shaping industries.\n•        Overview of the skills required and the different roles within this domain.\n•        Real-world applications and career opportunities.\n•        Cyber Security \n•        Introduction to the importance of cyber security in the digital world.\n•        Roles like ethical hacker, security analyst, and incident responder.\n•        Key skills and qualifications required.\n•        Full Stack Web Development \n•        Overview of front-end and back-end development.\n•        Career opportunities in web development, along with required skills and tools.\n•        The importance of building a portfolio in this field.\n3. Opportunities for Women in STEM \n•        Special focus on the growing opportunities for females in tech and the importance of gender diversity.\n•        How female students can be empowered to enter and thrive in STEM fields.\n•        Successful female role models in tech, highlighting their journeys and accomplishments.\n4. Interactive Segment with Industry Professionals \n•        A chance for students to hear insights from industry professionals.\n•        Discussion on current industry trends and future opportunities in tech.\n•        Encouraging students to actively participate in tech-related activities and competitions.\n5. Q&A Session \n•        Open the floor for students to ask the speaker and professionals any questions related to the workshop content or career pathways.\n•        Address specific queries on building a career in tech, overcoming challenges, and staying motivated.",
+    "Description about Instructor / Speaker": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": 9149494702,
+    "Start Time": "",
+    "End Time": "",
+    "Day": "",
+    "Venue": ""
+  },
+  {
+    "Event Name": "HerTech Talks: Insights from Women Innovators",
+    "Description": "Expert talk is an event wherein two very successful women from the STEM field will inspire and motivate attendees by showcasing how they have overcome challenges in their careers.Only female students are eligible for this expert talk.\n The event aims to celebrate their accomplishments and provide a platform for sharing valuable knowledge and experiences, and inspire attendees to pursue their own goals with confidence and determination. The event is to inspire and empower attendees by showcasing the achievements and insights of accomplished women. It aims to provide valuable knowledge and practical advice on personal and professional development, fostering confidence and skill-building. By sharing personal journeys and strategies for success, the event encourages attendees to pursue their own goals, build meaningful connections, and contribute to a supportive community of women striving for excellence. We look forward to your active participation in the event!",
+    "Description about Instructor / Speaker": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Start Time": "",
+    "End Time": "",
+    "Day": "",
+    "Venue": ""
+  }
+]
+
 
 
 
