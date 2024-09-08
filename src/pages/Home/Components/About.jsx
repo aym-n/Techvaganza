@@ -26,20 +26,7 @@ function About() {
         </div>
         <div>
           <p className='text-base sm:text-base md:text-base'>
-            The Annual Cultural Fest at the National Institute of Technology,
-            Srinagar, aptly named "Rang-e-Chinar," is a dazzling spectacle of
-            talent and creativity that leaves no stone unturned in showcasing
-            the vibrant spirit of our institution. "Rang-e-Chinar" is an
-            unparalleled celebration of the performing arts. The art
-            exhibitions and installations demonstrate the depth of creativity
-            among our students. Furthermore, the fest fosters a spirit of
-            inclusivity by hosting engaging workshops, thought-provoking
-            discussions, and even culinary experiences that reflect the
-            diversity of our nation. "Rang-e-Chinar" at NIT Srinagar is an
-            unmatched blend of art, culture, and innovation, making it an event
-            that leaves a lasting mark on the hearts and minds of all who
-            attend.
-          </p>
+          Techvaganza, the Annual Technical Fest at the National Institute of Technology, Srinagar, is an electrifying celebration of innovation that transforms our campus into a buzzing hub of technological excitement. This year's theme, "Greener Innovations," infuses every aspect of the fest with an eco-conscious spirit. The heart of Techvaganza beats with intense hackathons, where teams race against the clock to develop sustainable solutions for real-world problems. The startup pitch competition gives budding entrepreneurs a platform to showcase their green business ideas, with potential investors in the audience. Throughout the event, a wide array of competitions challenges participants' technical skills and creativity, from coding marathons to robotics face-offs, all with an environmental twist. The highlight of Techvaganza is undoubtedly the breathtaking drone show, painting the night sky with dazzling formations that tell the story of a greener tomorrow. With its perfect blend of competition, innovation, and spectacle, Techvaganza at NIT Srinagar isn't just a fest – it's a glimpse into a more sustainable future, powered by the bright minds of tomorrow's tech leaders.</p>
         </div>
       </div>
     </div>
