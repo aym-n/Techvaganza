@@ -38,7 +38,7 @@ const Card = ({ event, index }) => {
         }`}
       >
         <div data-aos={index % 2 === 0 ? "fade-left" : "fade-right"} className="p-6 ShadowLarge md:p-8 lg:p-10 bg-background h-full">
-          <div className="text-2xl font-neotriad sm:text-3xl font-semibold mb-4 text-gray-700 textShadow-sm overflow-visible">
+          <div className="text-2xl font-figtree sm:text-3xl font-semibold mb-4 text-gray-700 textShadow-sm overflow-visible">
             {event.title}
           </div>
           <p className="mb-6 md:mb-8">{event.description}</p>

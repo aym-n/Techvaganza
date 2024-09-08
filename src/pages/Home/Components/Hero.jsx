@@ -110,10 +110,10 @@ function Hero() {
           data-aos-duration="2000"
           className="text-white text-xl ss:text-2xl md:text-4xl text-center overflow-visible xs:whitespace-nowrap"
         >
-          20
-          <sup className="text-white text-xl md:text-2xl">th </sup>& 21
-          <sup className="text-white text-xl md:text-2xl">st </sup>
-          Sep 2024
+          10
+          <sup className="text-white text-xl md:text-2xl">th </sup>& 11
+          <sup className="text-white text-xl md:text-2xl">th </sup>
+          Oct 2024
         </div>
         <p 
           ref={textRef}
@@ -171,7 +171,7 @@ function Hero() {
           </div>
         </div>
         <div className="flex flex-col items-center justify-center md:flex-row gap-8 md:gap-7 my-10 md:mt-8">
-          <p className="flex gap-4 items-center text-white textShadow font-neotriad md:text-3xl mt-5 ">[ Event Registrations Opening Soon ]</p>
+          <p className="flex gap-4 items-center text-white textShadow-md md:textShadow font-figtree text-md md:text-3xl mt-5 ">[ Event Registrations Opening Soon ]</p>
           {/* <div className="flex gap-4 items-center text-secondary">
             <FaAddressCard size={24} />
             <Link

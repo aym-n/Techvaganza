@@ -21,7 +21,7 @@ const EventCard = ({ title, time, location, backgroundImage, link, index }) => {
         >
           <div className="w-full h-72 flex flex-col items-start justify-between font-kodeMono">
             <div>
-              <h1 className="text-secondary text-4xl font-neotriad font-semibold overflow-visible mb-8">
+              <h1 className="text-secondary text-4xl font-figtree font-semibold overflow-visible mb-8">
                 {title}
               </h1>
               <ul className="text-white font-semibold text-lg">

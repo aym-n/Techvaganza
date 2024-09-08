@@ -11,13 +11,14 @@ export default function PageLayout({ title, imgUrl, children }) {
         <div
           style={{
             backgroundImage: `linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(${imgUrl})`,
+            backgroundPosition: "center center"
           }}
-          className={`bg-cover bg-top h-[500px]`}
+          className={`bg-cover bg-no-repeat bg-top h-[500px]`}
         >
           <div className="w-full h-full flex flex-col">
             <Header />
             <div className="px-10 md:px-[160px] lg:px-[180px] lg2:px-[220px] xl:px-[300px] xl2:px-[340px] flex items-center font-playfair flex-grow">
-              <p className="text-white font-neotriad font-extrabold textShadow-md text-6xl leading-normal">
+              <p className="text-white font-figtree font-extrabold textShadow-md text-6xl leading-normal">
                 {title}
               </p>
             </div>

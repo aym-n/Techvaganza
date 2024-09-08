@@ -20,7 +20,7 @@ function About() {
           <p className='text-xs sm:text-sm font-semibold'>
             NIT Srinagar's Annual Technical Fest
           </p>
-          <h2 className='text-secondary text-4xl sm:text-5xl md:text-6xl overflow-visible font-semibold font-neotriad mt-2'>
+          <h2 className='text-secondary text-4xl sm:text-5xl md:text-6xl overflow-visible font-semibold font-figtree mt-2'>
             Techvaganza
           </h2>
         </div>

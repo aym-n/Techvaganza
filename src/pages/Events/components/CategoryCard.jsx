@@ -20,7 +20,7 @@ const CategoryCard = ({ img, title, url, index }) => {
     <div data-aos="fade-down" data-aos-delay={index*100} className="mb-5 CardShadow">
       <img className="h-[450px] w-100 md:w-80 overflow-hidden" src={img} alt={title + " image"} />
       <div className="p-4 bg-background">
-        <p className="text-3xl text-primary bg-opacity-70 font-semibold font-neotriad overflow-visible">{title}</p>
+        <p className="text-3xl text-primary bg-opacity-70 font-semibold font-figtree overflow-visible">{title}</p>
         <Link to={url}>
           <button className="mt-2 ShadowBlur text-primary font-kodeMono border-primary border py-2 px-3 rounded-lg">
             Show More

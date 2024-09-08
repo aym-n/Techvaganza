@@ -63,7 +63,7 @@ export default function PersonalDetails() {
     <PageLayout title={"Register"} imgUrl={"/events/visual-cover.jpg"}>
       <div className="bg-background ShadowLarge pb-8">
         <div className="font-playfair text-center md:px-8 pt-8 ">
-          <p className="text-primary font-extrabold font-neotriad text-3xl md:text-5xl leading-normal">
+          <p className="text-primary font-extrabold font-figtree text-3xl md:text-5xl leading-normal">
             Personal Details
           </p>
         </div>
@@ -74,7 +74,7 @@ export default function PersonalDetails() {
               <div className="flex flex-col md:w-1/2 px-4">
                 <label
                   htmlFor="first-name"
-                  className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                  className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
                 >
                   First Name
                 </label>
@@ -90,7 +90,7 @@ export default function PersonalDetails() {
               <div className="flex flex-col md:w-1/2 px-4">
                 <label
                   htmlFor="last-name"
-                  className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                  className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
                 >
                   Last Name
                 </label>
@@ -110,7 +110,7 @@ export default function PersonalDetails() {
             <div className="flex flex-col w-full px-4">
               <label
                 htmlFor="email"
-                className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
               >
                 Email
               </label>
@@ -129,7 +129,7 @@ export default function PersonalDetails() {
             <div className="flex flex-col w-full px-4">
               <label
                 htmlFor="contact"
-                className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
               >
                 Contact Number
               </label>
@@ -148,7 +148,7 @@ export default function PersonalDetails() {
             <div className="flex flex-col w-full px-4">
               <label
                 htmlFor="college"
-                className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
               >
                 College
               </label>
@@ -170,7 +170,7 @@ export default function PersonalDetails() {
               <div className="flex flex-col w-full px-4">
                 <label
                   htmlFor="enrollmentNumber"
-                  className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                  className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
                 >
                   Enrollment Number
                 </label>
@@ -189,7 +189,7 @@ export default function PersonalDetails() {
               <div className="flex flex-col w-full px-4">
                 <label
                   htmlFor="collegename"
-                  className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                  className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
                 >
                   Institution Name
                 </label>
@@ -209,7 +209,7 @@ export default function PersonalDetails() {
             <div className="flex flex-col w-full px-4">
               <label
                 htmlFor="address"
-                className="text-primary font-neotriad font-bold text-xl md:text-2xl mb-2"
+                className="text-primary font-figtree font-bold text-xl md:text-2xl mb-2"
               >
                 Address
               </label>

@@ -1,5 +1,5 @@
 export const teams = {
-  "chairperson": [
+  "Chairperson": [
     {
       title: "Chairperson",
       name: "MD Saif",
@@ -7,7 +7,7 @@ export const teams = {
       phone: "9308073143"
     }
   ],
-  "viceChairperson": [
+  "ViceChairperson": [
     {
       title: "Vice Chairperson",
       name: "Hurmat Khalid",
@@ -15,7 +15,7 @@ export const teams = {
       phone: "80822 51200"
     }
   ],
-  "secretary": [
+  "Secretary": [
     {
       title: "Secretary",
       name: "Adnan Zahoor",
@@ -23,7 +23,7 @@ export const teams = {
       phone: "7780969467"
     }
   ],
-  "treasurer": [
+  "Treasurer": [
     {
       title: "Treasurer",
       name: "Sanskruti Kakkad",
@@ -31,7 +31,7 @@ export const teams = {
       phone: "82084 92297"
     }
   ],
-  "decoration and Ambience": [
+  "Decoration and Ambience": [
     {
       title: "Lead",
       name: "Vagisha Vag",
@@ -51,7 +51,7 @@ export const teams = {
       phone: "73185 65386"
     }
   ],
-  "documentation and Certification": [
+  "Documentation and Certification": [
     {
       title: "Lead",
       name: "Shiva Dwivedi",
@@ -71,7 +71,7 @@ export const teams = {
       phone: "93077 31261"
     }
   ],
-  "gamezone": [
+  "Gamezone": [
     {
       title: "Lead",
       name: "Mohammad Musaib Shah",
@@ -91,7 +91,7 @@ export const teams = {
       phone: "82686 00074"
     }
   ],
-  "graphic Design": [
+  "Graphic Design": [
     {
       title: "Lead",
       name: "Shubham Garde",
@@ -111,7 +111,7 @@ export const teams = {
       phone: "77808 36457"
     }
   ],
-  "ground Management and Crowd Control": [
+  "Ground Management and Crowd Control": [
     {
       title: "Lead",
       name: "Ananya",
@@ -149,7 +149,7 @@ export const teams = {
       phone: "6005498686"
     }
   ],
-  "hosting and Content": [
+  "Hosting and Content": [
     {
       title: "Lead",
       name: "Samarvir Singh",
@@ -163,7 +163,7 @@ export const teams = {
       phone: "60057 56609"
     }
   ],
-  "infrastructure Control": [
+  "Infrastructure Control": [
     {
       title: "Lead",
       name: "Jatin",
@@ -189,7 +189,7 @@ export const teams = {
       phone: "7599741707"
     }
   ],
-  "logistics and Hospitality": [
+  "Logistics and Hospitality": [
     {
       title: "Lead",
       name: "Mehvish",
@@ -209,7 +209,7 @@ export const teams = {
       phone: "7006738384"
     }
   ],
-  "outreach": [
+  "Outreach": [
     {
       title: "Lead",
       name: "Shahid Farooq",
@@ -247,7 +247,7 @@ export const teams = {
       phone: "6005685613"
     }
   ],
-  "photography": [
+  "Photography": [
     {
       title: "Lead",
       name: "Prabhat Shukla",
@@ -261,7 +261,7 @@ export const teams = {
       phone: "70060 42584"
     }
   ],
-  "registration Committee": [
+  "Registration Committee": [
     {
       title: "Lead",
       name: "Gowtham",
@@ -287,7 +287,7 @@ export const teams = {
       phone: "6006873707"
     }
   ],
-  "socialMedia Publicity": [
+  "SocialMedia Publicity": [
     {
       title: "Lead",
       name: "Krish Mahajan",
@@ -307,7 +307,7 @@ export const teams = {
       phone: "94918 16263"
     }
   ],
-  "sponsorship": [
+  "Sponsorship": [
     {
       title: "Lead",
       name: "Shah Yasir",
@@ -333,7 +333,7 @@ export const teams = {
       phone: "6006324366"
     }
   ],
-  "stage Management": [
+  "Stage Management": [
     {
       title: "Lead",
       name: "Aditya",
@@ -347,7 +347,7 @@ export const teams = {
       phone: "95417 07784"
     }
   ],
-  "startup Event": [
+  "Startup Event": [
     {
       title: "Lead",
       name: "Prudhvi Ram",
@@ -361,7 +361,7 @@ export const teams = {
       phone: "91103 16547"
     }
   ],
-  "technical Events and ExpertTalks": [
+  "Technical Events and ExpertTalks": [
     {
       title: "Lead",
       name: "Fahad Makdoomi",
@@ -375,7 +375,7 @@ export const teams = {
       phone: "60056 58753"
     }
   ],
-  "technical Support and Control": [
+  "Technical Support and Control": [
     {
       title: "Lead",
       name: "Altamash Tamboli",
@@ -395,7 +395,7 @@ export const teams = {
       phone: "93349 62740"
     }
   ],
-  "technical Workshops": [
+  "Technical Workshops": [
     {
       title: "Lead",
       name: "Mubashir Malik",
@@ -409,7 +409,7 @@ export const teams = {
       phone: "9284614472"
     }
   ],
-  "technoCultural Events": [
+  "TechnoCultural Events": [
     {
       title: "Lead",
       name: "Manjeet Kumar",
@@ -429,7 +429,7 @@ export const teams = {
       phone: "9699408586"
     }
   ],
-  "tender Purchase Accounts": [
+  "Tender Purchase Accounts": [
     {
       title: "Lead",
       name: "Suhail Fayaz",
@@ -449,7 +449,7 @@ export const teams = {
       phone: "62007 84064"
     }
   ],
-  "videography": [
+  "Videography": [
     {
       title: "Lead",
       name: "Ashiq Hussain",
@@ -463,7 +463,7 @@ export const teams = {
       phone: "98333 44050"
     }
   ],
-  "web Development": [
+  "Web Development": [
     {
       title: "Lead",
       name: "Ayman Makroo",
@@ -477,7 +477,7 @@ export const teams = {
       phone: "70061 54937"
     }
   ],
-  "women In Tech": [
+  "Women In Tech": [
     {
       title: "Lead",
       name: "Hurmat Khalid",
