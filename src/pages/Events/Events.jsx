@@ -5,13 +5,11 @@ import TalksAndWorkshops from "./pages/TalksAndWorkshops";
 import Performances from "./pages/Performances";
 import GamingZone from "./pages/GamingZone";
 import EventDetails from "./pages/Detailing/EventDetails";
-// import AllEvents from "./pages/AllEvents";
 import { useEffect } from "react";
 import ScrollToTop from "../../Components/ScrollToTop";
 import GameZoneDetails from "./pages/Detailing/GameZoneDetails";
 import PerformanceDetails from "./pages/Detailing/PerformanceDetails";
 import TalksAndWorkshopsDetails from "./pages/Detailing/TalksAndWorkshopsDetails";
-import WomenInTechDetails from "./pages/Detailing/WomenInTechDetails";
 import WomenTech from "./pages/women in tech/WomenTech";
 
 export default function Events() {

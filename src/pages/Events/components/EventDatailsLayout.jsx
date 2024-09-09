@@ -53,6 +53,6 @@ export default function EventDetailsLayout({data}) {
   );
 }
 
-// EventDetailsLayout.propTypes = {  
-//   data: PropTypes.object.isRequired,
-// };
+EventDetailsLayout.propTypes = {  
+  data: PropTypes.object.isRequired,
+};

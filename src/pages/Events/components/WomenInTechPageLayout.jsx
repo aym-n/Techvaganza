@@ -8,6 +8,9 @@ const WomenInTechPageLayout = ({ events }) => {
         <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-5xl leading-normal">
           Event List
         </p>
+        <p className="text-gray-700 font-extrabold font-kodeMono text-md leading-normal">
+          Exclusive only for womens
+        </p>
       </div>
       <div className="px-10 flex flex-wrap justify-center gap-8 pt-20 pb-10 relative ">
         {events.map((item, index) => (
@@ -27,6 +30,6 @@ const WomenInTechPageLayout = ({ events }) => {
 
 export default WomenInTechPageLayout;
 
-// WomenInTechPageLayout.propTypes = {
-//   events: PropTypes.array.isRequired,
-// };
+WomenInTechPageLayout.propTypes = {
+  events: PropTypes.array.isRequired,
+};

@@ -24,10 +24,10 @@ export default function EventCard({title, time, venue, url, image}) {
   );
 }
 
-// EventCard.propTypes = {
-//   title: PropTypes.string.isRequired,
-//   time: PropTypes.string.isRequired,
-//   venue: PropTypes.string.isRequired,
-//   url: PropTypes.string.isRequired,
-//   image: PropTypes.string,
-// };
+EventCard.propTypes = {
+  title: PropTypes.string.isRequired,
+  time: PropTypes.string.isRequired,
+  venue: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired,
+  image: PropTypes.string.isRequired,
+};
