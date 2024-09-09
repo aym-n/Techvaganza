@@ -3,13 +3,13 @@ import CategoryCard from "../../../components/CategoryCard";
 const womenCategory = [
     {
         id: 1,
-        title: "Competitions",
+        title: "Women Competitions",
         url: "competitions",
         img: "/events/other.jpg",
       },
       {
         id: 2,
-        title: "Talks and Workshops",
+        title: "Women Talks and Workshops",
         url: "talks-and-workshops",
         img: "/events/other.jpg",
       },
