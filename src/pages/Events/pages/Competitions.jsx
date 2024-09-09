@@ -5,7 +5,7 @@ import EventsPageLayout from "../components/EventPageLayout";
 
 export default function Competitions() {
   return (
-    <PageLayout title={"Competitions"} imgUrl={"/events/visual-cover.jpg"}>
+    <PageLayout title={"Competitions"} imgUrl={"/common/conpetition.jpeg"}>
       <EventsPageLayout events={competitions} />      
     </PageLayout>
   );

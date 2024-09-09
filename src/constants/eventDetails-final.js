@@ -584,22 +584,6 @@ export const competitions = [
     "Venue": "L5",
     "Card Image" : "Ink Women_s Voice in Technology.png"
   },
-  {
-    "Event Name": "Vihang Band",
-    "Description": "Singing performance from NIT Srinagar Student band.",
-    "Rules": "",
-    "Prizes": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "Reeba Amin",
-    "Lead Contact Number": "6006993971",
-    "Judging Criteria": "",
-    "Start Time": "18:00:",
-    "End Time": "19:00",
-    "Day": 1,
-    "Venue": "Main Stage",
-    // "Card Image" : ""
-  },
 ]
 
 export const performingEvents = [
