@@ -6,7 +6,7 @@ export default function GamingEventDetailsLayout({data}) {
     const rules = data["Rules"].split(";").map(rule => rule.trim()).filter(rule => rule !== "");
     const prizes = data["Prizes"].split(";").map(prize => prize.trim()).filter(prize => prize !== "");
   return (
-    <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
+    <PageLayout title={data["Event Name"]} imgUrl={`/common/gamezone.jpeg`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
           <p className="font-semibold font-figtree textShadow-md text-5xl text-gray-800 leading-normal mb-3">

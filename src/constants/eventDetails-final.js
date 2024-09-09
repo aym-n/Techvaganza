@@ -602,7 +602,7 @@ export const performingEvents = [
     "Day": 1,
     "isWomen" : true,
     "Venue": "Main Stage",
-    // "Card Image" : ""
+    "Card Image" : "UV Dance competition.png"
 
   },
 ]
@@ -968,7 +968,8 @@ export const talks = [
     "Start Time": "10:00",
     "End Time": "1:00 PM",
     "Day": 1,
-    "Venue": "LH3"
+    "Venue": "LH3",
+    "Card Image" : "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png"
   },
   {
     "Event Name": "Tech Forward: Empowering Women in STEM",

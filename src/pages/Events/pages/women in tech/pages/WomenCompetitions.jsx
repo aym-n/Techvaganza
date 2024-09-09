@@ -6,7 +6,7 @@ export default function WomenCompetitions(){
     .map((competition, index) => ({ ...competition, category: "competitions", originalIndex: index }))
     .filter(competition => competition.isWomen === true);
     return(
-        <PageLayout title={"Women Competitions"} imgUrl={'/BattleOfBands.png'}>
+        <PageLayout title={"Women Competitions"} imgUrl={'/common/women-in-tech.png'}>
           <WomenInTechPageLayout events={womenCompetitions} /> 
         </PageLayout>
     )

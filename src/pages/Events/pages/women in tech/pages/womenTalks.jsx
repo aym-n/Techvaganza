@@ -7,7 +7,7 @@ export default function WomenTalks(){
   .filter(talk => talk.isWomen === true);
 
     return(
-        <PageLayout title={"Women Talks and Workshops"} imgUrl={'/BattleOfBands.png'}>
+        <PageLayout title={"Women Talks and Workshops"} imgUrl={'/common/women-in-tech.png'}>
           <WomenInTechPageLayout events={womenTalkEvents} /> 
         </PageLayout>
     )
