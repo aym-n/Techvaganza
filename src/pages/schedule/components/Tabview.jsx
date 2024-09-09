@@ -32,7 +32,7 @@ const Tabview = ({ tab1, tab2 }) => {
               startTime={item["Start Time"]}
               endTime={item["End Time"]}
               venue={item["Venue"]}
-              exploreUrl={`/events/${item.index}`} 
+              exploreUrl={`/events/${item.url}`} 
               // fullDay={item.fullDay} // If this field exists or modify based on your logic
             />
           ))}
@@ -45,7 +45,7 @@ const Tabview = ({ tab1, tab2 }) => {
               startTime={item["Start Time"]}
               endTime={item["End Time"]}
               venue={item["Venue"]}
-              exploreUrl={`/events/${item.index}`} 
+              exploreUrl={`/events/${item.url}`} 
             />
           ))}
         </TabPanel>

@@ -531,7 +531,7 @@ export const competitions = [
     "Day": "",
     "isWomen" : true,
     "Venue": "",
-    // "Card Image" : ""
+    "Card Image" : "Reels making competetion.png"
   },
   {
     "Event Name": "TechQuest: Trailblazing Women Edition",
@@ -547,7 +547,8 @@ export const competitions = [
     "End Time": "3:00 p.m.",
     "Day": 1,
     "isWomen" : true,
-    "Venue": "Campus"
+    "Venue": "Campus",
+    "Card Image" : "TechQuestTrailblazing Women Edition.png"
   },
   {
     "Event Name": "SheSpeaks: Debating the Future of Women in Tech",
@@ -563,7 +564,8 @@ export const competitions = [
     "End Time": "12:00 noon",
     "Day": 2,
     "isWomen" : true,
-    "Venue": "L4"
+    "Venue": "L4",
+    "Card Image" : "SheSpeaks Debating the Future of Women in Tec.png"
   },
   {
     "Event Name": "Ink Women's Voice in Technology",
@@ -579,7 +581,8 @@ export const competitions = [
     "End Time": "11:30 a.m.",
     "Day": 2,
     "isWomen" : true,
-    "Venue": "L5"
+    "Venue": "L5",
+    "Card Image" : "Ink Women_s Voice in Technology.png"
   },
   {
     "Event Name": "Vihang Band",
@@ -953,7 +956,8 @@ export const talks = [
     "Start Time": "",
     "End Time": "",
     "Day": "",
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Leading With Vision Workshop.png"
   },
   {
     "Event Name": "Women in tech: breaking boundaries",
@@ -967,7 +971,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Women in techbreaking boundaries.png"
   },
   {
     "Event Name": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
@@ -994,7 +999,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Tech ForwardEmpowering Women in STEM.png"
   },
   {
     "Event Name": "HerTech Talks: Insights from Women Innovators",
@@ -1008,7 +1014,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "HerTech TalksInsights from Women Innovators.png"
   }
 ]
 
@@ -1017,11 +1024,62 @@ export const talks = [
 
 
 
-// Filter the events based on the 'Day' field
-export const day1Events = competitions
-  .map((event, index) => ({ ...event, index })) // Add index to each event
+
+// For day 1 events
+const day1Competitions = competitions
+  .map((event, index) => ({
+    ...event,
+    category: "competitions",
+    url: `competitions/${index}`,
+  }))
   .filter(event => event.Day === 1 || event.Day === "");
 
-export const day2Events = competitions
-  .map((event, index) => ({ ...event, index })) // Add index to each event
+const day1Talks = talks
+  .map((event, index) => ({
+    ...event,
+    category: "talks",
+    url: `talks-and-workshops/${index}`,
+  }))
+  .filter(event => event.Day === 1 || event.Day === "");
+
+const day1Gamezone = gamezone
+  .map((event, index) => ({
+    ...event,
+    category: "gamezone",
+    url: `gaming-zone/${index}`,
+  }))
+  .filter(event => event.Day === 1 || event.Day === "");
+
+
+
+
+// For day 2 events
+const day2Competitions = competitions
+  .map((event, index) => ({
+    ...event,
+    category: "competitions",
+    url: `competitions/${index}`,
+  }))
   .filter(event => event.Day === 2 || event.Day === "");
+
+const day2Talks = talks
+  .map((event, index) => ({
+    ...event,
+    category: "talks",
+    url: `talks-and-workshops/${index}`,
+  }))
+  .filter(event => event.Day === 2 || event.Day === "");
+
+const day2Gamezone = gamezone
+  .map((event, index) => ({
+    ...event,
+    category: "gamezone",
+    url: `gaming-zone/${index}`,
+  }))
+  .filter(event => event.Day === 2 || event.Day === "");
+
+// Combine all day 1 events
+export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone];
+
+// Combine all day 2 events
+export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone];
