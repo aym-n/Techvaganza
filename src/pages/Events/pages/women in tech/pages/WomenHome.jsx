@@ -9,7 +9,7 @@ const womenCategory = [
       },
       {
         id: 2,
-        title: "Women Talks and Workshops",
+        title: "Women Talks",
         url: "talks-and-workshops",
         img: "/events/other.jpg",
       },

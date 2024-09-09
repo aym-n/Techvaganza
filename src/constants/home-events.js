@@ -11,7 +11,7 @@ export const cards = [
         description:
             "This event showcases accomplished women professionals from various technology fields sharing their experiences, insights, and expertise. each session would feature 2-3 women speakers who are leaders in their respective areas of tech.",
             image: "events/women.jpg",
-        link: "#",
+        link: "events/women-in-tech",
     },
     {
         title: "Game Zone",
