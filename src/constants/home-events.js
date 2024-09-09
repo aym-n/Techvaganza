@@ -3,7 +3,7 @@ export const cards = [
         title: "StartupFest",
         description:
             "Startup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
-            image: "events/startup.jpg",
+            image: "events/STARTUP.png",
         link: "/events/competitions/27",
     },
     {
@@ -17,7 +17,7 @@ export const cards = [
         title: "Game Zone",
         description:
             "Competitors will face off in intense head-to-head matches across popular titles including Valorant, BGMI, Free Fire, CS:GO, and FIFA. The event features multiple stages where gamers can showcase their skills in strategic shooters, battle royales, and virtual soccer",
-        image: "events/gamezone.jpg",
+        image: "events/BGMI.png",
         link: "/events/gaming-zone",
     }
 ];

@@ -98,7 +98,7 @@ function Hero() {
       className="bg-cover bg-center  min-h-screen"
       style={{
         backgroundImage:
-          "linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(/common/hero-cover-2.jpg)",
+          "linear-gradient(to bottom, #000000 0%, #00000044 50%, #00000033 100%), url(/common/hero-cover.jpeg)",
       }}
     >
       <div>
