@@ -123,9 +123,9 @@ function Hero() {
         </p>
 
         <p 
-          className="text-center text-2xl ss:text-3xl sm:text-4xl md:text-5xl mt-4 text-white font-figtree font-bold overflow-visible textShadow-md"
+          className="text-center text-2xl ss:text-3xl sm:text-4xl  mt-4 text-white font-kodeMono font-bold overflow-visible textShadow-sm"
         >
-          Greener Innovations
+          Greener Innovations: Engineering a Sustainable World
         </p>
 
         <div className="font-kodeMono mt-6 md:mt-10 flex justify-center">

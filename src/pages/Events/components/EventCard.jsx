@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 
 export default function EventCard({title, time, venue, url, image}) {
-  console.log(title, time, venue, url, image)
   return (
     <>
       <Link to={url} className="rounded-xl bg-white flex flex-col items-center BoxShadow w-[250px] md:w-[310px] px-4 py-4 mb-6">

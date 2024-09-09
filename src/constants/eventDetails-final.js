@@ -597,7 +597,6 @@ export const competitions = [
     "Start Time": "18:00:",
     "End Time": "19:00",
     "Day": 1,
-    "isWomen" : true,
     "Venue": "Main Stage",
     // "Card Image" : ""
   },
