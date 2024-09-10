@@ -61,9 +61,9 @@ body{
 }
 
 .ImgShadow{
-    -webkit-box-shadow: 0px 0px 12px 0px rgba(59, 87, 4, 0.8);
-    -moz-box-shadow: 0px 0px 12px 0px rgba(59, 87, 4, 0.8);
-    box-shadow: 0px 0px 12px 0px rgba(59, 87, 4, 0.8);
+    -webkit-box-shadow: 0px 0px 12px 0px rgba(83, 206, 134, 0.8);
+    -moz-box-shadow: 0px 0px 12px 0px rgba(83, 206, 134, 0.8);
+    box-shadow: 0px 0px 16px 0px rgba(83, 206, 134, 0.8);
 }
 
 .ShadowLarge{

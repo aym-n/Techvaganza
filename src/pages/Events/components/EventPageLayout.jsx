@@ -5,7 +5,7 @@ const EventsPageLayout = ({events}) => {
     return (
       <div className="bg-background ShadowLarge">
         <div className="font-playfair px-8 pt-8 ">
-          <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-5xl leading-normal">
+          <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-4xl md:text-5xl leading-normal">
             Event List
           </p>
         </div>
