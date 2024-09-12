@@ -9,7 +9,7 @@ export default function GamingEventDetailsLayout({data}) {
     <PageLayout title={data["Event Name"]} imgUrl={`/common/gamezone.jpeg`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
-          <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 leading-normal mb-3">
+          <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 leading-normal mb-3 overflow-visible">
             {data["Event Name"]}
           </p>
           <p className="text-base">{data["Description"]}</p>
