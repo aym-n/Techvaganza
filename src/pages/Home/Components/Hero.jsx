@@ -123,7 +123,7 @@ function Hero() {
         </p>
 
         <p 
-          className="text-center text-2xl ss:text-3xl sm:text-4xl  mt-4 text-white font-kodeMono font-bold overflow-visible textShadow-sm"
+          className="text-center text-2xl ss:text-3xl  mt-4 text-white font-kodeMono font-bold overflow-visible textShadow-sm"
         >
           Greener Innovations: Engineering a Sustainable World
         </p>
