@@ -31,13 +31,13 @@ const Header = () => {
       >
         <div className="flex flex-row justify-between items-center container mx-auto ">
           <Link to="/">
-            <img src="/common/logo.png" className="h-20" alt="Logo" />
+            <img src="/common/logo.png" className="h-28" alt="Logo" />
           </Link>
 
           {/* Hamburger Button */}
           <div className="md:hidden flex items-center">
             <button className="text-white text-2xl" onClick={toggleSidebar}>
-              {isSidebarOpen ? <FaTimes /> : <FaBars />}
+              {isSidebarOpen ? <FaTimes size={28} /> : <FaBars size={28} />}
             </button>
           </div>
 

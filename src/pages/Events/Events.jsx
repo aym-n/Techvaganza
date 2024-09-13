@@ -4,15 +4,13 @@ import Competitions from "./pages/Competitions";
 import TalksAndWorkshops from "./pages/TalksAndWorkshops";
 import Performances from "./pages/Performances";
 import GamingZone from "./pages/GamingZone";
-import WomenInTech from "./pages/WomenInTech";
 import EventDetails from "./pages/Detailing/EventDetails";
-import AllEvents from "./pages/AllEvents";
 import { useEffect } from "react";
 import ScrollToTop from "../../Components/ScrollToTop";
 import GameZoneDetails from "./pages/Detailing/GameZoneDetails";
 import PerformanceDetails from "./pages/Detailing/PerformanceDetails";
 import TalksAndWorkshopsDetails from "./pages/Detailing/TalksAndWorkshopsDetails";
-import WomenInTechDetails from "./pages/Detailing/WomenInTechDetails";
+import WomenTech from "./pages/women in tech/WomenTech";
 
 export default function Events() {
   useEffect(() => {
@@ -27,12 +25,11 @@ export default function Events() {
         <Route path="/talks-and-workshops" element={<TalksAndWorkshops />} />
         <Route path="/performances" element={<Performances />} />
         <Route path="/gaming-zone" element={<GamingZone />} />
-        <Route path="/women-in-tech" element={<WomenInTech />} />
+        <Route path="/women-in-tech/*" element={<WomenTech />} />
         <Route path="gaming-zone/:index" element={<GameZoneDetails />} />
         <Route path="competitions/:index" element={<EventDetails />} />
         <Route path="performances/:index" element={<PerformanceDetails />} />
         <Route path="talks-and-workshops/:index" element={<TalksAndWorkshopsDetails />} />
-        <Route path="women-in-tech/:index" element={<WomenInTechDetails />} />
       </Routes>
     </>
   );

@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <footer 
       style={{
-        backgroundImage:
-          "linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(https://images.pexels.com/photos/1089454/pexels-photo-1089454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)",
-        backgroundSize:"auto",
+        // backgroundImage:
+        //   "linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(/common/footer.png)",
+        backgroundImage: `url(/common/footer.png)`,
         backgroundPosition: "center center"
       }} 
       className="bg-blend-overlay bg-cover bg-top h-96 relative text-white flex flex-col justify-center items-center font-playfair"

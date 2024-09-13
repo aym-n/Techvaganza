@@ -3,22 +3,22 @@ export const cards = [
         title: "StartupFest",
         description:
             "Startup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
-            image: "events/startup.jpg",
-        link: "/events/28",
+            image: "events/STARTUP.png",
+        link: "/events/competitions/27",
     },
     {
         title: "Women in Tech",
         description:
             "This event showcases accomplished women professionals from various technology fields sharing their experiences, insights, and expertise. each session would feature 2-3 women speakers who are leaders in their respective areas of tech.",
             image: "events/women.jpg",
-        link: "#",
+        link: "/events/women-in-tech",
     },
     {
         title: "Game Zone",
         description:
             "Competitors will face off in intense head-to-head matches across popular titles including Valorant, BGMI, Free Fire, CS:GO, and FIFA. The event features multiple stages where gamers can showcase their skills in strategic shooters, battle royales, and virtual soccer",
-        image: "events/gamezone.jpg",
-        link: "/events/27",
+        image: "events/BGMI.png",
+        link: "/events/gaming-zone",
     }
 ];
 

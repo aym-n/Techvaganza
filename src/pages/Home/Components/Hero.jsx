@@ -98,7 +98,7 @@ function Hero() {
       className="bg-cover bg-center  min-h-screen"
       style={{
         backgroundImage:
-          "linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(/common/hero-cover-2.jpg)",
+          "linear-gradient(to bottom, #000000 0%, #00000044 50%, #00000033 100%), url(/common/hero-cover.jpeg)",
       }}
     >
       <div>
@@ -120,6 +120,12 @@ function Hero() {
           className="text-center text-5xl ss:text-7xl sm:text-8xl md:text-9xl mt-4 text-white font-neotriad font-extrabold overflow-visible textShadow"
         >
           {scrambledText}
+        </p>
+
+        <p 
+          className="text-center text-2xl ss:text-3xl  mt-4 text-white font-kodeMono font-bold overflow-visible textShadow-sm"
+        >
+          Greener Innovations: Engineering a Sustainable World
         </p>
 
         <div className="font-kodeMono mt-6 md:mt-10 flex justify-center">

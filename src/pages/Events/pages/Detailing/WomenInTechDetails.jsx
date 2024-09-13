@@ -1,7 +1,6 @@
 import EventDetailsLayout from "../../components/EventDatailsLayout";
 import { useParams } from "react-router-dom";
-import {events} from "../../../../constants/eventDetails-final";
-export default function WomenInTechDetails() {
+export default function WomenInTechDetails({events}) {
   const { index } = useParams();
   const eventIndex = parseInt(index, 10); // Convert index to integer
   // Validate index

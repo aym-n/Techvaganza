@@ -1,4 +1,4 @@
-export const events = [
+export const competitions = [
   {
     "Event Name": "AutoCAD",
     "Description": "In this exciting event, participants will be provided with a specific design challenge or project that they must complete using AutoCAD software. The competition guidelines emphasize the participants' ability to create precise and detailed technical drawings, employ appropriate dimensioning techniques and effectively utilize the various tools and features offered by AutoCAD.",
@@ -13,8 +13,7 @@ export const events = [
     "End Time": "13:00",
     "Day": 2,
     "Venue": "LH2",
-    "Card Image": "autocad 2.jpg",
-    "Cover Image": "autocad-1.jpg"
+    "Card Image": "AutoCad.png",
   },
   {
     "Event Name": "Remote control car racing",
@@ -30,8 +29,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 1,
     "Venue": "Open ground near chinar or near directors office",
-    "Card Image": "rc.jpg",
-    "Cover Image": "rc.jpg"
+    "Card Image": "RemoteControlledCar.png",
   },
   {
     "Event Name": "Catapult",
@@ -47,8 +45,7 @@ export const events = [
     "End Time": "16:30",
     "Day": 2,
     "Venue": "NIT Srinagar main ground",
-    "Card Image": "catapult competition.png",
-    "Cover Image": "catapult.jpeg"
+    "Card Image": "Catapult.png",
   },
   {
     "Event Name": "hydraulic lift",
@@ -64,8 +61,7 @@ export const events = [
     "End Time": "15:30",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "hydraulic lift.jpg",
-    "Cover Image": "hydraulic-lift-1.jpg"
+    "Card Image": "HydralicLift.png",
   },
   {
     "Event Name": "Vernacular BuildingStyle and Earthquake Prone Areas with specialReference to Kashmir",
@@ -81,8 +77,7 @@ export const events = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "kashmir.jpg",
-    "Cover Image": "kashmir.jpg"
+    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
   },
   {
     "Event Name": "Bombsquad",
@@ -98,8 +93,7 @@ export const events = [
     "End Time": "11:30",
     "Day": 1,
     "Venue": "Activity Center",
-    "Card Image": "bombsquad.webp",
-    "Cover Image": "bombsquad.jpg"
+    "Card Image": "BombSqUAD.png",
   },
   {
     "Event Name": "STRUCTURE BATTLES(Earthquake resistant building)",
@@ -115,8 +109,7 @@ export const events = [
     "End Time": "13:30",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "earthquake in kashmir 2.jpg",
-    "Cover Image": "earthquake-in-kashmir.jpg"
+    "Card Image": "Structure Battles.png",
   },
 
   {
@@ -133,8 +126,7 @@ export const events = [
     "End Time": "17:00",
     "Day": 2,
     "Venue": "LH-2",
-    "Card Image": "typing competition.jpg",
-    "Cover Image": "typing-competition2.jpg"
+    "Card Image": "TypingCompetition.png",
   },
   {
     "Event Name": "Line Follower",
@@ -150,7 +142,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 2,
     "Venue": "Common hall",
-    "Card Image": "line-following.jpg",
+    "Card Image": "LineFollower.png",
     "Cover Image": "line-following.jpg"
   },
 
@@ -168,8 +160,7 @@ export const events = [
     "End Time": "03:30",
     "Day": 1,
     "Venue": "Hi Tech 3",
-    "Card Image": "ecobuild 1.jpg",
-    "Cover Image": "ecobuild.jpg"
+    "Card Image": "Ecobuild Challenge .png",
   },
   {
     "Event Name": "art competition",
@@ -185,8 +176,7 @@ export const events = [
     "End Time": "3.00 pm",
     "Day": 2,
     "Venue": "campus parks",
-    "Card Image": "art competition 1.jpg",
-    "Cover Image": "art-competition.jpg"
+    "Card Image": "ArtCompetition.png",
   },
   {
     "Event Name": "TECHNICAL EXHIBITION",
@@ -202,8 +192,7 @@ export const events = [
     "End Time": "2.00 pm",
     "Day": 1,
     "Venue": "library park near director's office",
-    "Card Image": "technical-exhibition.jpg",
-    "Cover Image": "technical-exhibition.jpg"
+    "Card Image": "TechnicalExhibtion.png",
   },
   {
     "Event Name": "typing competetion",
@@ -219,8 +208,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "typing competition.jpg",
-    "Cover Image": "typing-competition2.jpg"
+    "Card Image": "TypingCompetition.png",
   },
   {
     "Event Name": "Pressure rocket Battle",
@@ -236,8 +224,7 @@ export const events = [
     "End Time": "11:00",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "air pressure rockets 2.jpg",
-    "Cover Image": "air-pressure-rockets-1.jpg"
+    "Card Image": "Rocketbattle.png",
   },
   {
     "Event Name": "Rapid fire Technical Quiz",
@@ -253,8 +240,7 @@ export const events = [
     "End Time": "16:00",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "techical-rapid-fire-quiz.png",
-    "Cover Image": "techical-rapid-fire-quiz.png"
+    "Card Image": "RapidFire.png",
   },
   {
     "Event Name": "Symbola",
@@ -270,8 +256,7 @@ export const events = [
     "End Time": "15:30",
     "Day": 1,
     "Venue": "",
-    "Card Image": "symbola 3.jpeg",
-    "Cover Image": "symbola-2.jpeg"
+    "Card Image": "Symbola.png",
   },
   {
     "Event Name": "Science Experiments",
@@ -287,8 +272,7 @@ export const events = [
     "End Time": "12:00",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image": "science experiment 1.jpg",
-    "Cover Image": "science-experiment.jpg"
+    "Card Image": "ScienceExperiments.png",
   },
   {
     "Event Name": "Best Out Of Waste",
@@ -304,8 +288,7 @@ export const events = [
     "End Time": "18:00",
     "Day": 2,
     "Venue": "Common Hall and Nit streets .",
-    "Card Image": "best of waste.png",
-    "Cover Image": "best-of-waste.jpg"
+    "Card Image": "Bestoutofwaste.png",
   },
   {
     "Event Name": "Robo Soccer Competition",
@@ -321,8 +304,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "robo-xoc.jpg",
-    "Cover Image": "robo-xoc.jpg"
+    "Card Image": "RoboSoccer.png",
   },
   {
     "Event Name": "Robo War Competition",
@@ -338,8 +320,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "robowar.jpg",
-    "Cover Image": "robowar.jpg"
+    "Card Image": "ROBOWAR.png",
   },
   {
     "Event Name": "Use the AI",
@@ -355,8 +336,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "ai.jpg",
-    "Cover Image": "ai.jpg"
+    "Card Image": "UsetheAI.png",
   },
   {
     "Event Name": "Code Mania",
@@ -372,8 +352,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "codemania.jpg",
-    "Cover Image": "codemania.jpg"
+    "Card Image": "Code Mania.png",
   },
   {
     "Event Name": "Graphic design competetion",
@@ -389,8 +368,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "gd.jpg",
-    "Cover Image": "gd.jpg"
+    "Card Image": "GraphicDesignCompetition.png",
   },
   {
     "Event Name": "Technical Quiz",
@@ -406,8 +384,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",    
-    "Card Image": "techical-rapid-fire-quiz.png",
-    "Cover Image": "techical-rapid-fire-quiz.png"
+    "Card Image": "TechnicalQuiz.png",
   },
   {
     "Event Name": "Web Design Competition",
@@ -423,8 +400,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "webd.jpg",
-    "Cover Image": "webd.jpg"
+    "Card Image": "WebDesignCompetition.png",
   },
   {
     "Event Name": "the cheat day(open book competition)",
@@ -440,8 +416,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "open-book.jpg",
-    "Cover Image": "open-book.jpg"
+    "Card Image": "OpenBook.png",
   },
   {
     "Event Name": "programble LED light show",
@@ -457,25 +432,7 @@ export const events = [
     "End Time": "",
     "Day": "",
     "Venue": "",
-    "Card Image": "led-show.jpg",
-    "Cover Image": "led-show.jpg"
-  },
-  {
-    "Event Name": "Game Zone",
-    "Description": "A GameZone is a hub where gaming enthusiasts come together to experience a wide variety of popular video games. It offers a range of competitive and recreational games across different genres, providing exciting opportunities for players to engage in both casual and tournament-style gaming. Some of the popular games featured include: Free Fire: A battle royale game that combines strategy and fast-paced action. BGMI (Battlegrounds Mobile India): Another battle royale game popular for its team-based gameplay. Valorant: A tactical first-person shooter with unique character abilities and strategic gameplay. FIFA & E-Football: Famous soccer simulation games that provide realistic football experiences. Mortal Kombat: A classic fighting game known for its intense combat and special moves. Tekken: Another iconic fighting game that features a deep roster of fighters and intricate combos. WWE 2K23: A wrestling game that brings the action of the WWE to life with its realistic graphics and gameplay. in a GameZone, players can participate in tournaments or casual play sessions, often with the chance to win exciting prizes, such as gaming merchandise, in-game rewards, and even cash prizes for top performers. It’s a great way for gamers to test their skills, socialize, and enjoy the latest gaming trends.",
-    "Rules": "",
-    "Prizes": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
-    "Judging Criteria": "",
-    "Start Time": "",
-    "End Time": "",
-    "Day": "",
-    "Venue": "",
-    "Card Image": "gamezone.jpg",
-    "Cover Image": "gamezone.jpg"
+    "Card Image": "ProgrammableLEDLIGHT.png",
   },
   {
     "Event Name": "Startup Fest",
@@ -491,28 +448,162 @@ export const events = [
     "End Time": "October 11, 2024, 1:00 PM IST (result declaration)",
     "Day": "Multiple days event",
     "Venue": "Online for idea submission; Conference venue not specified (may be online or offline)",
-    "Card Image": "startup.jpg",
-    "Cover Image": "startup.jpg"
-  }
-]
-
-export const performingEvents = [
+    "Card Image": "STARTUP.png",
+  },
   {
-    "Event Name": "programble LED light show",
-    "Description": "Programmable LED light shows are visually captivating displays that utilize LED lights controlled and synchronized to create dynamic patterns, animations, or sequences. These shows often feature complex and intricate designs that come to life through the manipulation of light, color, and movement. The ability to program the LED lights allows for the creation of a wide range of visual effects, from simple, static patterns to elaborate, multi-dimensional animations. This technology is frequently used in a variety of settings, including concerts, festivals, and public spaces, to enhance the atmosphere and create a visually engaging experience.",
-    "Rules": "",
+    "Event Name": "Chemical Reaction Race",
+    "Description": "The Chemical Reaction Race is an exciting competition where student teams demonstrate their chemistry skills by performing reactions in the shortest time while following safety and accuracy guidelines. Teams are given a list of possible reactions and materials in advance and must efficiently execute their chosen reaction. The event promotes chemistry knowledge, teamwork, quick thinking, and safety practices.",
+    "Rules": "Team Composition:\nEach team must consist of 2-4 members.;\n\nUse of Chemicals and Equipment:\n1. Only the provided chemicals and equipment must be used; no external materials are allowed.;\n2. Any misuse of chemicals or equipment will result in disqualification.;\n\nTime Limit: \nEach team has a maximum of 30 minutes to complete their reaction, including setup time.;\n\nSafety Protocol:\n1. All participants must wear lab coats, gloves, and safety goggles.;\n2. Any violation of safety protocols will result in immediate disqualification.;",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Danish Mir",
+    "Lead Contact Number": 6005619812,
+    "Judging Criteria": "Speed of Completion: Teams are primarily judged on how quickly they complete the reaction, with faster teams having an advantage if safety and procedures are followed.;\n\nAccuracy and Outcome: Teams must achieve the correct product. Faster teams with incorrect results will be ranked lower than slower teams with accurate results.;\n\nSafety and Procedure: Adherence to safety protocols and proper procedures is mandatory. Any violation will lead to penalties or disqualification.;",
+    "Start Time": "10:30",
+    "End Time": "12:30",
+    "Day": 2,
+    "Venue": "Near Activity Center",
+    "Card Image": "Chemical Reaction Race.png",
+  },
+  {
+    "Event Name": "Ideathons",
+    "Description": "Problems should be given to participants on day one and they have to submit their ideas within a time, and on very next day they have to present their ideas with presentations accordingly.",
+    "Rules": "1, problems should be given to participants on day one of the event to submit their ideas within the given time.;     2, participants have to submit their ideas on the A4 sheets will be provided.;   3, On the next day they have to present their ideas from presentation that should be made accordingly, the ideas they have submitted.;    4, The winners will be announced on their overall performance mainly focused on their ideas.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
     "Lead Name": "",
     "Lead Contact Number": "",
     "Judging Criteria": "",
+    "Start Time": "03:00",
+    "End Time": "05:00",
+    "Day": "",
+    "Venue": "",
+    "Card Image" : "Ideathons.png"
+
+  },
+  {
+    "Event Name": "Treasure Hunt",
+    "Description": "A fun and interesting technique to test participants' technical and problem-solving abilities is the Technical Treasure Hunt. We've given the classic treasure hunt a contemporary makeover by including challenging activities and riddles that will test your cooperation and inventiveness. In order to get closer to the buried treasure, participants will solve puzzles and complete tasks as they explore different parts of the campus.\n\nWe've created an experience full of surprises and excitement that everyone will love with a blend of modern and creative challenges. This event is guaranteed to keep players on their toes, whether they are cracking codes or cooperating to solve original issues. Prepare yourself for an exciting journey filled with enjoyable activities that will put your critical thinking and teamwork to the test!",
+    "Rules": "Guidelines\n\n1.Every squad needs to have 2 to 4 players.;\n2.The organisers' route must be followed by every participant.;\n3.Using the internet or outside assistance is strictly forbidden.;\n4.Cheating in any way will result in instant disqualification.;\n5.To get to the next spot, teams must solve each clue.;\n6.Teams have the allotted time to accomplish each task.;\n7. it is not permitted for teams to challenge one another physically or verbally.;",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "SHEIKH AZMAT Fayaz",
+    "Lead Contact Number": 6006865581,
+    "Judging Criteria": "Clue Completion: Points for successfully solving all clues and completing tasks.;\nTime Taken: Faster teams with accurate results score higher.;\nTeamwork: Extra points for effective collaboration and communication.;\nAccuracy: Precision in solving tasks without mistakes is key.;\nCreativity: Innovative approaches to solving challenges are rewarded.;\nBonus Round: Special challenges for tiebreakers or extra points.;",
+    "Start Time": "02:30",
+    "End Time": "04:30",
+    "Day": 1,
+    "Venue": "Lecture Hall Park",
+    "Card Image" : "TeasureHunt.png"
+
+  },
+  {
+    "Event Name": "SoapBOX Car Racing",
+    "Description": "SoapBox car racing is a type of motorless racing where participants race, handcrafted cars called “soap box cars”.\n\nThe event will be for both male and female. Participants can make their teams of their choice.\n \nThis event includes a lot of fun and create a lot of excitement among all age group people.\n \nThis competition involves both speed and design categories, with participants striving to create not only the fastest but also the most innovative and aesthetically pleasing cars.",
+    "Rules": "Guidelines\n•        Each team would consist of 3 participants, in which only 1 will be allowed to race, (there has to be a change in driver only after the mental ability round) and all the three would make their cars out of the materials which we will provide. An indivisual can be a part of one team only, violation of this rule would result in disqualification of the indivisual from the event.;\n•        After the Mental – Ability round, there has to be a driver alteration, as they approach closer to finishing line.; \n●        Awards will be distributed to the top 3 teams.;\n●        There will be a single lap per team. A maximum of 5 teams will compete in each round.;\n●        After all the rounds are completed the top 5 fastest teams will compete for the final round.;\n●        If there is a tie, then the teams time in the league stage will be considered.;\n•        The race will begin only after the signal from the host.;\n•        If any participant is found using unfair means (indisciplinary acts), he/she will be disqualified.;\n•        Everyone has to follow the pre-decided track, anyone found deviating from it will be disqualified on spot.;\n•        Nobody will be allowed to start the race, without proper safety gears (equipments will be provided by us).;\n•        Any kind of misbehaviour with the staff / team members/ college personals, will not be tolerated, strict action will be taken against it.;",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Kumar Sangyanam",
+    "Lead Contact Number": "82948 87458",
+    "Judging Criteria": "",
+    "Start Time": "11:00",
+    "End Time": "12:30",
+    "Day": 1,
+    "Venue": "Campus Roads",
+    "Card Image": "SoapboxCarRacing.png"
+  },
+  {
+    "Event Name": "Reel Heroines: Women Who Lead the Future",
+    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers.Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
+    "Rules": "",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": "9149494702",
+    "Judging Criteria": "",
     "Start Time": "",
     "End Time": "",
     "Day": "",
+    "isWomen" : true,
     "Venue": "",
-    "Card Image": "led-show.jpg",
-    "Cover Image": "led-show.jpg"
+    "Card Image" : "Reels making competetion.png"
+  },
+  {
+    "Event Name": "TechQuest: Trailblazing Women Edition",
+    "Description": "The Technology-Themed Scavenger Hunt is designed to engage young girls in an interactive and educational experience that highlights various aspects of technology and STEM (Science, Technology, Engineering, and Mathematics). The event aims to spark curiosity, foster problem-solving skills, and encourage collaboration while introducing participants to exciting tech concepts and career paths.The Women in tech scavenger hunt promises to be an enriching and exciting event for all the participants. We look forward to meeting highly competitive teams that are ready to compete, learn and showcase their technical skills and teamwork.",
+    "Rules": "The scavenger hunt is open to all female students of any institute.The participants have to find the alphabets hidden in the campus using the given clue cards and then join them to make a technical word, but the word will have anagrams, so you have to make the right one.Only the first 6 teams to register will be eligible for the participation in event.\n\n\nNumber of teams: 6\n\nMembers in each team: 3\n\nAll the teams will be provided with clue cards. The cards will include various riddles based on technology, women in tech and main theme of techvaganza,2024 . A map will also be provided to the students for reference of places across the campus. The clue cards will have hints of location where each letter of the final word will be kept at. Each team has to guess the location using the hints and reach there to find letters. On each location, volunteers will be present to regulate and mark the teams which have found the particular letter. The team that guesses the correct word and reaches the final location, after check-marking each of the prior locations will be declared as the winner of the scavenger hunt.",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The team that reaches the final checkpoint,after check-marking all the previous checkpoints and completes the corret word first will be declared as the winner of the scavanger hunt.",
+    "Start Time": "10:00 a.m.",
+    "End Time": "3:00 p.m.",
+    "Day": 1,
+    "isWomen" : true,
+    "Venue": "Campus",
+    "Card Image" : "TechQuestTrailblazing Women Edition.png"
+  },
+  {
+    "Event Name": "SheSpeaks: Debating the Future of Women in Tech",
+    "Description": "The \"Women in the Workplace\" debate is an engaging and insightful event tailored for young girls interested in exploring gender dynamics in professional environments. This debate will feature influential speakers discussing key issues such as gender equality, leadership opportunities, and the challenges women face in various industries. Attendees will gain a deeper understanding of the evolving role of women in the workplace, learn about successful strategies for overcoming obstacles, and explore ways to advocate for a more inclusive work environment. Join us for an inspiring discussion that will empower and motivate you to shape your own career path with confidence and knowledge.Don’t miss this opportunity to engage in a thought-provoking dialogue on shaping the future of women in the workplace. Hope to see you soon!",
+    "Rules": "The debate is open to all female students of any institute.Only the first 8 teams to register will be eligible for the participation in event.The debate is a BRITISH PARLIAMENTARY DEBATE. The topics of the debate will be provided to the teams 30 minutes before starting of debate.Number of teams: 8\nMembers in each team: 4 \n\nEach team will have :\nA ) Opening House: It includes first two speakers from the team i.e. Leader and Deputy Leader. Their Task is to lay down the motion and perspectives by defining the topic. Perspectives they need to specify very clearly for E.g. – Political, Social, Legal, Technological, Cultural, Economical etc. The Leader has to define the topic and lay down perspectives. Deputy Leader can lay down more perspectives and also has to start with the case building of the perspectives laid by the leader by giving examples. \n\nb) Closing House : It includes the last two speakers from the team i.e. the Member and Whip. Members task is to do case building of the perspectives laid down by first two speakers. Here he cannot bring any new perspective to the house. Whips task is to only give rebuttals on what the opposite team has said.\n\n\n\nIn the British Parliamentary Debating format there are two (2) teams in each round (match) – one representing the Government, and the other the Opposition. Each team consists of four members with an allotted time up to Five (5) minutes given to each speaker (Timings will depend upon the round). The Government supports the motion (the given topic or subject being debated), and the Opposition opposes it. As is graphically represented below, the teams are also divided into the Opening and Closing halves of the 'House' (an imaginary House of Parliament akin to the British House of Common in which the debate tasks place).\n\nROLES OF GOVERNMENT/PROPOSITION AND OPPOSITION\n Government/Proposition In supporting the motion, the Government/Proposition carries out the following functions: Defining the motion; \nConstructing a positive case in favour of the motion;  Providing substantive materials and arguments in support of the case;  Responding to any challenges made to the case made by the Opposition.\n\n\nOpposition In negating/opposing the motion, the Opposition carries out the following functions:  Responding to the Government's definition;  Constructing a case in opposition to the motion;  Providing substantive material and arguments in support of the opposition case;  Responding to the arguments delivered by the Government.\n\n\n\nSPEAKER ROLES AND SPEECH SPECIFIC PURPOSES \nEach speaker has a role and each speech has a purpose. The descriptions of speaker roles and speech purposes listed are suggestive and are not exhaustive or exclusive.\n Prime Minister: The primary role of First Proposition team, initiated in this speech, is to establish the foundation for a meaningful debate on the motion. The Prime Minister’s responsibilities may include some or all of the following: 1) to offer a reasonable interpretation of the motion; 2) to present a case supporting that interpretation; 3) to employ other strategies deemed necessary in advancing the Government's stance.\n\n\nLeader of the Opposition:\n The primary roles of the First Opposition team, initiated in this speech, are to confront the First Government’s case and to establish the First Opposition’s strategy for opposing this case. The Leader of the Opposition’s responsibilities may include some or all of the following: 1) to directly or indirectly refute part or all of the government's case; 2) to make at least one argument that demonstrates why the First Opposition team opposes the motion as interpreted by the Prime Minister; 3) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\nThe Leader of the Opposition may also challenge the interpretation of the government's case if it is unreasonable, that is, if it completely misinterprets the motion or severely inhibits meaningful debate.\n\n\nDeputy Prime Minister: The Deputy Prime Minister’s responsibilities may include some or all of the following: 1) to reestablish the First Proposition’s case by confronting any refutation presented by the Leader of the Opposition; 2) to refute some or all of the arguments presented by the Leader of the Opposition; 3) to further develop the case presented by the Prime Minister; 4) to employ other strategies deemed necessary in advancing the Government's stance.\n\n            Deputy Leader of the Opposition :  The Deputy Leader of the Opposition’s responsibilities may     include some or all of the following: 1) to continue refutation initiated by the Leader of the Opposition; 2) to reestablish the Leader of Opposition’s arguments against the motion; 3) to initiate a new argument against the motion as interpreted by the First Proposition team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\n             Member of the Government: The primary roles of the Second Proposition team, initiated in this speech, are to support the First Proposition team while simultaneously moving the proposition position in a new and positive direction. The responsibilities of the Member of the Government may include some or all of the following: 1) to briefly support the case developed by the First Proposition team; 2) to introduce a different argument, sometimes called a “case extension” which is consistent with yet different from the case introduced by the First Proposition team; 3) to employ other strategies deemed necessary in advancing the Government's stance.\n\n\n    Member of the Opposition: The primary roles of the Second Opposition team, initiated in this speech, are to support the First Opposition team while simultaneously moving the opposition position in a new and positive direction. The responsibilities of the Member of the Opposition may include some or all of the following: 1) to briefly support one or more arguments introduced by the First Opposition team; 2) to introduce direct and/or indirect refutation to the case extension presented by the Member of Government; 3) to introduce some new argument, compatible with, but different from that of the First Opposition Team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\n\nGovernment Whip: The responsibilities of the Government Whip may include some or all of the following: 1) to support any new arguments introduced by the Member of the Government; 2) to reply to any new arguments introduced by the Member of the Opposition; 3) to summarize the debate from the perspective of the Proposition Teams, especially from that of the Second Proposition team; 4) to employ other strategies deemed necessary in advancing the Government's stance. The Government Whip should not introduce new arguments into the debate.\n\n\nOpposition Whip: The responsibilities of the Opposition Whip may include some or all of the following: 1) to support any new arguments introduced by the Member of the Opposition; 2) to reply to any new arguments introduced by the Member of the Government; 3) to summarize the debate from the perspective of the Proposition Teams, especially from that of the Second Opposition team; 4) to employ other strategies deemed necessary in advancing the Opposition's stance.\n\n\nPoint of Order - Unacceptable in the Parliament House • Slang\n • Defamatory Language \n• Aggressive behavior\n • Unparliamentary language like “Underdeveloped countries” \n• Pointing fingers \n• Not addressing the member by right designation • Smirking, mockery, or making mirth of house proceedings, etc.",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The judgement of the debate will keep the following points in consideration : \n \nContent and style: Judges  will evaluate the speaker's argumentation and refutation, as well as how they present their content. \n \nOrganization and delivery: Judges will  look for whether the speaker presents their case in a clear and persuasive manner. \n \nRelevance: Judges will consider whether the arguments presented are relevant to the topic. \n \nSupport: Judges will look for whether the arguments are well supported. \n \nResponsibilities: Judges will consider whether the teams or speakers met their responsibilities in the debate.",
+    "Start Time": "10:00 a.m.",
+    "End Time": "12:00 noon",
+    "Day": 2,
+    "isWomen" : true,
+    "Venue": "L4",
+    "Card Image" : "SheSpeaks Debating the Future of Women in Tec.png"
+  },
+  {
+    "Event Name": "Ink Women's Voice in Technology",
+    "Description": "Essay Writing Competition focused on the theme \"Women in Tech,\" invites students to explore and articulate the significant roles, achievements, and challenges faced by women in the technology industry. This competition provides a platform for students to engage with important issues such as gender diversity, innovation, and the impact of women leaders in tech fields. Participants are encouraged to delve into topics like the history of women in technology, current trends, and future prospects, while showcasing their analytical skills and creativity. Essays should reflect thoughtful research, originality, and a clear understanding of the subject matter.\nThe competition is going to be an enriching experience for all of you. It will be a confluence of sharing, expressing and learning. We hope to read your amazing thoughts through your insightful essays. Looking forward to meet you soon!",
+    "Rules": "Only female students are allowed to participate . We will have the chits of topics ready which will be placed in a box. Each participant will take out one chit and write an essay on the topic which they get.The essays need to be innovative and must reflect the clarity of thoughts of the candidate.The writers of the best 3 essays will be awarded with prizes",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": 8899005236,
+    "Judging Criteria": "The essays will be judged on the basis of :\n      Creativity\nExpression of the topic \n        Understanding of the theme\n        Clarity of ideas",
+    "Start Time": "10:00 a.m.",
+    "End Time": "11:30 a.m.",
+    "Day": 2,
+    "isWomen" : true,
+    "Venue": "L5",
+    "Card Image" : "Ink Women_s Voice in Technology.png"
+  },
+]
+
+export const performingEvents = [
+  {
+    "Event Name": "Vihang Band",
+    "Description": "Singing performance from NIT Srinagar Student band.",
+    "Rules": "",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Reeba Amin",
+    "Lead Contact Number": "6006993971",
+    "Judging Criteria": "",
+    "Start Time": "18:00:",
+    "End Time": "19:00",
+    "Day": 1,
+    "isWomen" : true,
+    "Venue": "Main Stage",
+    "Card Image" : "UV Dance competition.png"
+
   },
 ]
 
@@ -530,7 +621,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "CS Lab 2,3"
+      "Venue": "CS Lab 2,3",
+      "Card Image" : "valoarant.png"
     },
     {
       "Event Name": "BGMI",
@@ -544,7 +636,8 @@ export const gamezone = [
       "Start Time": "11:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 2"
+      "Venue": "PF 2",
+      "Card Image" : "BGMI.png"
     },
     {
       "Event Name": "Free Fire",
@@ -558,7 +651,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "11:00",
       "Day": 0,
-      "Venue": "PF 3"
+      "Venue": "PF 3",
+      "Card Image" : "FreeFire.png"
     },
     {
       "Event Name": "Tekken 8",
@@ -572,7 +666,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 4"
+      "Venue": "PF 4",
+      "Card Image" : "Tekken8.png"
     },
     {
       "Event Name": "Mortal Kombat",
@@ -586,7 +681,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 5"
+      "Venue": "PF 5",
+      "Card Image" : "MortalCombat.png"
     },
     {
       "Event Name": "WWE 2K23",
@@ -600,7 +696,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 7"
+      "Venue": "PF 7",
+      "Card Image" : "2k23.png"
     },
     {
       "Event Name": "FIFA",
@@ -614,7 +711,8 @@ export const gamezone = [
       "Start Time": "11:00",
       "End Time": "16:00",
       "Day": 0,
-      "Venue": "PF 6"
+      "Venue": "PF 6",
+      "Card Image" : "Fifa.png"
     },
     {
       "Event Name": "E FOOTBALL",
@@ -628,7 +726,8 @@ export const gamezone = [
       "Start Time": "09:00",
       "End Time": "11:00",
       "Day": 0,
-      "Venue": "PF 7"
+      "Venue": "PF 7",
+      "Card Image" : "E-football.png"
     },
     {
       "Event Name": "Basket the balls",
@@ -642,7 +741,8 @@ export const gamezone = [
       "Start Time": "09:30",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Basket the balls.png"
     },
     {
       "Event Name": "Robo soccer",
@@ -656,7 +756,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "RoboSoccer.png"
     },
     {
       "Event Name": "Blow the glass tower",
@@ -670,7 +771,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Blow the glass tower.png"
     },
     {
       "Event Name": "Gun shoot balloon",
@@ -684,7 +786,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Gun shoot balloon.png"
     },
     {
       "Event Name": "Ping pong ball",
@@ -698,7 +801,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "PingPong.png"
     },
     {
       "Event Name": "Bayblades",
@@ -712,7 +816,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Bayblade.png"
     },
     {
       "Event Name": "Pass the wire",
@@ -726,7 +831,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Pass the wire.png"
     },
     {
       "Event Name": "Blow the candle",
@@ -740,7 +846,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Blowthecandles.png"
     },
     {
       "Event Name": "Bow and arrow",
@@ -754,7 +861,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Bowand arrow.png"
     },
     {
       "Event Name": "Arm wrestling",
@@ -768,7 +876,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "ArmWrestling .png"
     },
     {
       "Event Name": "Pull ups",
@@ -782,7 +891,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Pullpup.png"
     },
     {
       "Event Name": "Dart throw",
@@ -796,7 +906,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "Darts.png"
     },
     {
       "Event Name": "Ring toss",
@@ -810,7 +921,8 @@ export const gamezone = [
       "Start Time": "09:30:00",
       "End Time": "19:30",
       "Day": 2,
-      "Venue": "Main ground"
+      "Venue": "Main ground",
+      "Card Image" : "tossthering.png"
     }
 ]
 
@@ -827,7 +939,8 @@ export const talks = [
     "Start Time": "",
     "End Time": "",
     "Day": "",
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Leading With Vision Workshop.png"
   },
   {
     "Event Name": "Women in tech: breaking boundaries",
@@ -841,7 +954,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Women in techbreaking boundaries.png"
   },
   {
     "Event Name": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
@@ -854,7 +968,8 @@ export const talks = [
     "Start Time": "10:00",
     "End Time": "1:00 PM",
     "Day": 1,
-    "Venue": "LH3"
+    "Venue": "LH3",
+    "Card Image" : "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png"
   },
   {
     "Event Name": "Tech Forward: Empowering Women in STEM",
@@ -868,7 +983,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "Tech ForwardEmpowering Women in STEM.png"
   },
   {
     "Event Name": "HerTech Talks: Insights from Women Innovators",
@@ -882,7 +998,8 @@ export const talks = [
     "End Time": "",
     "Day": "",
     "isWomen" : true,
-    "Venue": ""
+    "Venue": "",
+    "Card Image" : "HerTech TalksInsights from Women Innovators.png"
   }
 ]
 
@@ -891,11 +1008,62 @@ export const talks = [
 
 
 
-// Filter the events based on the 'Day' field
-export const day1Events = events
-  .map((event, index) => ({ ...event, index })) // Add index to each event
+
+// For day 1 events
+const day1Competitions = competitions
+  .map((event, index) => ({
+    ...event,
+    category: "competitions",
+    url: `competitions/${index}`,
+  }))
   .filter(event => event.Day === 1 || event.Day === "");
 
-export const day2Events = events
-  .map((event, index) => ({ ...event, index })) // Add index to each event
+const day1Talks = talks
+  .map((event, index) => ({
+    ...event,
+    category: "talks",
+    url: `talks-and-workshops/${index}`,
+  }))
+  .filter(event => event.Day === 1 || event.Day === "");
+
+const day1Gamezone = gamezone
+  .map((event, index) => ({
+    ...event,
+    category: "gamezone",
+    url: `gaming-zone/${index}`,
+  }))
+  .filter(event => event.Day === 1 || event.Day === "");
+
+
+
+
+// For day 2 events
+const day2Competitions = competitions
+  .map((event, index) => ({
+    ...event,
+    category: "competitions",
+    url: `competitions/${index}`,
+  }))
   .filter(event => event.Day === 2 || event.Day === "");
+
+const day2Talks = talks
+  .map((event, index) => ({
+    ...event,
+    category: "talks",
+    url: `talks-and-workshops/${index}`,
+  }))
+  .filter(event => event.Day === 2 || event.Day === "");
+
+const day2Gamezone = gamezone
+  .map((event, index) => ({
+    ...event,
+    category: "gamezone",
+    url: `gaming-zone/${index}`,
+  }))
+  .filter(event => event.Day === 2 || event.Day === "");
+
+// Combine all day 1 events
+export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone];
+
+// Combine all day 2 events
+export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone];

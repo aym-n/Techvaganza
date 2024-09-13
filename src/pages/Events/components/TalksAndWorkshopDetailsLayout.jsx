@@ -5,10 +5,10 @@ import PropTypes from "prop-types";
 export default function TalksAndWorkshopDetailsLayout({data}) {
     // const rules = data["Rules"].split(";").map(rule => rule.trim()).filter(rule => rule !== "");
   return (
-    <PageLayout title={data["Event Name"]} imgUrl={`/events/${data["Cover Image"]}`}>
+    <PageLayout title={data["Event Name"]} imgUrl={"/common/worksop-and-talk.png"}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
-          <p className="font-semibold font-figtree textShadow text-5xl text-gray-800 leading-normal mb-3">
+          <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 leading-normal mb-3 overflow-visible">
             {data["Event Name"]}
           </p>
           <p className="text-base">{data["Description"]}</p>

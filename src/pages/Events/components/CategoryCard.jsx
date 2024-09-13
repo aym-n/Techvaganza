@@ -24,7 +24,6 @@ const CategoryCard = ({ img, title, url, index }) => {
         <Link to={url}>
           <button 
               className="px-4 mt-4 md:px-6 py-2 font-kodeMono ShadowBlur text-sm md:text-base rounded-md font-medium text-gray-800 bg-primary border border-primary focus:outline-none text-center"
-            // className="mt-2 ShadowBlur text-primary font-kodeMono border-primary border py-2 px-3 rounded-lg"
             >
             Show More
           </button>

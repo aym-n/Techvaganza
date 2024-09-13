@@ -4,7 +4,7 @@ import EventsPageLayout from "../components/EventPageLayout";
 
 export default function Performances(){
     return(
-        <PageLayout title={"Performances"} imgUrl={'/events/musical-cover.jpg'}>
+        <PageLayout title={"Performances"} imgUrl={'/common/performance.jpeg'}>
           <EventsPageLayout events={performingEvents} /> 
         </PageLayout>
     )
