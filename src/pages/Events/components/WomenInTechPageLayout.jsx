@@ -5,10 +5,10 @@ const WomenInTechPageLayout = ({ events }) => {
   return (
     <div className="bg-background ShadowLarge">
       <div className="font-playfair px-8 pt-8 ">
-        <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-4xl md:text-5xl leading-normal">
+        <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-4xl md:text-5xl overflow-visible">
           Event List
         </p>
-        <p className="text-gray-700 font-extrabold font-kodeMono text-md leading-normal">
+        <p className="text-gray-700 font-extrabold font-kodeMono text-md overflow-visible">
           Exclusive only for womens
         </p>
       </div>
