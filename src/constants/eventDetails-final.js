@@ -534,25 +534,25 @@ export const competitions = [
       "Online for idea submission; Conference venue not specified (may be online or offline)",
     "Card Image": "STARTUP.png",
   },
-  {
-    "Event Name": "Chemical Reaction Race",
-    Description:
-      "The Chemical Reaction Race is an exciting competition where student teams demonstrate their chemistry skills by performing reactions in the shortest time while following safety and accuracy guidelines. Teams are given a list of possible reactions and materials in advance and must efficiently execute their chosen reaction. The event promotes chemistry knowledge, teamwork, quick thinking, and safety practices.",
-    Rules:
-      "Team Composition:\nEach team must consist of 2-4 members.\n\nUse of Chemicals and Equipment:\n1. Only the provided chemicals and equipment must be used; no external materials are allowed.\n2. Any misuse of chemicals or equipment will result in disqualification.\n\nTime Limit: \nEach team has a maximum of 30 minutes to complete their reaction, including setup time.\n\nSafety Protocol:\n1. All participants must wear lab coats, gloves, and safety goggles.\n2. Any violation of safety protocols will result in immediate disqualification.",
-    Prizes: "1500",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "99",
-    "Lead Name": "Danish Mir",
-    "Lead Contact Number": 6005619812,
-    "Judging Criteria":
-      "Speed of Completion: Teams are primarily judged on how quickly they complete the reaction, with faster teams having an advantage if safety and procedures are followed.\n\nAccuracy and Outcome: Teams must achieve the correct product. Faster teams with incorrect results will be ranked lower than slower teams with accurate results.\n\nSafety and Procedure: Adherence to safety protocols and proper procedures is mandatory. Any violation will lead to penalties or disqualification.",
-    "Start Time": "10:00 AM",
-    "End Time": "12:30 PM",
-    Day: 2,
-    Venue: "Activity Center",
-    "Card Image": "Chemical Reaction Race.png",
-  },
+  // {
+  //   "Event Name": "Chemical Reaction Race",
+  //   Description:
+  //     "The Chemical Reaction Race is an exciting competition where student teams demonstrate their chemistry skills by performing reactions in the shortest time while following safety and accuracy guidelines. Teams are given a list of possible reactions and materials in advance and must efficiently execute their chosen reaction. The event promotes chemistry knowledge, teamwork, quick thinking, and safety practices.",
+  //   Rules:
+  //     "Team Composition:\nEach team must consist of 2-4 members.\n\nUse of Chemicals and Equipment:\n1. Only the provided chemicals and equipment must be used; no external materials are allowed.\n2. Any misuse of chemicals or equipment will result in disqualification.\n\nTime Limit: \nEach team has a maximum of 30 minutes to complete their reaction, including setup time.\n\nSafety Protocol:\n1. All participants must wear lab coats, gloves, and safety goggles.\n2. Any violation of safety protocols will result in immediate disqualification.",
+  //   Prizes: "1500",
+  //   "NIT Entry Fee": "",
+  //   "Outside Entry Fee": "99",
+  //   "Lead Name": "Danish Mir",
+  //   "Lead Contact Number": 6005619812,
+  //   "Judging Criteria":
+  //     "Speed of Completion: Teams are primarily judged on how quickly they complete the reaction, with faster teams having an advantage if safety and procedures are followed.\n\nAccuracy and Outcome: Teams must achieve the correct product. Faster teams with incorrect results will be ranked lower than slower teams with accurate results.\n\nSafety and Procedure: Adherence to safety protocols and proper procedures is mandatory. Any violation will lead to penalties or disqualification.",
+  //   "Start Time": "10:00 AM",
+  //   "End Time": "12:30 PM",
+  //   Day: 2,
+  //   Venue: "Activity Center",
+  //   "Card Image": "Chemical Reaction Race.png",
+  // },
   {
     "Event Name": "Ideathons",
     Description:
