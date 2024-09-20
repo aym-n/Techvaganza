@@ -63,7 +63,7 @@ export default function PersonalDetails() {
     <PageLayout title={"Register"} imgUrl={"/events/visual-cover.jpg"}>
       <div className="bg-background ShadowLarge pb-8">
         <div className="font-playfair text-center md:px-8 pt-8 ">
-          <p className="text-primary font-extrabold font-figtree text-3xl md:text-5xl leading-normal">
+          <p className="text-primary font-extrabold font-figtree text-3xl md:text-5xl overflow-visible">
             Personal Details
           </p>
         </div>

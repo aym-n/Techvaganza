@@ -13,11 +13,6 @@ const Footer = () => {
     >
       {/* Overlay for reducing brightness of background image */}
       <div className="absolute inset-0 bg-black opacity-40 z-0"></div>
-      {/* <div className="top-0 relative h-auto overflow-hidden w-100%">
-        <h2 className="text-6xl md:text-8xl lg:text-9xl font-bold font-neotriad sm:tracking-[0.25em] md:tracking-[0.5em] opacity-100 z-2 my-20 mix-blend-overlay text-yellow-100 leading-normal overflow-visible">
-          Techvaganza
-        </h2>
-      </div> */}
 
       <div className="absolute h-auto left-0 right-0 z-10 flex flex-col justify-around items-center mt-28">
         <div className="container mx-auto text-center">
