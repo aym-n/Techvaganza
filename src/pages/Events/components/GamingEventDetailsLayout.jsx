@@ -23,10 +23,10 @@ export default function GamingEventDetailsLayout({data}) {
         <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Entry Fee</p>
           <p className="text-base mb-2">
-            <span className="font-bold">NIT Entry Fee:</span> {data["NIT Entry Fee"]}
+            <span className="font-bold mr-2">NIT Entry Fee:</span>  &#8377; {data["NIT Entry Fee"]}
           </p>
           <p className="text-base mb-2">
-           <span className="font-bold"> Outside Entry Fee:</span> {data["Outside Entry Fee"]}
+           <span className="font-bold mr-2"> Outside Entry Fee:</span> &#8377; {data["Outside Entry Fee"]}
           </p>
         </div>
         <div className="mb-4">

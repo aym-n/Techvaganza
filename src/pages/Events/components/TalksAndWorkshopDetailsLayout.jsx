@@ -22,10 +22,10 @@ export default function TalksAndWorkshopDetailsLayout({data}) {
         <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Entry Fee</p>
           <p className="text-base mb-2">
-            <span className="font-bold">NIT Entry Fee:</span> {data["NIT Entry Fee"]}
+            <span className="font-bold mr-2">NIT Entry Fee:</span> &#8377; {data["NIT Entry Fee"]}
           </p>
           <p className="text-base mb-2">
-           <span className="font-bold"> Outside Entry Fee:</span> {data["Outside Entry Fee"]}
+           <span className="font-bold mr-2"> Outside Entry Fee:</span> &#8377; {data["Outside Entry Fee"]}
           </p>
         </div>
         <div className="mb-4">
@@ -38,12 +38,15 @@ export default function TalksAndWorkshopDetailsLayout({data}) {
         </div>
 
         <div className="BoxShadow mx-2 my-2 px-3 py-2 pb-12">
-        <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">About The Speakers</h1>
+        <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Speaker(s)</h1>
             {/* <div className="space-y-5 mx-4 font-semibold font-kodeMono">
               {rules.map((rule, index) => (
                 <p key={index}>{rule}</p>
               ))}
             </div> */}
+            <div className="space-y-5 mx-4 font-semibold font-kodeMono">
+              <p>{data["Description about Instructor / Speaker"]}</p>
+            </div>
         </div>
       </div>
     </PageLayout>
