@@ -530,23 +530,23 @@ export const competitions = [
       "Venue": "Campus Roads",
     "Card Image": "SoapboxCarRacing.png"
   },
-  {
-    "Event Name": "Reel Heroines: Women Who Lead the Future",
-    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers.Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
-    "Rules": "",
-    "Prizes": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "Neharika Bajaj",
-    "Lead Contact Number": "9149494702",
-    "Judging Criteria": "",
-    "Start Time": "",
-    "End Time": "",
-    "Day": "",
-    "isWomen" : true,
-    "Venue": "",
-    "Card Image" : "Reels making competetion.png"
-  },
+  // {
+  //   "Event Name": "Reel Heroines: Women Who Lead the Future",
+  //   "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers.Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
+  //   "Rules": "",
+  //   "Prizes": "",
+  //   "NIT Entry Fee": "",
+  //   "Outside Entry Fee": "",
+  //   "Lead Name": "Neharika Bajaj",
+  //   "Lead Contact Number": "9149494702",
+  //   "Judging Criteria": "",
+  //   "Start Time": "",
+  //   "End Time": "",
+  //   "Day": "",
+  //   "isWomen" : true,
+  //   "Venue": "",
+  //   "Card Image" : "Reels making competetion.png"
+  // },
   {
     "Event Name": "Bug Bounty",
       "Description": "Bug Bounty is a premier event powered by Code Assist, crafted to test and enhance your ability to identify and resolve bugs in code. Designed for participants at all levels—from beginners to experienced developers—this dynamic competition offers a compelling experience with challenges suited to every skill set. There are 3 Rounds :                                                                                                                                                                                                                                                                         In Round 1: Basic Debugging, you'll tackle 10 programs with simple bugs that are perfect for building confidence. The goal is to spot and fix these bugs using your core coding skills. It's a great way to warm up and get comfortable with the debugging process.\nRound 2: Intermediate Bug Fixing steps things up a notch, with 5 programs featuring slightly more complex bugs. Don't worry—this is where you'll start applying your problem-solving skills while still having fun!\nThe Final Round: Advanced Bug Hunt is where things get exciting! You'll be presented with two tricky bugs to crack. This is your chance to really showcase what you've learned along the way, using both skill and determination.",
@@ -682,23 +682,71 @@ export const competitions = [
 
 export const performingEvents = [
   {
+    "Event Name": "Reel Heroines: Women Who Lead the Future",
+    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers.Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": 9149494702,
+    "Start Time": "4:00 p.m",
+    "End Time": "6:00p.m.",
+    "Day": 1,
+    "Venue": "L5",
+    "Card Image" : "Reels making competetion.png"
+  },
+  {
     "Event Name": "Vihang Band",
-    "Description": "Singing performance from NIT Srinagar Student band.",
-    "Rules": "",
-    "Prizes": "",
+    "Description": "Singing performance from NIT Srinagar Student band",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
     "Lead Name": "Reeba Amin",
-    "Lead Contact Number": "6006993971",
-    "Judging Criteria": "",
-    "Start Time": "18:00:",
-    "End Time": "19:00",
+    "Lead Contact Number": 6006993971,
+    "Start Time": "6:00 PM",
+    "End Time": "7:00 PM",
     "Day": 1,
-    "isWomen" : true,
+    "Venue": "Main Stage",
+    "Card Image" : "Sonic ShowdownBattle of Beats.png"
+  },
+  {
+    "Event Name": "Innovations Across the Nation",
+    "Description": "Tech States Showcase: Innovations Across the Nation",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "AMAN BHASKAR",
+    "Lead Contact Number": 8057587498,
+    "Start Time": "5:00 PM",
+    "End Time": "6:30 PM",
+    "Day": 2,
+    "Venue": "Main Stage",
+    "Card Image" : "Leading With Vision Workshop.png"
+  },
+  {
+    "Event Name": "Sonic Showdown: Battle of Beats",
+    "Description": "Sonic Showdown: Battle of Beats is an electrifying music production competition designed to showcase the creativity and technical skills of aspiring and experienced music producers. Participants will battle head-to-head to craft original tracks, pushing the limits of musical innovation across genres like electronic, hip-hop, pop, and experimental.",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "KUNDAN SINGH",
+    "Lead Contact Number": 9797985688,
+    "Start Time": "02:00",
+    "End Time": "03:30",
+    "Day": 2,
+    "Venue": "L 10",
+    "Card Image" : "Sonic ShowdownBattle of Beats.png"
+  },
+  {
+    "Event Name": "UV Dance competition",
+    "Description": "UV Dance Competition is a visually stunning dance event where performances are enhanced by ultraviolet (UV) light, creating a glowing and striking visual experience. Participants will showcase their choreography under black light to create a mesmerizing effect.",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi",
+    "Lead Contact Number": 9699408586,
+    "Start Time": "06:00",
+    "End Time": "08:00",
+    "Day": 1,
     "Venue": "Main Stage",
     "Card Image" : "UV Dance competition.png"
-
   },
+  
 ]
 
 

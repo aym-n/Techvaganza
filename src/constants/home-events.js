@@ -4,7 +4,7 @@ export const cards = [
         description:
             "Startup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
             image: "events/STARTUP.png",
-        link: "/events/competitions/27",
+        link: "/events/competitions/28",
     },
     {
         title: "Women in Tech",
