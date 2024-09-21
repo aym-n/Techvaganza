@@ -16,7 +16,7 @@ export const competitions = [
     "End Time": "1:00 PM",
     "Day": 2,
     "Venue": "L-2",
-    "Card Image": "AutoCad.png",
+    "Card Image": "AutoCad.png"
   },
   {
     "Event Name": "Remote Control Car Racing",
@@ -35,7 +35,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "Mechanical Dpt. Park",
-    "Card Image": "RemoteControlledCar.png",
+    "Card Image": "RemoteControlledCar.png"
   },
   {
     "Event Name": "Catapult",
@@ -54,7 +54,7 @@ export const competitions = [
     "End Time": "5:00 PM",
     "Day": 2,
     "Venue": "Football Ground",
-    "Card Image": "Catapult.png",
+    "Card Image": "Catapult.png"
   },
   {
     "Event Name": "Hydraulic Lift",
@@ -73,7 +73,7 @@ export const competitions = [
     "End Time": "6:00 PM",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "HydralicLift.png",
+    "Card Image": "HydralicLift.png"
   },
   {
     "Event Name": "Civil Engineering Quizathon",
@@ -92,7 +92,7 @@ export const competitions = [
     "End Time": "05:30 PM",
     "Day": 1,
     "Venue": "L-11",
-    "Card Image": "CIVIL ENGINEERING QUIZATHON.png",
+    "Card Image": "CIVIL ENGINEERING QUIZATHON.png"
   },
   {
     "Event Name": "Bombsquad",
@@ -111,7 +111,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "Activity Center",
-    "Card Image": "BombSqUAD.png",
+    "Card Image": "BombSqUAD.png"
   },
   {
     "Event Name": "STRUCTURE BATTLES\n(Earthquake resistant \nbuilding)",
@@ -130,7 +130,7 @@ export const competitions = [
     "End Time": "4:00 PM",
     "Day": 2,
     "Venue": "Structural Dynamics Lab",
-    "Card Image": "Structure Battles.png",
+    "Card Image": "Structure Battles.png"
   },
   {
     "Event Name": "STRUCTURE BATTLES\n(BRIDGE BUILDING \n)",
@@ -149,7 +149,7 @@ export const competitions = [
     "End Time": "6:00 PM",
     "Day": 1,
     "Venue": "Common Hall",
-    "Card Image": "Structure Battles.png",
+    "Card Image": "Structure Battles.png"
   },
   {
     "Event Name": "Typing Competition",
@@ -168,7 +168,7 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 2,
     "Venue": "L-2",
-    "Card Image": "TypingCompetition.png",
+    "Card Image": "TypingCompetition.png"
   },
   {
     "Event Name": "Line Follower",
@@ -187,9 +187,8 @@ export const competitions = [
     "End Time": "3:30 PM",
     "Day": 1,
     "Venue": "Common hall",
-    "Card Image": "LineFollower.png",
+    "Card Image": "LineFollower.png"
   },
-
   {
     "Event Name": "Ecobuild Challenge",
     "Description":
@@ -207,7 +206,7 @@ export const competitions = [
     "End Time": "06:30 PM",
     "Day": 1,
     "Venue": "L-12",
-    "Card Image": "Ecobuild Challenge .png",
+    "Card Image": "Ecobuild Challenge .png"
   },
   {
     "Event Name": "Digital Art Competition",
@@ -226,7 +225,7 @@ export const competitions = [
     "End Time": "4.30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 3",
-    "Card Image": "ArtCompetition.png",
+    "Card Image": "ArtCompetition.png"
   },
   {
     "Event Name": "TECHNICAL EXHIBITION",
@@ -245,7 +244,7 @@ export const competitions = [
     "End Time": "12.00 PM",
     "Day": "1 and 2",
     "Venue": "Drawing Halls",
-    "Card Image": "TechnicalExhibtion.png",
+    "Card Image": "TechnicalExhibtion.png"
   },
   {
     "Event Name": "Pressure Rocket Battles",
@@ -264,7 +263,7 @@ export const competitions = [
     "End Time": "11:30 AM",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "Rocketbattle.png",
+    "Card Image": "Rocketbattle.png"
   },
   {
     "Event Name": "Rapid fire",
@@ -283,7 +282,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 2,
     "Venue": "L-6",
-    "Card Image": "RapidFire.png",
+    "Card Image": "RapidFire.png"
   },
   {
     "Event Name": "Symbola",
@@ -302,7 +301,7 @@ export const competitions = [
     "End Time": "3:30 PM",
     "Day": 1,
     "Venue": "L-11",
-    "Card Image": "Symbola.png",
+    "Card Image": "Symbola.png"
   },
   {
     "Event Name": "Science Experiments",
@@ -321,7 +320,7 @@ export const competitions = [
     "End Time": "4:30 PM",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image": "ScienceExperiments.png",
+    "Card Image": "ScienceExperiments.png"
   },
   {
     "Event Name": "Best Out Of Waste",
@@ -340,7 +339,7 @@ export const competitions = [
     "End Time": "4:30 PM",
     "Day": 2,
     "Venue": "Activity Center",
-    "Card Image": "Bestoutofwaste.png",
+    "Card Image": "Bestoutofwaste.png"
   },
   {
     "Event Name": "Robo Soccer Competition",
@@ -359,7 +358,7 @@ export const competitions = [
     "End Time": "1:00 PM",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "RoboSoccer.png",
+    "Card Image": "RoboSoccer.png"
   },
   {
     "Event Name": "Robo War Competition",
@@ -378,7 +377,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "Common Hall",
-    "Card Image": "ROBOWAR.png",
+    "Card Image": "ROBOWAR.png"
   },
   {
     "Event Name": "Use the AI",
@@ -397,7 +396,7 @@ export const competitions = [
     "End Time": "12:30 PM",
     "Day": 1,
     "Venue": "Hi-Tech 3",
-    "Card Image": "UsetheAI.png",
+    "Card Image": "UsetheAI.png"
   },
   {
     "Event Name": "Code Mania",
@@ -416,7 +415,7 @@ export const competitions = [
     "End Time": "06:00 PM",
     "Day": 1,
     "Venue": "L-3",
-    "Card Image": "Code Mania.png",
+    "Card Image": "Code Mania.png"
   },
   {
     "Event Name": "Graphic design competetion",
@@ -435,7 +434,7 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 3",
-    "Card Image": "GraphicDesignCompetition.png",
+    "Card Image": "GraphicDesignCompetition.png"
   },
   {
     "Event Name": "Brain Battles",
@@ -454,7 +453,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 2,
     "Venue": "L-5",
-    "Card Image": "TechnicalQuiz.png",
+    "Card Image": "TechnicalQuiz.png"
   },
   {
     "Event Name": "Web Design Competition",
@@ -473,7 +472,7 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 1,
     "Venue": "Hi-Tech 4",
-    "Card Image": "WebDesignCompetition.png",
+    "Card Image": "WebDesignCompetition.png"
   },
   {
     "Event Name": "The Cheat Day",
@@ -492,7 +491,7 @@ export const competitions = [
     "End Time": "6:30 PM",
     "Day": 1,
     "Venue": "L-2",
-    "Card Image": "OpenBook.png",
+    "Card Image": "OpenBook.png"
   },
   {
     "Event Name": "Startup Fest",
@@ -513,7 +512,7 @@ export const competitions = [
     "Day": "Multiple days event",
     "Venue":
       "Online for idea submission; Conference venue not specified (may be online or offline)",
-    "Card Image": "STARTUP.png",
+    "Card Image": "STARTUP.png"
   },
   {
     "Event Name": "Ideathons",
@@ -532,7 +531,7 @@ export const competitions = [
     "End Time": "05:00 PM",
     "Day": 1,
     "Venue": "Hi-Tech 5",
-    "Card Image": "Ideathons.png",
+    "Card Image": "Ideathons.png"
   },
   {
     "Event Name": "Treasure Hunt",
@@ -551,7 +550,7 @@ export const competitions = [
     "End Time": "03:30 PM",
     "Day": 1,
     "Venue": "Lecture Hall Park",
-    "Card Image": "TeasureHunt.png",
+    "Card Image": "TeasureHunt.png"
   },
   {
     "Event Name": "SoapBOX Car Racing",
@@ -569,7 +568,7 @@ export const competitions = [
     "End Time": "12:30 AM",
     "Day": 1,
     "Venue": "Campus Roads",
-    "Card Image": "SoapboxCarRacing.png",
+    "Card Image": "SoapboxCarRacing.png"
   },
   {
     "Event Name": "Reel Heroines: Women Who Lead the Future",
@@ -587,7 +586,7 @@ export const competitions = [
     "Day": "",
     "isWomen": true,
     "Venue": "L-5",
-    "Card Image": "Reels making competetion.png",
+    "Card Image": "Reels making competetion.png"
   },
   {
     "Event Name": "Bug Bounty",
@@ -606,7 +605,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L-6",
-    "Card Image": "TechQuestTrailblazing Women Edition.png",
+    "Card Image": "TechQuestTrailblazing Women Edition.png"
   },
   {
     "Event Name": "TechQuest: Trailblazing Women Edition",
@@ -626,7 +625,7 @@ export const competitions = [
     "Day": 1,
     "isWomen": true,
     "Venue": "Lecture Hall Park",
-    "Card Image": "TechQuestTrailblazing Women Edition.png",
+    "Card Image": "TechQuestTrailblazing Women Edition.png"
   },
   {
     "Event Name": "SheSpeaks: Debating the Future of Women in Tech",
@@ -646,7 +645,7 @@ export const competitions = [
     "Day": 2,
     "isWomen": true,
     "Venue": "L-4",
-    "Card Image": "SheSpeaks Debating the Future of Women in Tec.png",
+    "Card Image": "SheSpeaks Debating the Future of Women in Tec.png"
   },
   {
     "Event Name": "Ink Women's Voice in Technology",
@@ -666,7 +665,7 @@ export const competitions = [
     "Day": 2,
     "isWomen": true,
     "Venue": "L-5",
-    "Card Image": "Ink Women_s Voice in Technology.png",
+    "Card Image": "Ink Women_s Voice in Technology.png"
   },
   {
     "Event Name": "Raw Footage Video Editing Event",
@@ -685,7 +684,7 @@ export const competitions = [
     "End Time": "03:30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 4",
-    "Card Image": "VideoEditing.png",
+    "Card Image": "VideoEditing.png"
   },
   {
     "Event Name": "Mr. / Ms. Manager",
@@ -703,7 +702,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": "1",
     "Venue": "L-7",
-    "Card Image": "Techtalks_Driving.png",
+    "Card Image": "Techtalks_Driving.png"
   },
   {
     "Event Name": "WHO AM I ?",
@@ -722,9 +721,8 @@ export const competitions = [
     "End Time": "3:30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 5",
-    "Card Image": "Who_am_I.png",
+    "Card Image": "Who_am_I.png"
   },
-
   {
     "Event Name": "Aeromodelling",
     "Description":
@@ -742,104 +740,104 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 1,
     "Venue": "Activity Center",
-    "Card Image": "Aeromodelling.png",
+    "Card Image": "Aeromodelling.png"
   },
   {
-      "Event Name": "EMOJI ENCRYPTION",
-      "Description": "Emoji Encryption is a thrilling competition where participants will decode tech-related words, commands, or paragraphs represented by emojis. The event challenges decoding skills across three levels, with increasing difficulty:",
-      "Rules": "Level 1: Word Guessing – Decode individual tech terms like '🌩 ☁ 🔢' (Cloud Computing).\nLevel 2: Short Sentences – Break down short phrases like '⌨ 💻 📂 🔄' (Save As).\nLevel 3: Longer Paragraphs – Decode full sentences, such as '🔐 💼' (data security). As levels progress, the complexity increases, and points are awarded based on accuracy and speed.",
-      "Prizes": "700",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "49",
-      "Lead Name": "AMAN BHASKAR",
-      "Lead Contact Number": 8057587498,
-      "Judging Criteria": "",
-      "Start Time": "11:00 AM",
-      "End Time": "12:00 PM",
-      "Day": 1,
-      "Venue": "L 9",
-      "Card Image": "Emoji_Encryption.png"
-    },
-    {
-      "Event Name": "Animated Video Competition",
-      "Description": "Animated Video Competition is a platform for participants to showcase their creativity and technical skills through animated storytelling. The theme of the competition is Technology, encouraging participants to explore its impact on the world, the future, and how it solves problems.",
-      "Rules": "Eligibility: Open to students only (proof of student status may be required).\nIndividual or team participation is allowed.\nSubmission Guidelines: Video Length: The animated video should be 3-5 minutes long. Format: Videos must be submitted in MP4 format with a minimum resolution of 720p. Originality: All content must be original, created specifically for this competition. Plagiarism will result in disqualification.\nSubmission Method: Upload the video and share the link via the provided registration form (link to be provided). Ensure the video is accessible for judging.",
-      "Prizes": "800",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "49",
-      "Lead Name": "Abhi Bhadera",
-      "Lead Contact Number": 7732803858,
-      "Judging Criteria": "Creativity & Originality (30%): How unique and innovative is the concept? Does the video stand out from others?\nTechnical Skill (25%): The quality of animation, use of tools, and technical execution.\nStorytelling (25%): The strength and clarity of the narrative or message conveyed through the animation.\nAdherence to Theme (10%): How well does the video align with the technology theme?\nOverall Impact (10%): The overall impression of the video, including emotional and visual appeal.",
-      "Start Time": "02:00 PM",
-      "End Time": "03:30 PM",
-      "Day": 2,
-      "Venue": "L 11",
-      "Card Image": "Animated_Video_Competition.png"
-    },
-    {
-      "Event Name": "JAM (Just a minute)",
-      "Description": "This event will be based on a participant's speaking skills and logical thinking. Participants will be given any random topic and asked to speak on it for the required time duration.",
-      "Rules": "1. Time duration: Only 2-3 minutes (max.) will be given to speak on a topic.\n2. Language use: Abusive, caste-based, political-based, or religion-based language is prohibited. Use of such language will result in disqualification.",
-      "Prizes": "700",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "49",
-      "Lead Name": "Abishek Salaria",
-      "Lead Contact Number": 6006618668,
-      "Judging Criteria": "",
-      "Start Time": "11:00 AM",
-      "End Time": "12:00 PM",
-      "Day": 1,
-      "Venue": "L-4",
-      "Card Image": "JAM.png"
-    },
-    {
-      "Event Name": "Squid Game",
-      "Description": "This event will consist of multiple challenges that test participants' logical thinking and creativity, such as quizzes, logo puzzles, and Pictionary, among others.",
-      "Rules": "1. Quiz: The first mini-challenge will be a quiz, which will be based on any topic, challenging the logic and knowledge of the participants. The top 30 out of 60 participants will proceed to the next round.\n2. Logo puzzle: Participants will carve out logo symbols from clay work in a team-based challenge.\n3. Pictionary: Teams must guess the pictures drawn by their teammates on a smart screen.\n4. Guess the Principle: Participants will guess scientific principles or laws based on given cues.\n5. Business Proposal: In the final round, participants will present business solutions based on real-life problems.",
-      "Prizes": "1000",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "49",
-      "Lead Name": "Maratib Maajid",
-      "Lead Contact Number": 7889869893,
-      "Judging Criteria": "Qualification will be based on performance in each mini-challenge.\nQuiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
-      "Start Time": "02:00 PM",
-      "End Time": "04:30 PM",
-      "Day": "1",
-      "Venue": "Mech. Dept. Park",
-      "Card Image": "Squid_Game.png"
-    },
-    {
-      "Event Name": "Keyboard Jumble",
-      "Description": "This event tests participants' quick thinking, speed, and knowledge of keyboard layouts. Participants will be provided with keyboards where the keys have been swapped or misplaced. Their task is to rearrange the keys in the correct manner within a fixed time.",
-      "Rules": "Objective: Participants must correctly arrange the keyboard keys to their standard positions within the allotted time.\nTime Duration: Maximum of 5 minutes per participant to complete the task.\nRules: No external help allowed, and only standard QWERTY keyboard layouts are acceptable. Disqualification: Any form of tampering with the keyboard or rule violations will result in immediate disqualification.",
-      "Prizes": "800",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "49",
-      "Lead Name": "Akash Kumar Singh",
-      "Lead Contact Number": 9234706742,
-      "Judging Criteria": "Speed and accuracy will be the key factors in determining the winners.",
-      "Start Time": "11:00 AM",
-      "End Time": "12:00 PM",
-      "Day": 1,
-      "Venue": "L-8",
-      "Card Image": "Keyboard_Jumble.png"
-    },
-    {
-      "Event Name": "Tech States Showcase: Innovations Across the Nation",
-      "Description": "This event invites participants to present technology innovations from their respective states through small-scale models.",
-      "Rules": "Objective: Showcase unique technological advancements linked to a specific state.\nTime Duration: Each presentation will last a maximum of 10 minutes, including Q&A.\nModel Requirement: Participants must present a small-scale model related to their innovation.\nRelevance: The innovation must directly relate to the state represented.\nDisqualification: Any form of plagiarism or rule violations will lead to disqualification.",
-      "Prizes": "3500",
-      "NIT Entry Fee": "",
-      "Outside Entry Fee": "149",
-      "Lead Name": "AMAN BHASKAR",
-      "Lead Contact Number": 8057587498,
-      "Judging Criteria": "Judging will be based on relevance to the state, innovation, clarity of presentation, pros and cons analysis, and public engagement.",
-      "Start Time": "05:00 PM",
-      "End Time": "06:30 PM",
-      "Day": 2,
-      "Venue": "Main Stage",
-      "Card Image": "Tech_States_Showcase.png"
-    },      
+    "Event Name": "EMOJI ENCRYPTION",
+    "Description": "Emoji Encryption is a thrilling competition where participants will decode tech-related words, commands, or paragraphs represented by emojis. The event challenges decoding skills across three levels, with increasing difficulty:",
+    "Rules": "Level 1: Word Guessing – Decode individual tech terms like '🌩 ☁ 🔢' (Cloud Computing).\nLevel 2: Short Sentences – Break down short phrases like '⌨ 💻 📂 🔄' (Save As).\nLevel 3: Longer Paragraphs – Decode full sentences, such as '🔐 💼' (data security). As levels progress, the complexity increases, and points are awarded based on accuracy and speed.",
+    "Prizes": "700",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "AMAN BHASKAR",
+    "Lead Contact Number": 8057587498,
+    "Judging Criteria": "",
+    "Start Time": "11:00 AM",
+    "End Time": "12:00 PM",
+    "Day": 1,
+    "Venue": "L 9",
+    "Card Image": "Emoji_Encryption.png"
+  },
+  {
+    "Event Name": "Animated Video Competition",
+    "Description": "Animated Video Competition is a platform for participants to showcase their creativity and technical skills through animated storytelling. The theme of the competition is Technology, encouraging participants to explore its impact on the world, the future, and how it solves problems.",
+    "Rules": "Eligibility: Open to students only (proof of student status may be required).\nIndividual or team participation is allowed.\nSubmission Guidelines: Video Length: The animated video should be 3-5 minutes long. Format: Videos must be submitted in MP4 format with a minimum resolution of 720p. Originality: All content must be original, created specifically for this competition. Plagiarism will result in disqualification.\nSubmission Method: Upload the video and share the link via the provided registration form (link to be provided). Ensure the video is accessible for judging.",
+    "Prizes": "800",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Abhi Bhadera",
+    "Lead Contact Number": 7732803858,
+    "Judging Criteria": "Creativity & Originality (30%): How unique and innovative is the concept? Does the video stand out from others?\nTechnical Skill (25%): The quality of animation, use of tools, and technical execution.\nStorytelling (25%): The strength and clarity of the narrative or message conveyed through the animation.\nAdherence to Theme (10%): How well does the video align with the technology theme?\nOverall Impact (10%): The overall impression of the video, including emotional and visual appeal.",
+    "Start Time": "02:00 PM",
+    "End Time": "03:30 PM",
+    "Day": 2,
+    "Venue": "L 11",
+    "Card Image": "Animated_Video_Competition.png"
+  },
+  {
+    "Event Name": "JAM (Just a minute)",
+    "Description": "This event will be based on a participant's speaking skills and logical thinking. Participants will be given any random topic and asked to speak on it for the required time duration.",
+    "Rules": "1. Time duration: Only 2-3 minutes (max.) will be given to speak on a topic.\n2. Language use: Abusive, caste-based, political-based, or religion-based language is prohibited. Use of such language will result in disqualification.",
+    "Prizes": "700",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Abishek Salaria",
+    "Lead Contact Number": 6006618668,
+    "Judging Criteria": "",
+    "Start Time": "11:00 AM",
+    "End Time": "12:00 PM",
+    "Day": 1,
+    "Venue": "L-4",
+    "Card Image": "JAM.png"
+  },
+  {
+    "Event Name": "Squid Game",
+    "Description": "This event will consist of multiple challenges that test participants' logical thinking and creativity, such as quizzes, logo puzzles, and Pictionary, among others.",
+    "Rules": "1. Quiz: The first mini-challenge will be a quiz, which will be based on any topic, challenging the logic and knowledge of the participants. The top 30 out of 60 participants will proceed to the next round.\n2. Logo puzzle: Participants will carve out logo symbols from clay work in a team-based challenge.\n3. Pictionary: Teams must guess the pictures drawn by their teammates on a smart screen.\n4. Guess the Principle: Participants will guess scientific principles or laws based on given cues.\n5. Business Proposal: In the final round, participants will present business solutions based on real-life problems.",
+    "Prizes": "1000",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Maratib Maajid",
+    "Lead Contact Number": 7889869893,
+    "Judging Criteria": "Qualification will be based on performance in each mini-challenge.\nQuiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
+    "Start Time": "02:00 PM",
+    "End Time": "04:30 PM",
+    "Day": "1",
+    "Venue": "Mech. Dept. Park",
+    "Card Image": "Squid_Game.png"
+  },
+  {
+    "Event Name": "Keyboard Jumble",
+    "Description": "This event tests participants' quick thinking, speed, and knowledge of keyboard layouts. Participants will be provided with keyboards where the keys have been swapped or misplaced. Their task is to rearrange the keys in the correct manner within a fixed time.",
+    "Rules": "Objective: Participants must correctly arrange the keyboard keys to their standard positions within the allotted time.\nTime Duration: Maximum of 5 minutes per participant to complete the task.\nRules: No external help allowed, and only standard QWERTY keyboard layouts are acceptable. Disqualification: Any form of tampering with the keyboard or rule violations will result in immediate disqualification.",
+    "Prizes": "800",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Akash Kumar Singh",
+    "Lead Contact Number": 9234706742,
+    "Judging Criteria": "Speed and accuracy will be the key factors in determining the winners.",
+    "Start Time": "11:00 AM",
+    "End Time": "12:00 PM",
+    "Day": 1,
+    "Venue": "L-8",
+    "Card Image": "Keyboard_Jumble.png"
+  },
+  {
+    "Event Name": "Tech States Showcase: Innovations Across the Nation",
+    "Description": "This event invites participants to present technology innovations from their respective states through small-scale models.",
+    "Rules": "Objective: Showcase unique technological advancements linked to a specific state.\nTime Duration: Each presentation will last a maximum of 10 minutes, including Q&A.\nModel Requirement: Participants must present a small-scale model related to their innovation.\nRelevance: The innovation must directly relate to the state represented.\nDisqualification: Any form of plagiarism or rule violations will lead to disqualification.",
+    "Prizes": "3500",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "149",
+    "Lead Name": "AMAN BHASKAR",
+    "Lead Contact Number": 8057587498,
+    "Judging Criteria": "Judging will be based on relevance to the state, innovation, clarity of presentation, pros and cons analysis, and public engagement.",
+    "Start Time": "05:00 PM",
+    "End Time": "06:30 PM",
+    "Day": 2,
+    "Venue": "Main Stage",
+    "Card Image": "Tech_States_Showcase.png"
+  }  
 ];
 
 
