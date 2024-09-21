@@ -114,7 +114,7 @@ function Hero() {
       </video>
 
       {/* Overlay */}
-      {/* <div className="absolute z-10 inset-0 bg-gradient-to-b from-black via-black/70 to-black/50"></div> */}
+      <div className="absolute z-10 inset-0 bg-gradient-to-b from-black via-black/40 to-black/20"></div>
 
       <div className="relative z-20">
         <div>

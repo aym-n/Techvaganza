@@ -1273,7 +1273,7 @@ export const gamezone = [
 export const talks = [
   {
     "Event Name": "Microcontrollers, \nHands on practice \nwith Arduino UNO",
-    "Description": "At the end of the workshop, students will have gained a foundational \nunderstanding of microcontrollers and hands-on experience with Arduino Uno. \nThey will have successfully completed basic electronics projects, both \nphysically and through simulation on Tinkercad. The workshop will conclude \nwith a brief Q&A session, providing participants the opportunity to clarify any \ndoubts and discuss potential next steps in their learning journey.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Mr. Kaif Nabi Wani & Mr. Murtaza",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1289,7 +1289,7 @@ export const talks = [
   },
   {
     "Event Name": "Vernacular BuildingStyle and Earthquake Prone Areas with specialReference to Kashmir",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1305,7 +1305,7 @@ export const talks = [
   },
   {
     "Event Name": "Introduction To Drones",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Mr. Abid Fayaz ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1321,7 +1321,7 @@ export const talks = [
   },
   {
     "Event Name": "Solid Works",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Roshan Kumar",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1337,7 +1337,7 @@ export const talks = [
   },
   {
     "Event Name": "ML",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1353,7 +1353,7 @@ export const talks = [
   },
   {
     "Event Name": "Python",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1369,7 +1369,7 @@ export const talks = [
   },
   {
     "Event Name": "Robotics",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1385,7 +1385,7 @@ export const talks = [
   },
   {
     "Event Name": "AI",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1401,7 +1401,7 @@ export const talks = [
   },
   {
     "Event Name": "App Development",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1417,7 +1417,7 @@ export const talks = [
   },
   {
     "Event Name": "Web Development",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1433,7 +1433,7 @@ export const talks = [
   },
   {
     "Event Name": "Internet Of Thngs (IoT)",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1449,7 +1449,7 @@ export const talks = [
   },
   {
     "Event Name": "3D modelling",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1465,7 +1465,7 @@ export const talks = [
   },
   {
     "Event Name": "CAD",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1481,7 +1481,7 @@ export const talks = [
   },
   {
     "Event Name": "CLC(Computerised Numerical Control) ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1497,7 +1497,7 @@ export const talks = [
   },
   {
     "Event Name": "Circuit Designing",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1513,7 +1513,7 @@ export const talks = [
   },
   {
     "Event Name": "Electric Vehicles",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1529,7 +1529,7 @@ export const talks = [
   },
   {
     "Event Name": "LaTeX (Document Preparation System)",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1562,7 +1562,7 @@ export const talks = [
   },
   {
     "Event Name": "Thermocalc",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1578,7 +1578,7 @@ export const talks = [
   },
   {
     "Event Name": "Aspen Hysys",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1594,7 +1594,7 @@ export const talks = [
   },
   {
     "Event Name": "Empowering Financial Literacy: Transforming Futures Through EdTech ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Arth Nirmiti",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1610,7 +1610,7 @@ export const talks = [
   },
   {
     "Event Name": "AI & Animal Husbandry ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Ambreen Hamdani (SKAUST) ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1626,7 +1626,7 @@ export const talks = [
   },
   {
     "Event Name": "The Future of Electric Vehicles: Driving Towards Sustainability. ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Salman Ahmad (IUST)",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1642,7 +1642,7 @@ export const talks = [
   },
   {
     "Event Name": "Renewable Energy: Pathway to a Sustainable Tomorrow ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Sharique Anees (IUST)",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1658,7 +1658,7 @@ export const talks = [
   },
   {
     "Event Name": "AI",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr. Rufsan-ul-Haq ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1674,7 +1674,7 @@ export const talks = [
   },
   {
     "Event Name": "Electrospun nanofibers - Opening new gateways for controlled and targeted drug delivery systems",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Nisar Ahmad Khan (KU)",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1690,7 +1690,7 @@ export const talks = [
   },
   {
     "Event Name": "Knowledge Graph Applications in Diverse Domain ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Veningston K ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1706,7 +1706,7 @@ export const talks = [
   },
   {
     "Event Name": "Black Holes",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Professor Prince Ahmad Ganai",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1722,7 +1722,7 @@ export const talks = [
   },
   {
     "Event Name": "Multifunctional Grid Connected PV System ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr Ikhlaq Hussain",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1738,7 +1738,7 @@ export const talks = [
   },
   {
     "Event Name": "A novel class of material",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr. Harkirat Singh",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1754,7 +1754,7 @@ export const talks = [
   },
   {
     "Event Name": "Applications of Hydrogen Storage Materials ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr. Anshul Gupta ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1770,7 +1770,7 @@ export const talks = [
   },
   {
     "Event Name": "Tech role in Heritage Preservation",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Muneer Ahmad Dar ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1786,7 +1786,7 @@ export const talks = [
   },
   {
     "Event Name": "Career Counselling ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Salman Shahid ",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1802,7 +1802,7 @@ export const talks = [
   },
   {
     "Event Name": "Mental Health ",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Feroz Ahmad Malla",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1818,7 +1818,7 @@ export const talks = [
   },
   {
     "Event Name": "Content Creation",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Nufeel Mir",
     "Prizes": "",
     "NIT Entry Fee": "",
@@ -1834,7 +1834,7 @@ export const talks = [
   },
   {
     "Event Name": "Art of Persuasion: Writing Skills for the Tech World",
-    "Description": "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis and adaptation of vernacular buildings in Kashmir.",
+    "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Faheem ul Islam",
     "Prizes": "",
     "NIT Entry Fee": "",

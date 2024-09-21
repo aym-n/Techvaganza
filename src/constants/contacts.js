@@ -39,7 +39,7 @@ export const teams = {
       phone: "6205 821730"
     },
     {
-      title: "Co-Lead",
+      title: "Lead",
       name: "Adarsh Fulzule",
       email: "adarsh_2021bite067@nitsri.ac.in",
       phone: "70936 82281"
@@ -49,6 +49,18 @@ export const teams = {
       name: "Vikas Kumar",
       email: "vikas_2021bciv084@nitsri.ac.in",
       phone: "73185 65386"
+    },
+    {
+      title: "Co-Lead",
+      name: "Tabish Gulzar",
+      email: "",
+      phone: ""
+    },
+    {
+      title: "Co-Lead",
+      name: "Poonam Kumari",
+      email: "",
+      phone: ""
     }
   ],
   "Documentation and Certification": [
@@ -106,9 +118,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Aditi Singh",
-      email: "aditi_2021bele098@nitsri.ac.in",
-      phone: "77808 36457"
+      name: "Ankita Kumari",
+      email: "",
+      phone: ""
     }
   ],
   "Ground Management and Crowd Control": [
@@ -120,15 +132,21 @@ export const teams = {
     },
     {
       title: "Lead",
-      name: "Adil",
-      email: "adil_2021bmec029@nitsri.ac.in",
-      phone: "7780938922"
-    },
-    {
-      title: "Co-Lead",
       name: "Hritik Singh",
       email: "hritik_2021bele065@mitsri.ac.in",
       phone: "74840 31479"
+    },
+    {
+      title: "Lead",
+      name: "Khalid Malik",
+      email: "Khalid_2021bche024@nitsri.ac.in",
+      phone: "9149905523"
+    },
+    {
+      title: "Lead",
+      name: "Priya Kumari ",
+      email: "priya_2021bmme074@nitsri.ac.in",
+      phone: "8690921312"
     },
     {
       title: "Co-Lead",
@@ -138,16 +156,28 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Tabish",
-      email: "tabish_2021bmec041@nitsri.ac.in",
-      phone: "9149853067"
-    },
-    {
-      title: "Co-Lead",
       name: "Ahsan ul Haq",
       email: "ahsan_2022bciv039@nitsri.ac.in",
       phone: "6005498686"
-    }
+    },
+    {
+      title: "Co-Lead",
+      name: "Kanhaiya Pandey",
+      email: "kanhaiya_2022bciv147@nitsri.ac.in",
+      phone: "7889730023"
+    },
+    {
+      title: "Co-Lead",
+      name: "Ubaid Yaseen ",
+      email: "ubaidyaseen01@gmail.com",
+      phone: "7006971792"
+    },
+    {
+      title: "Co-Lead",
+      name: "savez",
+      email: "",
+      phone: ""
+    },
   ],
   "Hosting and Content": [
     {
@@ -218,33 +248,27 @@ export const teams = {
     },
     {
       title: "Lead",
-      name: "Samreen",
-      email: "samreen_2021bciv037@nitsri.ac.in",
-      phone: "9541799806"
-    },
-    {
-      title: "Co-Lead",
       name: "Mir Mohammad Toib",
       email: "mir_2021bmme042@nitsri.ac.in",
       phone: "70062 49927"
     },
     {
-      title: "Co-Lead",
-      name: "Berzish Lateef",
-      email: "berzish_2022bmme009@nitsri.ac.in",
-      phone: "9103135074"
-    },
-    {
-      title: "Co-Lead",
-      name: "Prince Kumar Verma",
-      email: "prince_2021bcse040@nitsri.ac.in",
-      phone: "9939390121"
+      title: "Lead",
+      name: "Mir Tasleen",
+      email: "mirtasleem1234@gmail.com",
+      phone: "+91 7006460278"
     },
     {
       title: "Co-Lead",
       name: "Ather Parvez",
       email: "ather_2021bciv057@nitsri.ac.in",
       phone: "6005685613"
+    },
+    {
+      title: "Co-Lead",
+      name: "Syed Nisheta Andrabi",
+      email: "andrabi_2021bele050@nitsri.ac.in",
+      phone: "7889405665"
     }
   ],
   "Photography": [
@@ -282,9 +306,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Anshika Mahajan",
-      email: "anshika_2021bmec035@nitsri.ac.in",
-      phone: "6006873707"
+      name: "Aryan Sharma",
+      email: "",
+      phone: ""
     }
   ],
   "SocialMedia Publicity": [
@@ -352,13 +376,19 @@ export const teams = {
       title: "Lead",
       name: "Prudhvi Ram",
       email: "prudhvi_2021bcse027@nitsri.ac.in",
-      phone: "93817 26665"
+      phone: "9381726665"
     },
     {
       title: "Co-Lead",
       name: "Lakshmi Swati",
       email: "lakshmi_2022bmme045@nitsri.ac.in",
       phone: "91103 16547"
+    },
+    {
+      title: "Co-Lead",
+      name: "Surabh Choudhary",
+      email: "",
+      phone: " "
     }
   ],
   "Technical Events and ExpertTalks": [
@@ -369,11 +399,17 @@ export const teams = {
       phone: "60060 20990"
     },
     {
-      title: "Co-Lead",
+      title: "Lead",
       name: "Tushar Kumar",
       email: "tushar_2022bele010@nitsri.ac.in",
       phone: "60056 58753"
-    }
+    },
+    {
+      title: "Co-Lead",
+      name: "Zeeshan Bashir",
+      email: "",
+      phone: ""
+    },
   ],
   "Technical Support and Control": [
     {
@@ -458,9 +494,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Riya kannoly",
-      email: "riya_2021bmme026@nitsri.ac.in",
-      phone: "98333 44050"
+      name: "Shakil HUssain",
+      email: "",
+      phone: ""
     }
   ],
   "Web Development": [
@@ -496,5 +532,13 @@ export const teams = {
       email: "2023nitsgr166@nitsri.ac.in",
       phone: "8899005236"
     }
+  ],
+  "Creative":[
+    {
+      title: "Lead",
+      name: "Riya Kannoly",
+      email: "",
+      phone: " "
+    },
   ]
 };
