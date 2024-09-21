@@ -174,9 +174,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "savez",
-      email: "",
-      phone: ""
+      name: "Savez Malik ",
+      email: "savezmalik920@gmail.com",
+      phone: "7051363932"
     },
   ],
   "Hosting and Content": [
@@ -496,7 +496,7 @@ export const teams = {
       title: "Co-Lead",
       name: "Shakil HUssain",
       email: "",
-      phone: ""
+      phone: "6005079530"
     }
   ],
   "Web Development": [
