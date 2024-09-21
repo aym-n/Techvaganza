@@ -40,27 +40,27 @@ export const teams = {
     },
     {
       title: "Lead",
-      name: "Adarsh Fulzule",
+      name: "Adarsh Fulzele",
       email: "adarsh_2021bite067@nitsri.ac.in",
       phone: "70936 82281"
     },
     {
+      title: "Lead",
+      name: "Tabish Gulzar",
+      email: "tabish_2021bmec041@nitsri.ac.in",
+      phone: "9149853067"
+    },
+    {
       title: "Co-Lead",
-      name: "Vikas Kumar",
+      name: "Vikas Singh",
       email: "vikas_2021bciv084@nitsri.ac.in",
       phone: "73185 65386"
     },
     {
       title: "Co-Lead",
-      name: "Tabish Gulzar",
-      email: "",
-      phone: ""
-    },
-    {
-      title: "Co-Lead",
       name: "Poonam Kumari",
-      email: "",
-      phone: ""
+      email: "poonam_2021bite057@nitsri.ac.in",
+      phone: "9953366705"
     }
   ],
   "Documentation and Certification": [
@@ -407,8 +407,8 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Zeeshan Bashir",
-      email: "",
-      phone: ""
+      email: "Zeeshan_2022bmec062@nitsri.ac.in",
+      phone: "788 943 5547"
     },
   ],
   "Technical Support and Control": [
@@ -495,7 +495,7 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Shakil HUssain",
-      email: "",
+      email: "shakil_2021bite080@nitsri.ac.in",
       phone: "6005079530"
     }
   ],
