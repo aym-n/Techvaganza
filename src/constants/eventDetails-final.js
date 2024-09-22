@@ -1333,7 +1333,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Solid Works.png",
   },
   {
     "Event Name": "ML",
@@ -1349,7 +1349,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "ML.png",
   },
   {
     "Event Name": "Python",
@@ -1365,7 +1365,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Python.png",
   },
   {
     "Event Name": "Robotics",
@@ -1381,7 +1381,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Robotics.png",
   },
   {
     "Event Name": "AI",
@@ -1413,7 +1413,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "App Development.png",
   },
   {
     "Event Name": "Web Development",
@@ -1429,7 +1429,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Web Development.png",
   },
   {
     "Event Name": "Internet Of Thngs (IoT)",
@@ -1461,7 +1461,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "3D Modelling.png",
   },
   {
     "Event Name": "CAD",
@@ -1477,7 +1477,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "CAD.png",
   },
   {
     "Event Name": "CLC(Computerised Numerical Control) ",
@@ -1493,7 +1493,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "CLC(Computerised.png",
   },
   {
     "Event Name": "Circuit Designing",
@@ -1509,7 +1509,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Circuit Designing.png",
   },
   {
     "Event Name": "Electric Vehicles",
@@ -1525,7 +1525,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Electric Vehicle.png",
   },
   {
     "Event Name": "LaTeX (Document Preparation System)",
@@ -1541,7 +1541,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "LateX.png",
   },
   {
     "Event Name": "Tech & Expert Talks",
@@ -1606,7 +1606,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Empowering Financial Literacy.png",
   },
   {
     "Event Name": "AI & Animal Husbandry ",
@@ -1622,7 +1622,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "AI & Animal Husbandry.png",
   },
   {
     "Event Name": "The Future of Electric Vehicles: Driving Towards Sustainability. ",
@@ -1638,7 +1638,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "The Future of Electric Vehicles Driving.png",
   },
   {
     "Event Name": "Renewable Energy: Pathway to a Sustainable Tomorrow ",
@@ -1654,7 +1654,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Renewable Energy Pathway to a.png",
   },
   {
     "Event Name": "AI",
@@ -1686,7 +1686,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Electrospun nanofibers - Opening new.png",
   },
   {
     "Event Name": "Knowledge Graph Applications in Diverse Domain ",
@@ -1702,7 +1702,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Knowledge Graph Applications.png",
   },
   {
     "Event Name": "Black Holes",
@@ -1718,7 +1718,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Black Holes.png",
   },
   {
     "Event Name": "Multifunctional Grid Connected PV System ",
@@ -1734,7 +1734,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Multifunctional Grid.png",
   },
   {
     "Event Name": "A novel class of material",
@@ -1750,7 +1750,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "A novel class of material.png",
   },
   {
     "Event Name": "Applications of Hydrogen Storage Materials ",
@@ -1766,7 +1766,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Applications of Hydrogen.png",
   },
   {
     "Event Name": "Tech role in Heritage Preservation",
@@ -1782,7 +1782,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Tech role in Heritage Preservation.png",
   },
   {
     "Event Name": "Career Counselling ",
@@ -1798,7 +1798,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Career Counselling.png",
   },
   {
     "Event Name": "Mental Health ",
@@ -1814,7 +1814,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Mental Health.png",
   },
   {
     "Event Name": "Content Creation",
@@ -1830,7 +1830,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Content Creation.png",
   },
   {
     "Event Name": "Art of Persuasion: Writing Skills for the Tech World",
@@ -1846,7 +1846,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "Art of Persuasion Writing.png",
   },
   {
     "Event Name": "Tech Workshops",
