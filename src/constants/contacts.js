@@ -483,7 +483,7 @@ export const teams = {
     {
       title: "Lead",
       name: "Ashiq Hussain",
-      email: "ashiq_2021bche057@nitsri.ac.in",
+      email: "Ashiq_2021bmme091@nitsri.ac.in",
       phone: "88992 50591"
     },
     {
