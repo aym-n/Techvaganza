@@ -253,7 +253,7 @@ export const teams = {
       phone: "70062 49927"
     },
     {
-      title: "Lead",
+      title: "Co-Lead",
       name: "Mir Tasleem",
       email: "mirtasleem1234@gmail.com",
       phone: "+91 7006460278"
