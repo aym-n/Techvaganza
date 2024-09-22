@@ -1384,7 +1384,7 @@ export const talks = [
     "Card Image": "Robotics.png",
   },
   {
-    "Event Name": "AI",
+    "Event Name": "Workshop on AI",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
@@ -1397,7 +1397,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "AI.png",
   },
   {
     "Event Name": "App Development",
@@ -1445,7 +1445,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "IOT.png",
   },
   {
     "Event Name": "3D modelling",
@@ -1657,7 +1657,7 @@ export const talks = [
     "Card Image": "Renewable Energy Pathway to a.png",
   },
   {
-    "Event Name": "AI",
+    "Event Name": "Talk on AI",
     "Description": "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
     "Description about Instructor / Speaker": "Dr. Rufsan-ul-Haq ",
     "Prizes": "",
@@ -1670,7 +1670,7 @@ export const talks = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+    "Card Image": "AI.png",
   },
   {
     "Event Name": "Electrospun nanofibers - Opening new gateways for controlled and targeted drug delivery systems",
