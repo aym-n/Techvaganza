@@ -119,8 +119,8 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Ankita Kumari",
-      email: "",
-      phone: ""
+      email: "ankitaa3586@gmail.com",
+      phone: "6005509568"
     }
   ],
   "Ground Management and Crowd Control": [
