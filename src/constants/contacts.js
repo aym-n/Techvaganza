@@ -254,7 +254,7 @@ export const teams = {
     },
     {
       title: "Lead",
-      name: "Mir Tasleen",
+      name: "Mir Tasleem",
       email: "mirtasleem1234@gmail.com",
       phone: "+91 7006460278"
     },
@@ -294,12 +294,6 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Fahad",
-      email: "fahad_2021bmec006@nitsri.ac.in",
-      phone: "95411 81078"
-    },
-    {
-      title: "Co-Lead",
       name: "Zainab",
       email: "zainab_2021bmec033@nitsri.ac.in",
       phone: "93020 90083"
@@ -307,8 +301,8 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Aryan Sharma",
-      email: "",
-      phone: ""
+      email: "aryan_2021bmec016@nitsri.ac.in",
+      phone: "914988 5523"
     }
   ],
   "SocialMedia Publicity": [
