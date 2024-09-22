@@ -756,7 +756,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L 9",
-    "Card Image": "Emoji_Encryption.png"
+    "Card Image": "emoji.png"
   },
   {
     "Event Name": "Animated Video Competition",
@@ -772,7 +772,7 @@ export const competitions = [
     "End Time": "03:30 PM",
     "Day": 2,
     "Venue": "L 11",
-    "Card Image": "Animated_Video_Competition.png"
+    "Card Image": "animated-video.png"
   },
   {
     "Event Name": "JAM (Just a minute)",
@@ -788,7 +788,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L-4",
-    "Card Image": "JAM.png"
+    "Card Image": "jam.png"
   },
   {
     "Event Name": "Squid Game",
@@ -804,7 +804,7 @@ export const competitions = [
     "End Time": "04:30 PM",
     "Day": "1",
     "Venue": "Mech. Dept. Park",
-    "Card Image": "Squid_Game.png"
+    "Card Image": "squid-game.png"
   },
   {
     "Event Name": "Keyboard Jumble",
@@ -820,7 +820,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L-8",
-    "Card Image": "Keyboard_Jumble.png"
+    "Card Image": "keyboard-jumble.png"
   },
   {
     "Event Name": "Tech States Showcase: Innovations Across the Nation",
@@ -836,7 +836,7 @@ export const competitions = [
     "End Time": "06:30 PM",
     "Day": 2,
     "Venue": "Main Stage",
-    "Card Image": "Tech_States_Showcase.png"
+    "Card Image": "tech-showcase.png"
   }  
 ];
 
@@ -866,7 +866,7 @@ export const performingEvents = [
     "End Time": "7:00 PM",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image" : "Sonic ShowdownBattle of Beats.png"
+    "Card Image" : "vihang.png"
   },
   {
     "Event Name": "Innovations Across the Nation",
