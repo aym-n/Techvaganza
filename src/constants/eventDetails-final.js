@@ -493,27 +493,27 @@ export const competitions = [
     "Venue": "L-2",
     "Card Image": "OpenBook.png"
   },
-  {
-    "Event Name": "Startup Fest",
-    "Description":
-      "TStartup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
-    "Rules":
-      "- Team Size: Minimum 2 members, Maximum 7 members\n- All team members must be current students of any institution\n- Submit innovative ideas by September 30, 2024, 11:59 PM IST\n- Top 10-15 ideas will be selected for a conference presentation on October 10, 2024",
-    "Prizes":
-      "- Incubation support from GIF-NIT\n- Seed funding up to INR 5 lakhs\n- Office space at GIF",
-    "NIT Entry Fee": "Not specified",
-    "Outside Entry Fee": "Not specified",
-    "Lead Name": "Not specified",
-    "Lead Contact Number": "Not specified",
-    "Judging Criteria":
-      "Not explicitly stated, but likely based on innovation, problem-solving ability, and potential impact",
-    "Start Time": "September 1, 2024, 12:00 AM IST (for idea submission)",
-    "End Time": "October 11, 2024, 1:00 PM IST (result declaration)",
-    "Day": "Multiple days event",
-    "Venue":
-      "Online for idea submission; Conference venue not specified (may be online or offline)",
-    "Card Image": "STARTUP.png"
-  },
+  // {
+  //   "Event Name": "Startup Fest",
+  //   "Description":
+  //     "TStartup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
+  //   "Rules":
+  //     "- Team Size: Minimum 2 members, Maximum 7 members\n- All team members must be current students of any institution\n- Submit innovative ideas by September 30, 2024, 11:59 PM IST\n- Top 10-15 ideas will be selected for a conference presentation on October 10, 2024",
+  //   "Prizes":
+  //     "- Incubation support from GIF-NIT\n- Seed funding up to INR 5 lakhs\n- Office space at GIF",
+  //   "NIT Entry Fee": "Not specified",
+  //   "Outside Entry Fee": "Not specified",
+  //   "Lead Name": "Not specified",
+  //   "Lead Contact Number": "Not specified",
+  //   "Judging Criteria":
+  //     "Not explicitly stated, but likely based on innovation, problem-solving ability, and potential impact",
+  //   "Start Time": "September 1, 2024, 12:00 AM IST (for idea submission)",
+  //   "End Time": "October 11, 2024, 1:00 PM IST (result declaration)",
+  //   "Day": "Multiple days event",
+  //   "Venue":
+  //     "Online for idea submission; Conference venue not specified (may be online or offline)",
+  //   "Card Image": "STARTUP.png"
+  // },
   {
     "Event Name": "Ideathons",
     "Description":

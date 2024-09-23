@@ -377,12 +377,6 @@ export const teams = {
       name: "Lakshmi Swati",
       email: "lakshmi_2022bmme045@nitsri.ac.in",
       phone: "91103 16547"
-    },
-    {
-      title: "Co-Lead",
-      name: "Surabh Choudhary",
-      email: "",
-      phone: " "
     }
   ],
   "Technical Events and ExpertTalks": [
@@ -531,8 +525,8 @@ export const teams = {
     {
       title: "Lead",
       name: "Riya Kannoly",
-      email: "",
-      phone: " "
+      email: "riya_2021bmme026@nitsri.ac.in",
+      phone: "9833344050"
     },
   ]
 };
