@@ -52,50 +52,14 @@ const Sidebar = ({ isOpen, onClose }) => {
           <p className="underline-animate relative inline-block">Events</p>
         </Link>
 
+        <Link
+          to="https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj"
+          className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
+          onClick={onClose}
+        >
+          <p className="underline-animate relative inline-block">Register</p>
+        </Link>
 
-        {/* register link  */}
-
-        {/* <div className="py-2 flex justify-center">
-          <button
-            className="text-gray-200 hover:text-secondary flex items-center text-xl "
-            onClick={() => toggleDropdown("register")}
-          >
-            <p className="underline-animate relative inline-block">Register</p>
-            <FaChevronDown
-              className={`ml-1 transition-transform duration-200 ${
-                isRegisterDropdownOpen ? "transform rotate-180" : ""
-              } text-sm`}
-            />
-          </button>
-          {isOpen && isRegisterDropdownOpen && (
-            <RegisterDropdown
-              isDropdownOpen={isRegisterDropdownOpen}
-              position={{ left: 180, top: 170 }}
-            />
-          )}
-        </div> */}
-
-        {/* resources link  */}
-
-        {/* <div className="py-2 flex justify-center">
-          <button
-            className="text-white hover:text-secondary flex items-center text-xl"
-            onClick={() => toggleDropdown("resources")}
-          >
-            <p className="underline-animate relative inline-block">Resources</p>
-            <FaChevronDown
-              className={`ml-1 transition-transform duration-200 ${
-                isResourceDropdownOpen ? "transform rotate-180" : ""
-              } text-sm`}
-            />
-          </button>
-          <div className="absolute left-0 w-full bg-neutral-700 bg-opacity-80 rounded-md mt-2">
-            <ResourceDropdown
-              isDropdownOpen={isResourceDropdownOpen}
-              position={{ left: 180, top: 205 }}
-            />
-          </div>
-        </div> */}
         <Link
           to="/schedule"
           className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"

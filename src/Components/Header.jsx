@@ -31,7 +31,7 @@ const Header = () => {
       >
         <div className="flex flex-row justify-between items-center container mx-auto ">
           <Link to="/">
-            <img src="/common/logo.png" className="h-28" alt="Logo" />
+            <img src="/common/logo.png" className="h-16 md:h-24" alt="Logo" />
           </Link>
 
           {/* Hamburger Button */}
@@ -54,42 +54,12 @@ const Header = () => {
             >
               Events
             </Link>
-
-            {/* <div className="underline-animate text-secondary relative inline-block">
-              <button
-                className="text-white hover:text-secondary flex items-center text-2xl"
-                onClick={() => toggleDropdown("register")}
-              >
-                Register
-                <FaChevronDown
-                  className={`ml-1 transition-transform duration-200 ${
-                    isRegisterDropdownOpen ? "transform rotate-180" : ""
-                  } text-sm`}
-                />
-              </button>
-              <RegisterDropdown
-                isDropdownOpen={isRegisterDropdownOpen}
-                position={{ right: 250, top: 68 }}
-              />
-            </div> */}
-
-            {/* <div className="underline-animate text-secondary relative inline-block">
-              <button
-                className="text-white hover:text-secondary flex items-center text-2xl "
-                onClick={() => toggleDropdown("resources")}
-              >
-                Resources
-                <FaChevronDown
-                  className={`ml-1 transition-transform duration-200 ${
-                    isResourceDropdownOpen ? "transform rotate-180" : ""
-                  } text-sm`}
-                />
-              </button>
-              <ResourceDropdown
-                isDropdownOpen={isResourceDropdownOpen}
-                position={{ right: 80, top: 68 }}
-              />
-            </div> */}
+            <Link
+              to="https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj"
+              className="text-white hover:text-secondary text-2xl underline-animate relative inline-block"
+            >
+              Register
+            </Link>
 
             <Link
               to="/schedule"
