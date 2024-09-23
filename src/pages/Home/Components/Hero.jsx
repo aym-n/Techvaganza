@@ -193,21 +193,15 @@ function Hero() {
               </div>
             </div>
           </div>
-          <div className="flex flex-col items-center justify-center md:flex-row gap-8 md:gap-7 my-10 md:mt-8">
-            {/* <p className="flex gap-4 items-center text-white textShadow-md md:textShadow font-figtree text-md md:text-3xl mt-5 ">
-              [ Event Registrations Opening Soon ]
-            </p> */}
-            <div className="flex gap-4 items-center text-primary">
-            <FaAddressCard size={24} />
+          <div className="mt-4 py-4 flex justify-center">
             <Link
               data-aos="fade-in"
               data-aos-delay="500"
               to={'https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj'}
-              className="text-white textShadow-sm md:textShadow font-figtree text-xl md:text-3xl"
+              className="px-6 md:px-8 py-3 ShadowBlur text-md md:text-xl rounded-full font-semibold text-gray-900 bg-primary border border-primary focus:outline-none text-center"
             >
-              [ Register Yourself ]
+              Attendee Registration
             </Link>
-          </div>
           </div>
         </div>
       </div>
