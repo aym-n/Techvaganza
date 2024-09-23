@@ -194,27 +194,20 @@ function Hero() {
             </div>
           </div>
           <div className="flex flex-col items-center justify-center md:flex-row gap-8 md:gap-7 my-10 md:mt-8">
-            <p className="flex gap-4 items-center text-white textShadow-md md:textShadow font-figtree text-md md:text-3xl mt-5 ">
+            {/* <p className="flex gap-4 items-center text-white textShadow-md md:textShadow font-figtree text-md md:text-3xl mt-5 ">
               [ Event Registrations Opening Soon ]
-            </p>
-            {/* <div className="flex gap-4 items-center text-secondary">
+            </p> */}
+            <div className="flex gap-4 items-center text-primary">
             <FaAddressCard size={24} />
             <Link
               data-aos="fade-in"
               data-aos-delay="500"
-              to={'/register'}
-              className=""
+              to={'https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj'}
+              className="text-white textShadow-sm md:textShadow font-figtree text-xl md:text-3xl"
             >
               [ Register Yourself ]
             </Link>
-          </div> */}
-            {/* <Link
-            data-aos="fade-in"
-            data-aos-delay="500"
-            className="rounded-full bg-primary text-secondary font-semibold py-4 px-10 font-kodeMono custom-glow"
-          >
-            Attendee Registration
-          </Link> */}
+          </div>
           </div>
         </div>
       </div>

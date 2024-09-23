@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 const TabView = ({ data }) => {
   // Split the semicolon-separated fields dynamically
 const rules = data["Rules"].split(";").map(rule => rule.trim()).filter(rule => rule !== "");
-const prizes = data["Prizes"].split(";").map(prize => prize.trim()).filter(prize => prize !== "");
 const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => criteria.trim()).filter(criteria => criteria !== "");
   return (
     <>
@@ -30,14 +29,17 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
                 <p key={index}>{rule}</p>
               ))}
             </div>
-
-            <hr className="mt-4 border border-primary" />
-            <h1 className="entry-header text-3xl tfont-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>
-            <div className="space-y-5 mx-4 font-semibold font-kodeMono">
-              {prizes.map((prize, index) => (
-                <p key={index}>{prize}</p>
-              ))}
-            </div>
+            { 
+              !data["prizes"] && 
+              parseInt(data["Prizes"].replace(/[^0-9]/g, '')) > 800 &&
+              (<>
+                <hr className="mt-4 border border-primary" />
+                <h1 className="entry-header text-3xl tfont-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>
+                <div className="space-y-5 mx-4 font-semibold font-kodeMono">
+                  {data["Prizes"]}
+                </div>
+              </>)
+            }
           </TabPanel>
 
           <TabPanel>
