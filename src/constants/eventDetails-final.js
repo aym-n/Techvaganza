@@ -923,8 +923,8 @@ export const performingEvents = [
   
 
   {
-    "Event Name": "Drawn Soccer",
-    "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings.",
+    "Event Name": "Drone Soccer",
+    "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression, creating an engaging experience for participants and spectators alike. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings. Each match will not only feature dynamic gameplay but also highlight the artistic flair of the participants, making it a true celebration of teamwork, technology, and creativity. This is a fantastic opportunity to be part of an event that pushes the boundaries of traditional sports and art. Don’t miss your chance to engage in this one-of-a-kind experience—register now to secure your spot and let your imagination and athleticism shine in this exciting fusion of disciplines!",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
     "Lead Name": "",
