@@ -27,9 +27,14 @@ export default function EventDetailsLayout({data}) {
           </p>
         </div>
         <div className="mb-4">
-          <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Entry Fee</p>
+          <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">
+            Entry Fee
+          </p>
           <p className="text-base mb-2">
-           <span className="font-bold mr-2"> Entry Fee:</span>  &#8377; {data["Outside Entry Fee"]}
+            <span className="font-bold mr-2">Entry Fee:</span>
+            {data["Outside Entry Fee"] === ""
+              ? ""
+              : `₹ ${data["Outside Entry Fee"]}`}
           </p>
         </div>
         <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
