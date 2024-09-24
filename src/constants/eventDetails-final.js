@@ -380,6 +380,22 @@ export const competitions = [
     "Card Image": "ROBOWAR.png"
   },
   {
+    "Event Name": "Innovations Across the Nation",
+    "Description": "(Exclusive Only for NIT Srinagar Students);Tech States Showcase: Innovations Across the Nation",
+    "Rules"   : "",
+    "Prizes"  : "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "AMAN BHASKAR",
+    "Lead Contact Number": 8057587498,
+    "Judging Criteria": "",
+    "Start Time": "5:00 PM",
+    "End Time": "6:30 PM",
+    "Day": 2,
+    "Venue": "Main Stage",
+    "Card Image" : "Leading With Vision Workshop.png"
+  },
+  {
     "Event Name": "Use the AI",
     "Description":
       "In this event, participants will have the opportunity to showcase their skills in using AI tools by creating practical applications. Whether you are a beginner or an experienced developer, this competition challenges you to design and implement an application with the help of AI addresses real-world needs.\n\nThis is your chance to push the boundaries of what AI can do and apply your knowledge to develop innovative tools that can make a difference. Let your creativity and technical skills shine as you bring your AI-powered ideas to life!",
@@ -868,19 +884,7 @@ export const performingEvents = [
     "Venue": "Main Stage",
     "Card Image" : "vihang.png"
   },
-  {
-    "Event Name": "Innovations Across the Nation",
-    "Description": "Tech States Showcase: Innovations Across the Nation",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "AMAN BHASKAR",
-    "Lead Contact Number": 8057587498,
-    "Start Time": "5:00 PM",
-    "End Time": "6:30 PM",
-    "Day": 2,
-    "Venue": "Main Stage",
-    "Card Image" : "Leading With Vision Workshop.png"
-  },
+  
   {
     "Event Name": "Sonic Showdown: Battle of Beats",
     "Description": "Sonic Showdown: Battle of Beats is an electrifying music production competition designed to showcase the creativity and technical skills of aspiring and experienced music producers. Participants will battle head-to-head to craft original tracks, pushing the limits of musical innovation across genres like electronic, hip-hop, pop, and experimental.",

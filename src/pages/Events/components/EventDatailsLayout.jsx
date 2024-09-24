@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 
 
 export default function EventDetailsLayout({data}) {
+  const descriptions = data["Description"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
   return (
     <PageLayout title={data["Event Name"]} imgUrl={`/common/conpetition.jpeg`}>
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
@@ -11,7 +12,12 @@ export default function EventDetailsLayout({data}) {
           <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 mb-3 overflow-visible">
             {data["Event Name"]}
           </p>
-          <p className="text-base">{data["Description"]}</p>
+          {
+            descriptions.map((desc, index) => (
+              <p key={index} className="text-base mb-2">{desc}</p>
+            ))
+          }
+          {/* <p className="text-base">{data["Description"]}</p> */}
         </div>
         <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Timing</p>
