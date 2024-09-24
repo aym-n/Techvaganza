@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import PageLayout from "../../../Components/PageLayout";
 import TabView from "./Tabview";
 import PropTypes from "prop-types";
@@ -28,12 +29,16 @@ export default function EventDetailsLayout({data}) {
         <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Entry Fee</p>
           <p className="text-base mb-2">
-            <span className="font-bold mr-2">NIT Entry Fee:</span>  &#8377; {data["NIT Entry Fee"]}
-          </p>
-          <p className="text-base mb-2">
-           <span className="font-bold mr-2"> Outside Entry Fee:</span>  &#8377; {data["Outside Entry Fee"]}
+           <span className="font-bold mr-2"> Entry Fee:</span>  &#8377; {data["Outside Entry Fee"]}
           </p>
         </div>
+        <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
+          <Link
+            to={"https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?%2fAcademic%2fEvent%2fEventRegistrationDetails.aspx"}
+          >
+            Register
+          </Link>
+        </button>
         <div className="mb-4">
           <p className="text-base mb-2">For Any Queries Contact</p>
           <ul className="list-disc list-inside pl-5 font-semibold">

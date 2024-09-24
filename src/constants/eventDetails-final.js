@@ -114,7 +114,7 @@ export const competitions = [
     "Card Image": "BombSqUAD.png"
   },
   {
-    "Event Name": "STRUCTURE BATTLES\n(Earthquake resistant \nbuilding)",
+    "Event Name": "STRUCTURE BATTLES: Earthquake resistant building",
     "Description":
       'The ultimate showdown of engineering prowess! Students and professionals, gear up for two action-packed competitions Bridge Making and Earthquake Resistant Building. Unleash your creativity, showcase innovative designs, and outshine the rest. Prizes, recognition, and bragging rights await the champions of this structural duel! Get ready for mind-blowing innovations, intense competition, and fun!"\nThis competition is a challenge designed to encourage Innovation and Excellencein the design and constructionof structures that can withstand seismic activities. There are two categories in the event Category 1:School students and category 2: College students. Each category may have an individual member or team of upto 5 members. In this event students have to make a framed structure of double storey building using bamboo toothpicks, fevicol, cardboard and any light material for floor plates. The participants will make the frames of buildings prior to the competition and bring the constructed model to the "venue" on the "day" of competition only. \nDimensions: Base plate-30*30cm, structure base- 20*20cm, height of structure-50cm, two floors at 35cm and 50cm respectively and maximum weight of framed structure: 200grams. \nThere will be three awards in both the categories: "Overall Winner, !st Runner up and people\'s choice awardin both the categories.".',
     "Rules":
@@ -133,7 +133,7 @@ export const competitions = [
     "Card Image": "Structure Battles.png"
   },
   {
-    "Event Name": "STRUCTURE BATTLES\n(BRIDGE BUILDING \n)",
+    "Event Name": "STRUCTURE BATTLES: BRIDGE BUILDING",
     "Description":
       "In this captivating event participants have to get their ice cream stick bridges, An ice cream stick bridge-building competition is a fun and educational event where participants use ice cream sticks (also known as popsicle sticks) and sometimes glue to construct bridges that can support weight. The competition often tests participants' engineering skills, creativity, and teamwork",
     "Rules":
@@ -922,8 +922,8 @@ export const gamezone = [
     "Rules":
       '1.Each round lasts a limited amount of time.\n2.If the attackers plant the spike and it explodes, or if the defending team defuses it, the round ends.\n3.If the round time runs out and the spike is not planted or defused, the defending team wins.                                                      4.Players earn credits at the end of each round based on their performance and the outcome of the round.Each agent has an ultimate ability that can be charged by earning "ultimate points" throughout the match.',
     "Prizes": "PRIZE MONEY – RS 4000 ( WINNER 3500, MVP – 500)",
-    "NIT Entry Fee": "ENTRY FEE- RS. 500",
-    "Outside Entry Fee": "ENTRY FEE- RS. 500",
+    "NIT Entry Fee": "500",
+    "Outside Entry Fee": "500",
     "Lead Name": "Vivek, Yashwant",
     "Lead Contact Number": 9905224158,
     "Start Time": "09:00",
@@ -940,7 +940,7 @@ export const gamezone = [
       "1.Players are eliminated from the match when they are either killed or their teammates are unable to revive them.\n2. In duo and squad modes, players can revive teammates if they are knocked down but not eliminated.\n3.Players must scavenge the map for weapons, armor, medical supplies, and other equipment.4.The game ends when only one player or team remains in the final safe zone.\n5.The last standing player or team is declared the winner.",
     "Prizes": "PRIZE MONEY – RS 8,000 ( WINNER 7000, MVP – 1000)",
     "NIT Entry Fee": "ENTRY FEE- RS. 400",
-    "Outside Entry Fee": "ENTRY FEE- RS. 400",
+    "Outside Entry Fee": "400",
     "Lead Name": "Ayush Ranjan",
     "Lead Contact Number": 9797986564,
     "Start Time": "11:00",
@@ -957,7 +957,7 @@ export const gamezone = [
       "1.Engage in combat using a variety of weapons, grenades, and melee items.   \n2. In duo and squad modes, players can revive knocked-down teammates.\n3. The game concludes when only one player or team remains within the final safe zone.",
     "Prizes": "PRIZE MONEY – RS 3,500 ( WINNER 3000, MVP – 500)",
     "NIT Entry Fee": "ENTRY FEE- RS. 300",
-    "Outside Entry Fee": "ENTRY FEE- RS. 300",
+    "Outside Entry Fee": "300",
     "Lead Name": "Rajan",
     "Lead Contact Number": 9797986564,
     "Start Time": "09:00",
@@ -974,7 +974,7 @@ export const gamezone = [
       '1.Characters have unique special moves and "Rage" abilities that can turn the tide of battle   . 2. To win a match, a player must defeat their opponent in the majority of the rounds.',
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "ENTRY FEE- RS. 100",
+    "Outside Entry Fee": "100",
     "Lead Name": "Atabik",
     "Lead Contact Number": 7006329838,
     "Start Time": "09:00",
@@ -991,7 +991,7 @@ export const gamezone = [
       "1.Choose from a roster of unique characters, each with their own set of moves, abilities, and combos.\n2.Matches are played in rounds, typically with the first player to win two out of three rounds being declared the victor.\n3.Customize your character’s appearance, gear, and sometimes abilities.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "ENTRY FEE- RS. 100",
+    "Outside Entry Fee": "100",
     "Lead Name": "Muneez,Nityam",
     "Lead Contact Number": 9541524206,
     "Start Time": "09:00",
@@ -1008,7 +1008,7 @@ export const gamezone = [
       "1.Utilize in-game chat or voice communication for coordination in team-based modes.                    2.The game uses matchmaking algorithms to pair players of similar skill levels to ensure fair and competitive matches.\n3.Ensure a stable internet connection to minimize lag and disconnections.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "ENTRY FEE- RS. 100",
+    "Outside Entry Fee": "100",
     "Lead Name": "Krishna Thakre",
     "Lead Contact Number": 8349666552,
     "Start Time": "09:00",
@@ -1025,7 +1025,7 @@ export const gamezone = [
       "1.The primary objective of the game is to score more goals than your opponent                                                                                                                                                   2.A goal is scored when the ball crosses the goal line between the goalposts.                                                                                                                                                    3.A player is offside if they are ahead of the ball when it is last played by a teammate. However, a player is not offside if they are in their own half or if they are level with the second-to-last defender.\n4. If a player commits a foul, such as tripping, pushing, or handling the ball, the opposing team is awarded a free kick. If a foul is committed inside the penalty area, a penalty kick is awarded.                                                                                                                                                                                                                                  5.Teams can make a limited number of substitutions during a match.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "ENTRY FEE- RS. 100",
+    "Outside Entry Fee": "100",
     "Lead Name": "Uttam, Vivek Vatsal",
     "Lead Contact Number": 8676071094,
     "Start Time": "11:00",
@@ -1042,7 +1042,7 @@ export const gamezone = [
       "1. The primary objective is to score more goals than your opponent.\n2. The offside rule works similarly to real-world football, with players being offside if they are ahead of the ball when it is last played by a teammate.\n3. Fouls, such as tripping, pushing, or handling the ball, result in free kicks or penalties.\n4.Players can be issued yellow or red cards for misconduct, leading to warnings or expulsions.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "ENTRY FEE- RS. 100",
+    "Outside Entry Fee": "100",
     "Lead Name": "Suryansh Pal",
     "Lead Contact Number": 9928931991,
     "Start Time": "09:00",
