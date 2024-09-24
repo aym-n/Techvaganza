@@ -480,14 +480,14 @@ export const competitions = [
     "Description":
       "Round 1: Conceptual Understanding (Qualifying Round)\nParticipants will be given a set of problems or questions that focus on core concepts. These problems should require clear and accurate understanding but not be overly complex.\nThe questions can be a mix of multiple-choice, short answers, and straightforward problems.\nRound 2: Application and Analysis (Intermediate Round)\nParticipants will be given a set of problems that require deeper analysis and application of concepts. These problems might involve case studies, data interpretation, or scenarios \nthat require critical thinking\npoints will be given on bases of based on the depth of analysis, accuracy of solutions, and the reasoning behind their answers.\nRound 3: Synthesis and Innovation (Final Round)\nChallenge participants to synthesize information from various sources and create innovative solutions.\nParticipants may need to propose a solution, write a detailed report, or present their findings. This could be done in small teams.",
     "Rules":
-      "1.The competition is open to all registered participants.\n2.Participants are allowed to use textbooks.\n3.All answers must be written clearly and submitted by the end of the allotted time.\n4.During the competition, participants must not communicate with\nanyone except the organizers for queries or clarification.",
+      "1.The competition is open to all registered participants.;2.Participants are allowed to use textbooks.;3.All answers must be written clearly and submitted by the end of the allotted time.;4.During the competition, participants must not communicate with\nanyone except the organizers for queries or clarification.",
     "Prizes": "700",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Kavita Choudhary",
     "Lead Contact Number": 7051554671,
     "Judging Criteria":
-      "judging Criteria\n1->creativity and cost efficiency\n2->time\n3->Uniqueness",
+      "1->creativity and cost efficiency;2->time;3->Uniqueness",
     "Start Time": "4:00 PM",
     "End Time": "6:30 PM",
     "Day": 1,
@@ -495,7 +495,7 @@ export const competitions = [
     "Card Image": "OpenBook.png"
   },
   {
-    "Event Name": "Hues of Kashmir",
+    "Event Name": "Live Photography: Hues of Kashmir",
     "Description":
       "Participants will roam the campus and capture its various hues and moments, highlighting the unique aspects of the environment.; Participants must upload their photos to their social media accounts, tagging the Techvaganza page. Additionally, photos must be uploaded to a provided Google link within the specified timeframe.",
     "Rules":
@@ -1316,22 +1316,6 @@ export const talks = [
     "Card Image" : "Adrino_Techtalks.png"
   },
   {
-    "Event Name": "Vernacular BuildingStyle and Earthquake Prone Areas with specialReference to Kashmir",
-    "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
-    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
-    "Prizes": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
-    "Lead Name": "Tanisha Khan",
-    "Lead Contact Number": 9149844814,
-    "Judging Criteria": "",
-    "Start Time": "10:00",
-    "End Time": "13:00",
-    "Day": 1,
-    "Venue": "LH3",
-    "Card Image": "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
-  },
-  {
     "Event Name": "Introduction To Drones",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Mr. Abid Fayaz ",
@@ -1571,23 +1555,6 @@ export const talks = [
     "Venue": "LH3",
     "Card Image": "LateX.png",
   }, */
-  {
-    "Event Name": "Tech & Expert Talks",
-    Description:
-      "Expert Talks at Techvaganza 2024 will present an exciting lineup of sessions, offering valuable insights into cutting-edge technologies, scientific advancements, and societal challenges. Explore topics like Electric Vehicles, Renewable Energy Systems, and the latest in Artificial Intelligence and Knowledge Graph Applications, shedding light on their impact across diverse domains. Additionally, learn about the role of technology in preserving cultural legacies with Tech's Role in Heritage Preservation, or delve into personal growth with sessions on Career Counselling, Mental Health, and Content Creation. Discover innovative approaches to Financial Literacy through EdTech and gain exposure to breakthroughs in Multifunctional Grid-Connected PV Systems, Hydrogen Storage Materials, and a Novel Class of Materials that have promising industrial applications. Furthermore, the session on the Art of Persuasion: Writing Skills for the Tech World will provide essential guidance on crafting impactful documents, crucial for success in the tech industry. With a talk on advanced Chemistry also in the mix, this event promises to cater to a wide spectrum of interests, offering attendees ample opportunity to learn and engage with experts.",
-    "Description about Instructor / Speaker":
-      "Dr. Salman Ahmad (IUST) (Electric Vehicles), Dr. Sharik Anees (IUST) (Renewable Energy Systems) Dr. Rufsan-ul-Haq (Artificial Intelligence) Dr. Veningston K (Knowledge Graph Applications) Dr. Jignesh (Chemistry) Mr. Muneer Ahmad Dar (Tech's Role in Heritage Preservation) Salman Shahid (Career Counselling) Feroz Ahmad Malla (Mental Health) Nufeel Mir (Content Creation) Arth Nirmiti (Empowering Financial Literacy through EdTech) Faheem ul Islam (Art of Persuasion: Writing Skills for the Tech World) Professor Prince Ahmad Ganai (Black Holes) Dr. Ikhlaq Hussain (Multifunctional Grid-Connected PV System) Dr. Harkirat Singh (A Novel Class of Materials) Dr. Anshul Gupta (Hydrogen Storage Materials)",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": 1234567890,
-    "Start Time": "",
-    "End Time": "",
-    Day: "",
-    Venue: "",
-    isWomen: false,
-    "Card Image": "Leading With Vision Workshop.png",
-  },
   {
     "Event Name": "Thermocalc",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
@@ -1877,40 +1844,8 @@ export const talks = [
     "Card Image": "Art of Persuasion Writing.png",
   },
   {
-    "Event Name": "Tech Workshops",
-    Description:
-      "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for Earthquake Prone Areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world. Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available.These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
-    "Description about Instructor / Speaker":
-      " Mr. Abid Fayaz (Introduction to Drones) Mr. Kaif Nabi Wani & Mr. Murtaza (Microcontrollers, Hands-on Practice with Arduino UNO) Dr. Rakesh Chandra (Vernacular Building Styles and Earthquake Prone Areas) Roshan Kumar (SolidWorks) Robonox (Machine Learning, Python, Robotics, AI, App Development, Web Development) MSME (IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, LaTeX)",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": 1234567890,
-    "Start Time": "",
-    "End Time": "",
-    Day: "",
-    isWomen: false,
-    Venue: "",
-    "Card Image": "Leading With Vision Workshop.png",
-  },
-  {
-    "Event Name": "Leading With Vision Workshop",
-    Description:
-      'The Leadership Building Workshop in “Women in Tech” is designed to cultivate essential leadership skills among students, preparing them to take on future roles as innovators, team leaders, and decision-makers. This workshop focuses on developing qualities like effective communication, problem-solving, teamwork, and emotional intelligence, all of which are crucial for leading in both academic and professional settings. Only female participants are eligible for the workshop.\nEvent Format\n\n1. Session Overview\n\n•        Brief speech on the concept of leadership, its significance, and the objectives of the workshop.\n•        Highlight the importance of qualities such as decision-making, teamwork, and creative problem-solving.\n•        Encourage active participation and interaction, setting a lively and engaging tone for the workshop.\n\n2. "What If" Scenario Game \n•        Objective: Engage participants to think like leaders in real-life situations.\no        Key Takeaway: Emphasize leadership qualities like adaptability, decision-making, and managing diverse talents.\no        Awards: Participants with the most innovative and practical solutions will be recognized with prizes, fostering competitive yet constructive engagement.\n\n3. Survival Scenario Game \n•        Objective: Develop decision-making and prioritization skills crucial for leadership roles.\no        Key Takeaway: Stress the importance of situational awareness, resource management, and rational decision-making in leadership.\n4. Conclusion and Q&A \n•        Summarize key learnings from the games, reinforcing leadership traits developed during the workshop.\n•        Q&A Session: Open the floor to questions, allowing participants to clarify doubts, share experiences, or seek advice on leadership challenges.\n5. Prize distribution for the winners.',
-    "Description about Instructor / Speaker": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "Neharika Bajaj",
-    "Lead Contact Number": 9149494702,
-    "Start Time": "",
-    "End Time": "",
-    Day: "",
-    Venue: "",
-    "Card Image": "Leading With Vision Workshop.png",
-  },
-  {
     "Event Name": "Women in tech: breaking boundaries",
-    Description:
+    "Description":
       "The Technical Skill Building Workshop in “Women in Tech” aims to equip students with practical skills essential for the ever-evolving tech industry. This workshop provides an intensive learning experience designed to enhance participants' knowledge in emerging technologies, programming languages, and software tools.Only female participants are eligible for the workshop.\n\nEvent Format\n\n1.        The event will consist of 4 workshops.\n                  A) Web Development Workshop:\n•        Topics: Introduction to HTML, CSS, JavaScript, and frameworks like React.js.\n•        Interactive Session: Build a small web project live, followed by a Q&A.\n                   B) Robotics Workshop:\n•        Topics: Basics of robotics, components, and their applications in real-world scenarios.\n•        Interactive Session: Discuss the future of robotics, involving participant views and creative ideas.\n                   C) Cyber Security Workshop:\n•        Topics: Introduction to key cybersecurity concepts, encryption, and data protection.\n•        Interactive Session: Explore vulnerabilities through live demonstrations.\n                   D) LaTeX Workshop:\n•        Topics: Introduction to LaTeX, its use for academic and professional writing (e.g., research papers, theses).\n•        Hands-on Practice: Guide students in creating a simple document in LaTeX.",
     "Description about Instructor / Speaker": "",
     "NIT Entry Fee": "",
@@ -1919,31 +1854,31 @@ export const talks = [
     "Lead Contact Number": 9149494702,
     "Start Time": "",
     "End Time": "",
-    Day: "",
-    isWomen: true,
-    Venue: "",
+    "Day": "",
+    "isWomen": true,
+    "Venue": "",
     "Card Image": "Women in techbreaking boundaries.png",
   },
   {
     "Event Name":
       "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
-    Description:
+    "Description":
       "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
-    "Description about Instructor / Speaker": "",
+    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Tanisha Khan",
     "Lead Contact Number": 9149844814,
-    "Start Time": "10:00",
+    "Start Time": "10:00 am",
     "End Time": "1:00 PM",
-    Day: 1,
-    Venue: "L-3",
+    "Day": 1,
+    "Venue": "L-3",
     "Card Image":
       "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
   },
   {
     "Event Name": "Tech Forward: Empowering Women in STEM",
-    Description:
+    "Description":
       "As part of “Women in Tech”, the Career Pathways in Tech Workshop is designed to guide students through the diverse and rapidly evolving landscape of the tech industry. This workshop aims to provide insights into various career opportunities, emerging trends, and essential skills that students need to thrive in the tech world.Only female participants are eligible for the workshop.\n\nEvent Format\n\n1. Introduction \n•        Welcome and brief overview of the workshop.\n•        Introduction of the speaker and any industry professionals present.\n•        Outline of the domains to be covered (Data Science, Data Analytics, Cyber Security, Full Stack Web Development).\n2. Exploring Career Domains in Technology \n•        Data Science and Analytics \n•        Explanation of how data science and analytics are shaping industries.\n•        Overview of the skills required and the different roles within this domain.\n•        Real-world applications and career opportunities.\n•        Cyber Security \n•        Introduction to the importance of cyber security in the digital world.\n•        Roles like ethical hacker, security analyst, and incident responder.\n•        Key skills and qualifications required.\n•        Full Stack Web Development \n•        Overview of front-end and back-end development.\n•        Career opportunities in web development, along with required skills and tools.\n•        The importance of building a portfolio in this field.\n3. Opportunities for Women in STEM \n•        Special focus on the growing opportunities for females in tech and the importance of gender diversity.\n•        How female students can be empowered to enter and thrive in STEM fields.\n•        Successful female role models in tech, highlighting their journeys and accomplishments.\n4. Interactive Segment with Industry Professionals \n•        A chance for students to hear insights from industry professionals.\n•        Discussion on current industry trends and future opportunities in tech.\n•        Encouraging students to actively participate in tech-related activities and competitions.\n5. Q&A Session \n•        Open the floor for students to ask the speaker and professionals any questions related to the workshop content or career pathways.\n•        Address specific queries on building a career in tech, overcoming challenges, and staying motivated.",
     "Description about Instructor / Speaker": "",
     "NIT Entry Fee": "",
@@ -1952,14 +1887,14 @@ export const talks = [
     "Lead Contact Number": 9149494702,
     "Start Time": "",
     "End Time": "",
-    Day: "",
-    isWomen: true,
-    Venue: "",
+    "Day": "",
+    "isWomen": true,
+    "Venue": "",
     "Card Image": "Tech ForwardEmpowering Women in STEM.png",
   },
   {
     "Event Name": "HerTech Talks: Insights from Women Innovators",
-    Description:
+    "Description":
       "Expert talk is an event wherein two very successful women from the STEM field will inspire and motivate attendees by showcasing how they have overcome challenges in their careers.Only female students are eligible for this expert talk.\n The event aims to celebrate their accomplishments and provide a platform for sharing valuable knowledge and experiences, and inspire attendees to pursue their own goals with confidence and determination. The event is to inspire and empower attendees by showcasing the achievements and insights of accomplished women. It aims to provide valuable knowledge and practical advice on personal and professional development, fostering confidence and skill-building. By sharing personal journeys and strategies for success, the event encourages attendees to pursue their own goals, build meaningful connections, and contribute to a supportive community of women striving for excellence. We look forward to your active participation in the event!",
     "Description about Instructor / Speaker": "",
     "NIT Entry Fee": "",
@@ -1968,9 +1903,9 @@ export const talks = [
     "Lead Contact Number": 8899005236,
     "Start Time": "",
     "End Time": "",
-    Day: "",
-    isWomen: true,
-    Venue: "",
+    "Day": "",
+    "isWomen": true,
+    "Venue": "",
     "Card Image": "HerTech TalksInsights from Women Innovators.png",
   },
 ];
