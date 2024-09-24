@@ -23,14 +23,14 @@ export const competitions = [
     "Description":
       "A thrilling competition where participants will build and race their own remote-controlled (RC) cars. Each participant will test their engineering and driving skills on a specially designed racing track, competing head-to-head against others. This event challenges participants to design, build, and fine-tune their RC cars for maximum speed, control, and durability as they navigate the track.",
     "Rules":
-      "1.Participants must design and build their own RC cars. Pre-built commercial RC cars are not allowed. 2.The RC car must be powered by electric motors. Combustion engines are not permitted. 3.The car must fit within the specified size and weight limits, which will be provided by the organizers before the event. 4.The use of off-the-shelf parts is allowed, but the overall design and assembly must be the work of the participants. 5.Participants must control their RC cars remotely using handheld controllers. 6.Cars must remain on the track at all times; leaving the track will result in disqualification from that heat. 7. No interference with other participants' cars is allowed. Any intentional collision or obstruction will result in disqualification",
+      "1.Participants must design and build their own RC cars. Pre-built commercial RC cars are not allowed.; 2.The RC car must be powered by electric motors. Combustion engines are not permitted.; 3.The car must fit within the specified size and weight limits, which will be provided by the organizers before the event.; 4.The use of off-the-shelf parts is allowed, but the overall design and assembly must be the work of the participants.; 5.Participants must control their RC cars remotely using handheld controllers.; 6.Cars must remain on the track at all times leaving the track will result in disqualification from that heat.; 7. No interference with other participants' cars is allowed. Any intentional collision or obstruction will result in disqualification",
     "Prizes": "3500",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Atishay jain",
     "Lead Contact Number": 6396506370,
     "Judging Criteria":
-      "Speed: The primary criterion is the time it takes to complete the track.\nControl: Smooth handling and the ability to navigate obstacles will be crucial.\nDesign: The creativity, engineering, and durability of the car will be evaluated.",
+      "Speed: The primary criterion is the time it takes to complete the track.\n;Control: Smooth handling and the ability to navigate obstacles will be crucial.\n;Design: The creativity, engineering, and durability of the car will be evaluated.",
     "Start Time": "10:00 AM",
     "End Time": "12:00 PM",
     "Day": 1,
@@ -42,14 +42,14 @@ export const competitions = [
     "Description":
       "A catapult event typically involves participants or teams building and launching projectiles using a catapult. The event can be organized as a competition where participants are judged based on factors such as distance, accuracy, and creativity in catapult design.",
     "Rules":
-      "1)Event officials or volunteers should be stationed at key points to ensure no one crosses into unsafe areas during launches. 2)The catapult should be set up on stable, level ground to prevent shifting during launches.",
+      "1)Event officials or volunteers should be stationed at key points to ensure no one crosses into unsafe areas during launches.; 2)The catapult should be set up on stable, level ground to prevent shifting during launches.",
     "Prizes": "5000",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "149",
     "Lead Name": "Sahil kumar",
     "Lead Contact Number": 9631116278,
     "Judging Criteria":
-      "Judges will decide winner(1st, 2nd, 3rd) position on the basis of different criteria like 1) distance (or range) of projectile motion. 2) accuracy or catapult 3) integration based on material for building catapult",
+      "Judges will decide winner(1st, 2nd, 3rd) position on the basis of different criteria like; 1) distance (or range) of projectile motion.; 2) accuracy or catapult ;3) integration based on material for building catapult",
     "Start Time": "3:00 PM",
     "End Time": "5:00 PM",
     "Day": 2,
@@ -68,7 +68,7 @@ export const competitions = [
     "Lead Name": "Umer Bashir",
     "Lead Contact Number": 9906365095,
     "Judging Criteria":
-      "1. Lifting Capacity:\n   - How much weight can the hydraulic lift successfully raise to the designated height?\n2. Stability:\n   - Is the lift stable while raising the weight? Does it tip or remain upright during operation?\n3. Design Creativity:\n   - How innovative and creative is the design of the lift? Does the team use unique solutions       or design elements?\n4. Efficiency of Hydraulic System:\n   - How well does the hydraulic mechanism function? Is there smooth movement without leaks, and is the system efficient in its operation?\n5. Build Quality:\n   - How well-constructed is the lift? Are the connections strong, and does the frame look well-assembled?\n6. Adherence to Constraints:\n   - Did the team follow the provided design limitations and material constraints properly?\n\nAll of these factors will play a role in the judging process, but the final decision will be made by the judges.\n2.",
+      "1. Lifting Capacity: How much weight can the hydraulic lift successfully raise to the designated height? ;2. Stability: Is the lift stable while raising the weight? Does it tip or remain upright during operation? ;3. Design Creativity: How innovative and creative is the design of the lift? Does the team use unique solutions       or design elements? ;4. Efficiency of Hydraulic System: How well does the hydraulic mechanism function? Is there smooth movement without leaks, and is the system efficient in its operation? ;5. Build Quality: How well-constructed is the lift? Are the connections strong, and does the frame look well-assembled? ;6. Adherence to Constraints: Did the team follow the provided design limitations and material constraints properly?",
     "Start Time": "4:00 PM",
     "End Time": "6:00 PM",
     "Day": 2,
@@ -144,7 +144,7 @@ export const competitions = [
     "Lead Name": "korukonda venkata lokesh",
     "Lead Contact Number": 6302651267,
     "Judging Criteria":
-      "Participants have to complete their design model within assigned\nperiod of time.\n• Participant who have higher breaking point of their bridge model, will\nbe declared as the winner (breaking point of your model will be\nchecked by putting weights on the model or by hanging a weight down\nthe model).\n• Contestants will be judged on the basis how much weight their model\ncan withstand",
+      "The models will be judged on three points in which aesthetics carry 10% weightage, presentation 10% and efficiency ratio. Efficiency ratio is calculated as the ratio of maximum load taken before failure and bridge's own weight.",
     "Start Time": "4:00 PM",
     "End Time": "6:00 PM",
     "Day": 1,
@@ -707,7 +707,7 @@ export const competitions = [
     "Card Image": "VideoEditing.png"
   },
   {
-    "Event Name": "Mr. / Ms. Manager",
+    "Event Name": "Mr/Ms Manager",
     "Description":
       "MR./MS. MANAGER 2024 is a dynamic competition designed to evaluate participants' managerial skills through a series of practical challenges and scenarios. Participants will be required to tackle real-world business problems, demonstrate their leadership abilities, decision-making skills, and strategic thinking within a given timeframe.",
     "Rules":
@@ -920,8 +920,6 @@ export const performingEvents = [
     "Venue": "Main Stage",
     "Card Image" : "vihang.png"
   },
-  
-
   {
     "Event Name": "Drone Soccer",
     "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression, creating an engaging experience for participants and spectators alike. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings. Each match will not only feature dynamic gameplay but also highlight the artistic flair of the participants, making it a true celebration of teamwork, technology, and creativity. This is a fantastic opportunity to be part of an event that pushes the boundaries of traditional sports and art. Don’t miss your chance to engage in this one-of-a-kind experience—register now to secure your spot and let your imagination and athleticism shine in this exciting fusion of disciplines!",
@@ -944,7 +942,7 @@ export const gamezone = [
     "Description":
       "Valorant is a tactical first-person shooter by Riot Games where players engage in strategic 5v5 matches. Set in a near-futuristic world, the game blends precise\n gunplay with unique character abilities. Teams alternate between attacking and defending, with attackers aiming to plant a bomb called the Spike and \ndefenders working to stop them.The game features a variety of agents, each with their own special skills, adding layers of strategy and teamwork. Known for\nits competitive gameplay and strategic depth,Valorant has quickly become a favorite in the esports scene.",
     "Rules":
-      '1.Each round lasts a limited amount of time.\n2.If the attackers plant the spike and it explodes, or if the defending team defuses it, the round ends.\n3.If the round time runs out and the spike is not planted or defused, the defending team wins.                                                      4.Players earn credits at the end of each round based on their performance and the outcome of the round.Each agent has an ultimate ability that can be charged by earning "ultimate points" throughout the match.',
+      '1.Each round lasts a limited amount of time.;2.If the attackers plant the spike and it explodes, or if the defending team defuses it, the round ends.;3.If the round time runs out and the spike is not planted or defused, the defending team wins.;                                                      4.Players earn credits at the end of each round based on their performance and the outcome of the round.Each agent has an ultimate ability that can be charged by earning "ultimate points" throughout the match.',
     "Prizes": "PRIZE MONEY – RS 4000 ( WINNER 3500, MVP – 500)",
     "NIT Entry Fee": "500",
     "Outside Entry Fee": "500",
@@ -961,7 +959,7 @@ export const gamezone = [
     "Description":
       "In BGMI, players are dropped onto a large, open map where they compete to be the last person or team standing. The game starts with up to 100 players parachuting \nonto an expansive island, where they must scavenge for weapons, equipment, and resources. The play area gradually shrinks, forcing players into increasingly tighter \nspaces and intensifying the combat.",
     "Rules":
-      "1.Players are eliminated from the match when they are either killed or their teammates are unable to revive them.\n2. In duo and squad modes, players can revive teammates if they are knocked down but not eliminated.\n3.Players must scavenge the map for weapons, armor, medical supplies, and other equipment.4.The game ends when only one player or team remains in the final safe zone.\n5.The last standing player or team is declared the winner.",
+      "1.Players are eliminated from the match when they are either killed or their teammates are unable to revive them.\n;2. In duo and squad modes, players can revive teammates if they are knocked down but not eliminated.\n;3.Players must scavenge the map for weapons, armor, medical supplies, and other equipment.;4.The game ends when only one player or team remains in the final safe zone.\n;5.The last standing player or team is declared the winner.",
     "Prizes": "PRIZE MONEY – RS 8,000 ( WINNER 7000, MVP – 1000)",
     "NIT Entry Fee": "ENTRY FEE- RS. 400",
     "Outside Entry Fee": "400",
@@ -978,7 +976,7 @@ export const gamezone = [
     "Description":
       "In Free Fire, players are dropped onto a large, isolated island where they compete to be the last person or team standing. Each match begins with up to 50 players parachuting onto the island, where they must scavenge for weapons, equipment, and resources while navigating through the shrinking safe zone. The game’s map is relatively compact compared to some other battle royales, which contributes to quicker and more intense matches.",
     "Rules":
-      "1.Engage in combat using a variety of weapons, grenades, and melee items.   \n2. In duo and squad modes, players can revive knocked-down teammates.\n3. The game concludes when only one player or team remains within the final safe zone.",
+      "1.Engage in combat using a variety of weapons, grenades, and melee items. ;  \n2. In duo and squad modes, players can revive knocked-down teammates.\n;3. The game concludes when only one player or team remains within the final safe zone.",
     "Prizes": "PRIZE MONEY – RS 3,500 ( WINNER 3000, MVP – 500)",
     "NIT Entry Fee": "ENTRY FEE- RS. 300",
     "Outside Entry Fee": "300",
@@ -995,7 +993,7 @@ export const gamezone = [
     "Description":
       "In Tekken 8, players can expect a roster of diverse fighters, each with their unique moves, styles, and special abilities. The game retains the series' signature 3D fighting mechanics, allowing for intricate combos and high-octane battles. It introduces new characters and revisits beloved veterans, all rendered with cutting-edge graphics and enhanced animations that bring their moves and personalities to life.",
     "Rules":
-      '1.Characters have unique special moves and "Rage" abilities that can turn the tide of battle   . 2. To win a match, a player must defeat their opponent in the majority of the rounds.',
+      '1.Characters have unique special moves and "Rage" abilities that can turn the tide of battle.; 2. To win a match, a player must defeat their opponent in the majority of the rounds.',
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
     "Outside Entry Fee": "100",
@@ -1012,7 +1010,7 @@ export const gamezone = [
     "Description":
       "In Mortal Kombat , players engage in intense one-on-one battles using a diverse roster of characters, each with unique moves and abilities. Players use attack buttons for punches and kicks. Mastering combos and Blocking incoming attacks is crucial for defense, and players can execute dramatic finishing moves, known as Fatalities or Brutalities, at the end of a match. The game features various modes, including Story Mode, Versus Mode, and Online Mode, offering a range of experiences from narrative-driven campaigns to competitive online play. The objective is to deplete your opponent’s health bar and emerge victorious.",
     "Rules":
-      "1.Choose from a roster of unique characters, each with their own set of moves, abilities, and combos.\n2.Matches are played in rounds, typically with the first player to win two out of three rounds being declared the victor.\n3.Customize your character’s appearance, gear, and sometimes abilities.",
+      "1.Choose from a roster of unique characters, each with their own set of moves, abilities, and combos.\n;2.Matches are played in rounds, typically with the first player to win two out of three rounds being declared the victor.\n;3.Customize your character’s appearance, gear, and sometimes abilities.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
     "Outside Entry Fee": "100",
@@ -1029,7 +1027,7 @@ export const gamezone = [
     "Description":
       "WWE 2K23 is a professional wrestling video game that immerses players in the high-octane world of WWE. It features a roster of real-life wrestlers and legends, allowing players to engage in realistic, action-packed matches with detailed graphics and lifelike animations. The game includes various modes, such as MyGM, MyRise, and Universe Mode, offering deep customization and career management options. Enhanced gameplay mechanics and improved controls provide a more dynamic and engaging wrestling experience, while a revamped story mode delivers compelling narratives. Whether playing solo or online, WWE 2K23 offers a comprehensive wrestling simulation with a focus on both strategic and dramatic in-ring action.",
     "Rules":
-      "1.Utilize in-game chat or voice communication for coordination in team-based modes.                    2.The game uses matchmaking algorithms to pair players of similar skill levels to ensure fair and competitive matches.\n3.Ensure a stable internet connection to minimize lag and disconnections.",
+      "1.Utilize in-game chat or voice communication for coordination in team-based modes.;                    2.The game uses matchmaking algorithms to pair players of similar skill levels to ensure fair and competitive matches.\n;3.Ensure a stable internet connection to minimize lag and disconnections.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
     "Outside Entry Fee": "100",
@@ -1046,7 +1044,7 @@ export const gamezone = [
     "Description":
       "FIFA is a soccer simulation game where players control real-life football teams and compete in matches. The game features realistic graphics and gameplay, allowing players to manage teams, execute tactics, and perform a wide range of actions such as passing, shooting, and defending. Players can choose from various game modes, including Career Mode for managing a team or player, Ultimate Team for building a dream squad, and online multiplayer for competing against others. The objective is to outscore the opponent in matches and achieve success across different tournaments and leagues.",
     "Rules":
-      "1.The primary objective of the game is to score more goals than your opponent                                                                                                                                                   2.A goal is scored when the ball crosses the goal line between the goalposts.                                                                                                                                                    3.A player is offside if they are ahead of the ball when it is last played by a teammate. However, a player is not offside if they are in their own half or if they are level with the second-to-last defender.\n4. If a player commits a foul, such as tripping, pushing, or handling the ball, the opposing team is awarded a free kick. If a foul is committed inside the penalty area, a penalty kick is awarded.                                                                                                                                                                                                                                  5.Teams can make a limited number of substitutions during a match.",
+      "1.The primary objective of the game is to score more goals than your opponent ;                                                                                                                                                  2.A goal is scored when the ball crosses the goal line between the goalposts.                     ;                                                                                                                               3.A player is offside if they are ahead of the ball when it is last played by a teammate. However, a player is not offside if they are in their own half or if they are level with the second-to-last defender.\n;4. If a player commits a foul, such as tripping, pushing, or handling the ball, the opposing team is awarded a free kick. If a foul is committed inside the penalty area, a penalty kick is awarded.;                                                                                                                                                                                                                                  5.Teams can make a limited number of substitutions during a match.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
     "Outside Entry Fee": "100",
@@ -1063,7 +1061,7 @@ export const gamezone = [
     "Description":
       "eFootball is a free-to-play football simulation video game . eFootball offers players a dynamic football experience with cross-platform play and dynamic season updates. Move the ball with precision using dribbling techniques .Pass the ball accurately to teammates using various types of passes (short, long, through ball. Attempt to score goals with different shooting techniques. Use tackling, intercepting, and positioning to prevent the opponent from scoring.Control the goalkeeper to make saves and manage the defense.",
     "Rules":
-      "1. The primary objective is to score more goals than your opponent.\n2. The offside rule works similarly to real-world football, with players being offside if they are ahead of the ball when it is last played by a teammate.\n3. Fouls, such as tripping, pushing, or handling the ball, result in free kicks or penalties.\n4.Players can be issued yellow or red cards for misconduct, leading to warnings or expulsions.",
+      "1. The primary objective is to score more goals than your opponent.\n;2. The offside rule works similarly to real-world football, with players being offside if they are ahead of the ball when it is last played by a teammate.\n;3. Fouls, such as tripping, pushing, or handling the ball, result in free kicks or penalties.\n;4.Players can be issued yellow or red cards for misconduct, leading to warnings or expulsions.",
     "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
     "Outside Entry Fee": "100",
@@ -1080,7 +1078,7 @@ export const gamezone = [
     "Description":
       'A "Basket the Balls" game stall is a popular attraction at fairs, carnivals, and amusement parks, offering a fun and engaging challenge for players of all ages. The game typically involves players attempting to score points by throwing basketballs into a series of hoops or baskets.',
     "Rules":
-      "Players usually have a set number of basketballs or a limited amount of time to make their shots.\nThere might be specific rules regarding the distance from the hoop or the technique used to shoot the ball.",
+      "Players usually have a set number of basketballs or a limited amount of time to make their shots.\n;There might be specific rules regarding the distance from the hoop or the technique used to shoot the ball.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1097,7 +1095,7 @@ export const gamezone = [
     "Description":
       "A Robo Soccer stall is an exciting and interactive attraction often found at fairs, tech expos, or amusement parks. This stall features robotic soccer games where participants control small robot cars to play soccer, offering a unique twist on the traditional game.",
     "Rules":
-      "Basic soccer rules apply, with modifications to suit the robotic nature of the game. For example, offside rules might be simplified, and fouls may be less strict.\nParticipants may be given a set amount of time to control their robots or a fixed number of matches to play.",
+      "Basic soccer rules apply, with modifications to suit the robotic nature of the game. For example, offside rules might be simplified, and fouls may be less strict.\n;Participants may be given a set amount of time to control their robots or a fixed number of matches to play.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1114,7 +1112,7 @@ export const gamezone = [
     "Description":
       "Blow the Glass Tower is a classic carnival game that tests players’ ability to use a blowing technique to knock down a tower of glass bottles or similar objects. It’s a popular attraction at fairs and amusement parks due to its simple yet engaging gameplay.",
     "Rules":
-      "Players must stand behind a designated line or area and use the blowing equipment to hit the bottles.\nOnly the bottles that fall completely off the stand are counted towards the score. Bottles that wobble but remain on the tower are not counted.",
+      "Players must stand behind a designated line or area and use the blowing equipment to hit the bottles.\n;Only the bottles that fall completely off the stand are counted towards the score.; Bottles that wobble but remain on the tower are not counted.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1131,7 +1129,7 @@ export const gamezone = [
     "Description":
       "Gun Shoot Balloon stalls are a staple at fairs, carnivals, and amusement parks. They offer an engaging and competitive experience where players use air rifles or similar guns to shoot and pop balloons.",
     "Rules":
-      "Players must shoot from a designated area or shooting line. This area is marked to ensure all players are shooting from the same distance.\nEach player is usually given a set number of shots or a time limit to pop as many balloons as they can.\nIn some versions, players might need to hit specific balloons that are marked with higher point values.",
+      "Players must shoot from a designated area or shooting line. This area is marked to ensure all players are shooting from the same distance.\n;Each player is usually given a set number of shots or a time limit to pop as many balloons as they can.\n;In some versions, players might need to hit specific balloons that are marked with higher point values.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1148,7 +1146,7 @@ export const gamezone = [
     "Description":
       "A Ping Pong Ball Stall is a classic carnival game that’s both simple and entertaining, often found at fairs, carnivals, and amusement parks. The objective is typically to throw ping pong balls into various targets to win prizes.",
     "Rules":
-      "Players must stand behind a designated line or area and throw their ping pong balls from this position.\nThe balls must land and stay in the containers or targets for them to count.\nIn some variations, players might need to achieve a specific number of successful throws to win a prize.",
+      "Players must stand behind a designated line or area and throw their ping pong balls from this position.\n;The balls must land and stay in the containers or targets for them to count.\n;In some variations, players might need to achieve a specific number of successful throws to win a prize.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1165,7 +1163,7 @@ export const gamezone = [
     "Description":
       "A Beyblades stall is a popular attraction at fairs, toy conventions, and gaming events, where participants can engage in battles using spinning tops known as Beyblades. The stall offers a fun and competitive environment where players can test their skills and strategy.",
     "Rules":
-      "Players launch their Beyblades into the arena, and the match continues until one Beyblade is declared the winner based on spinning time or arena elimination.\nThere are standard rules for launching and handling Beyblades, such as the distance from which they must be launched and the type of launchers allowed.",
+      "Players launch their Beyblades into the arena, and the match continues until one Beyblade is declared the winner based on spinning time or arena elimination.\n;There are standard rules for launching and handling Beyblades, such as the distance from which they must be launched and the type of launchers allowed.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1182,7 +1180,7 @@ export const gamezone = [
     "Description":
       "A Pass the Wire stall is a popular carnival or fair game that challenges players' steady hands and precision. The game involves guiding a metal wire along a twisted path without touching the sides, which triggers an alarm if touched.",
     "Rules":
-      "Players must maneuver the probe along the wire path carefully. If the probe touches the wire, an alarm will sound, and the attempt is typically ended.\nPlayers may be given a time limit or a certain number of attempts to complete the path.",
+      "Players must maneuver the probe along the wire path carefully. If the probe touches the wire, an alarm will sound, and the attempt is typically ended.\n;Players may be given a time limit or a certain number of attempts to complete the path.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1199,7 +1197,7 @@ export const gamezone = [
     "Description":
       "A Blow the Candle stall is a classic carnival game that tests players’ ability to blow out small candles placed on a board or stand. The game combines skill with a bit of fun challenge and is often a popular attraction at fairs and amusement parks. A Blow the Candle stall provides a fun and engaging challenge for players, combining skill with a bit of festive spirit. It’s an enjoyable game that appeals to people of all ages and adds an exciting element to fairs and amusement parks.",
     "Rules":
-      "Players usually stand behind a designated line or area and take turns blowing out the candles.\nEach player might be given a specific amount of time to blow out the candles or a certain number of attempts.\nThe game may include variations, such as candles placed at different heights or distances to increase the challenge.",
+      "Players usually stand behind a designated line or area and take turns blowing out the candles.\n;Each player might be given a specific amount of time to blow out the candles or a certain number of attempts.\n;The game may include variations, such as candles placed at different heights or distances to increase the challenge.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1216,7 +1214,7 @@ export const gamezone = [
     "Description":
       "A Bow and Arrow stall is a popular carnival game that tests players' archery skills. It involves shooting arrows at targets to score points or win prizes. This game appeals to people of all ages, combining accuracy and technique with a bit of competitive fun. A Bow and Arrow stall offers a fun and engaging experience, providing a chance for players to test their archery skills and enjoy a competitive challenge. Its blend of technique, precision, and excitement makes it a popular attraction at carnivals and fairs.",
     "Rules":
-      "Players must shoot from behind a designated shooting line or within a specified shooting area.\nArrows must be shot from the provided bows, and players should follow any additional safety instructions given by the stall operator.\nSome stalls might have specific rules regarding the number of arrows allowed or the time limit for taking shots.",
+      "Players must shoot from behind a designated shooting line or within a specified shooting area.\n;Arrows must be shot from the provided bows, and players should follow any additional safety instructions given by the stall operator.\n;Some stalls might have specific rules regarding the number of arrows allowed or the time limit for taking shots.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1233,7 +1231,7 @@ export const gamezone = [
     "Description":
       "An Arm Wrestling stall is a popular and competitive attraction found at fairs, carnivals, sports events, and amusement parks. This game tests participants' strength, technique, and endurance, offering a fun and straightforward challenge. An Arm Wrestling stall provides an exciting and competitive experience, allowing participants to test their strength and skill in a straightforward and enjoyable format. Its combination of physical challenge and accessible gameplay makes it a popular attraction at various events.",
     "Rules":
-      "Participants must place their elbows on the table and grip each other’s hands. The match starts with a signal from the referee.\nElbows must remain on the table, and hands must stay in contact throughout the match.\nPlayers are not allowed to use their legs, body weight, or twisting motions to gain an advantage. The match is won by pinning the opponent’s arm down or achieving the winning position as defined by the stall’s rules.",
+      "Participants must place their elbows on the table and grip each other’s hands. The match starts with a signal from the referee.\n;Elbows must remain on the table, and hands must stay in contact throughout the match.\n;Players are not allowed to use their legs, body weight, or twisting motions to gain an advantage.; The match is won by pinning the opponent’s arm down or achieving the winning position as defined by the stall’s rules.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1250,7 +1248,7 @@ export const gamezone = [
     "Description":
       "A Pull-Ups stall is a classic carnival or fair attraction that tests participants' upper body strength and endurance. This game involves performing pull-ups on a horizontal bar, and it appeals to people of all ages who enjoy physical challenges and fitness tests. A Pull-Ups stall provides an engaging and physically challenging experience, offering a fun way for participants to test their strength and endurance. Its straightforward setup and competitive nature make it a popular attraction at fairs, gyms, and fitness events.",
     "Rules":
-      "Participants must start from a dead hang (arms fully extended) and pull their chin above the bar for each repetition.\nThe movement must be controlled, and the participant’s body must remain as stable as possible throughout the pull-up.\nKicking or using momentum to assist with the pull-up is usually not allowed.",
+      "Participants must start from a dead hang (arms fully extended) and pull their chin above the bar for each repetition.\n;The movement must be controlled, and the participant’s body must remain as stable as possible throughout the pull-up.\n;Kicking or using momentum to assist with the pull-up is usually not allowed.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1267,7 +1265,7 @@ export const gamezone = [
     "Description":
       "A Dart Throw stall is a popular carnival game that tests participants' accuracy and precision. It’s a classic attraction at fairs, carnivals, and amusement parks, where players throw darts at a target to win prizes. A Dart Throw stall provides a fun and competitive experience, testing players' accuracy and skill while offering the chance to win prizes. Its straightforward setup and engaging gameplay make it a popular attraction at various events and venues.",
     "Rules":
-      "Players must throw from behind a designated line or distance mark to ensure consistency.\nDarts must be thrown with an overhand or sidearm motion. Players are typically not allowed to use any additional props or support.\nThe game may have specific rules regarding the number of darts allowed per turn or the time limit for making throws.",
+      "Players must throw from behind a designated line or distance mark to ensure consistency.\n;Darts must be thrown with an overhand or sidearm motion. Players are typically not allowed to use any additional props or support.\n;The game may have specific rules regarding the number of darts allowed per turn or the time limit for making throws.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
@@ -1284,7 +1282,7 @@ export const gamezone = [
     "Description":
       "A Ring Toss stall is a classic carnival game that combines skill, precision, and a bit of luck. It’s a popular attraction at fairs, carnivals, and amusement parks, where players aim to toss rings onto pegs or bottles to win prizes. A Ring Toss stall offers a fun and engaging experience, challenging players’ accuracy and providing a chance to win prizes. Its combination of skill and luck, along with its straightforward setup, makes it a popular and enjoyable attraction at various events and fairs.",
     "Rules":
-      "Players are usually given a set number of rings to toss. They must aim and throw the rings from behind a designated line or area.\nThe rings must land fully around the target or peg to count. Partial landings or rings that bounce off the target typically do not count.",
+      "Players are usually given a set number of rings to toss. They must aim and throw the rings from behind a designated line or area.\n;The rings must land fully around the target or peg to count. Partial landings or rings that bounce off the target typically do not count.",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",

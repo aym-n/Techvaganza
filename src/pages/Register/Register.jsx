@@ -8,7 +8,7 @@ export default function Register() {
         <p className="font-extrabold text-5xl textShadow-md font-figtree overflow-visible text-center mb-12">
           Registration
         </p>
-        <div className="flex flex-col gap-12 items-center py-10">
+        <div className="flex flex-col gap-12 items-center px-4 py-10">
           {/* NIT Srinagar Students Card */}
           <div className="bg-gradient-to-r from-green-700 to-green-500 text-white rounded-xl CardShadow p-8 w-full max-w-2xl transform hover:scale-105 transition-transform duration-300 ease-in-out">
             <h2 className="text-3xl font-figtree font-extrabold mb-6 text-center">Outside NIT Srinagar</h2>
@@ -37,7 +37,7 @@ export default function Register() {
             <div className="flex justify-center">
               <button className="bg-green-600 text-white font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-green-700 transition-colors duration-300">
                 <Link
-                  to={''}
+                  to={'https://docs.google.com/spreadsheets/d/14NSu9iuGZ4YxEO80wmhiLXY5o_YjLHUKGlKNBVKf0lA/edit?gid=0#gid=0'}
                 >
                   Register
                 </Link>
