@@ -716,7 +716,7 @@ export const competitions = [
     "Judging Criteria": "",
     "Start Time": "10:00 AM",
     "End Time": "12:00 PM",
-    "Day": "1",
+    "Day": 1,
     "Venue": "L-7",
     "Card Image": "Techtalks_Driving.png"
   },
@@ -818,7 +818,7 @@ export const competitions = [
     "Judging Criteria": "Qualification will be based on performance in each mini-challenge.\nQuiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
     "Start Time": "02:00 PM",
     "End Time": "04:30 PM",
-    "Day": "1",
+    "Day": 1,
     "Venue": "Mech. Dept. Park",
     "Card Image": "squid-game.png"
   },
