@@ -213,14 +213,14 @@ export const competitions = [
     "Description":
       "We invite all aspiring digital artists to participate in our Digital Art Competition, open to students from schools, colleges, and the general public. Whether you are a budding artist or a seasoned creative, this is your chance to showcase your talent and imagination using technology!",
     "Rules":
-      "Participants must bring their own tablets or PCs for creating their digital art. Basic chart papers will not be provided; all digital art must be submitted electronically. All necessary software and tools should be prepared in advance by the participants.",
+      "1. Participants must bring their own tablets or PCs for creating their digital art. Basic chart papers will not be provided.; 2. All digital art must be submitted electronically, and participants are required to prepare all necessary software and tools in advance.;3. The theme for this competition is 'Eco Cyber City'",
     "Prizes": "2300",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Salman Zubair",
     "Lead Contact Number": 7889405665,
     "Judging Criteria":
-      "winners would be declared in 3 categories that is from 11-14yrs, 15-18yrs , 19\nyrs and above. The judges would assess the paintings of the \nparticipants and decide the winners accordingly.\nonce the award ceremony is done the paintings would be displayed \non the walls for exhibition purpose.",
+    "Creativity & Originality (35%) - Is the artwork unique, innovative, and offering a fresh perspective?; Technical Skill (35%) - How well is the medium mastered, with attention to detail and composition?\n; Theme Adherence (30%) - Does the artwork effectively interpret and align with the competition's theme?",
     "Start Time": "2.00 PM",
     "End Time": "4.30 PM",
     "Day": 2,
@@ -325,16 +325,16 @@ export const competitions = [
   {
     "Event Name": "Best Out Of Waste",
     "Description":
-      "The Best Out of Waste competition is a creative and environmentally-conscious event where participants use their ingenuity and craftsmanship to transform waste materials into valuable and artistic creations. The objective is to encourage recycling and upcycling practices, reduce waste, and promote sustainability. Teams will be provided with a variety of waste materials such as plastic bottles, old newspapers, cardboard, fabric scraps, etc., and will have a set time to create something innovative and functional out of these materials. Participants are required to bring their own tools to work with.",
+      "The Best Out of Waste competition is designed to encourage participants to creatively repurpose waste materials into innovative and useful creations. The goal is to raise awareness about recycling, sustainability, and the potential of upcycling waste. Participants are required to make their creations beforehand and bring them to the competition for showcasing and explanation. At least 70% of the materials used must be waste. A panel of judges will evaluate each entry based on various criteria, and winners will be awarded accordingly.",
     "Rules":
-      "Team Composition:\nEach team must consist of 2-4 members.\n\nUse of Materials and Tools:\n1. Only the provided waste materials must be used; no external materials are allowed.\n2. Participants must bring their own tools (e.g., scissors, glue, cutters, paints, etc.).\n\nTime Limit:\nEach team will have a maximum of 60 minutes to complete their creation, including setup and clean-up time.",
+      "Participation: Open to individuals or teams (maximum 4 members per team).;Pre-Made Creations: Participants must prepare their creations beforehand and bring them to the competition. The creation must consist of at least 70% waste materials (e.g., plastic bottles, old newspapers, cardboard, scrap metal, fabric, etc.).;Presentation: Each participant or team will be given 5-7 minutes to showcase and explain their creation to the judges. They should discuss the materials used, the concept behind the creation, the process of making it, and its potential use.;Participant Preparation Guidelines: Prepare a concise and engaging 5-minute presentation that covers the idea, process, and sustainability impact.;Be ready to answer questions from judges about the materials used and the potential uses of the creation.",
     "Prizes": "2250",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Danish Mir",
     "Lead Contact Number": 6005619812,
     "Judging Criteria":
-      "The judging criteria involves five major  step each contains 20 marks .   1 .Creativity and Originality: Unique and creative use of waste materials.    2 .Utility and Functionality: Practical use of the item created.    3.Aesthetics: Overall look and design.   4. Environmental Impact: Use of eco-friendly materials and ideas.   5. Presentation: Clarity and effectiveness in explaining the concept and process.",
+      "The total points will be 100, divided as follows:;Creativity and Innovation (30 points): How unique and creative is the idea?;Usability and Functionality (25 points): How practical and useful is the final product?;Aesthetics (20 points): How visually appealing is the creation?;Environmental Impact (15 points): How much does the creation promote sustainability and environmental awareness?;Presentation (10 points): How well is the concept and process explained to the judges and audience?;Safety and Cleanliness: Participants must ensure that their creations are safe and non-hazardous. Participants are responsible for cleaning up their display area after the event.;Judging Process:Judges will receive scoring sheets to rate each criterion (Creativity, Usability, Aesthetics, Environmental Impact, and Presentation).;Each judge will have time to ask participants questions during their presentation.",
     "Start Time": "2:00 PM",
     "End Time": "4:30 PM",
     "Day": 2,
@@ -379,22 +379,7 @@ export const competitions = [
     "Venue": "Common Hall",
     "Card Image": "ROBOWAR.png"
   },
-  {
-    "Event Name": "Innovations Across the Nation",
-    "Description": "(Exclusive Only for NIT Srinagar Students);Tech States Showcase: Innovations Across the Nation",
-    "Rules"   : "",
-    "Prizes"  : "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "AMAN BHASKAR",
-    "Lead Contact Number": 8057587498,
-    "Judging Criteria": "",
-    "Start Time": "5:00 PM",
-    "End Time": "6:30 PM",
-    "Day": 2,
-    "Venue": "Main Stage",
-    "Card Image" : "Leading With Vision Workshop.png"
-  },
+ 
   {
     "Event Name": "Use the AI",
     "Description":
@@ -509,6 +494,25 @@ export const competitions = [
     "Venue": "L-2",
     "Card Image": "OpenBook.png"
   },
+  {
+    "Event Name": "Hues of Kashmir",
+    "Description":
+      "Participants will roam the campus and capture its various hues and moments, highlighting the unique aspects of the environment.; Participants must upload their photos to their social media accounts, tagging the Techvaganza page. Additionally, photos must be uploaded to a provided Google link within the specified timeframe.",
+    "Rules":
+      "1:-No Photo Editing: All photos must be original and unedited to maintain authenticity.;2:-Minimum Uploads: Each participant must upload at least 20 photos.;3:-Social Media Tagging: Photos must be uploaded to social media accounts with the Techvaganza page tagged.;4:-Google Link Submission: Photos must also be uploaded to a Google link provided at the time of the event, within the given timeframe.",
+    "Prizes": "2250",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Prabhat Shukla",
+    "Lead Contact Number": 9082067512,
+    "Judging Criteria":
+      "-> Social Media Likes (40%): The popularity of the photos on social media will contribute 40% to the final score.;-> Panel Judging (60%): A panel of judges will evaluate the photos based on creativity, composition, and how well they capture the essence of the campus.",
+    "Start Time": "9:00 AM",
+    "End Time": "9:00 PM",
+    "Day": 1,
+    "Venue": "",
+    "Card Image": "Hues of Kashmir.png"
+  },
   // {
   //   "Event Name": "Startup Fest",
   //   "Description":
@@ -535,7 +539,7 @@ export const competitions = [
     "Description":
       "The IDEATHON event is an intensive, brainstorming workshop-like experience for young talents to generate solutions to existing challenges in their communities. This event will be a chance to help your inner innovative and entrepreneurial mind reach a new level as you will be participating in teams to find your own creative solutions and to showcase your potential. \n\nIn simple terms, ideathon is hackathon minus the coding part. This means it is open to all, the only thing one need to participate in this event is creativity, problem-solving and teamwork. The goal is to encourage out-of-the-box thinking and pushing the boundaries of innovation.",
     "Rules":
-      "1. problems should be given to participants on before 3 days  of the event  2. Participants have to submit their ideas on the A4 sheets will be provided.   3. On the next day they have to present their ideas from presentation that should be made accordingly, the ideas they have submitted.    4, The winners will be announced on their overall performance mainly focused on their ideas.",
+      "1. Problems will be given to participants a week before the event and they have to make a presentation on one of the given problem statements.;2. On the Event day, the teams have to present their idea as a presentation.;3. The winners will be announced based on their overall performance, mainly on their ideas.",
     "Prizes": "800",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
@@ -810,23 +814,23 @@ export const competitions = [
     "Event Name": "Squid Game",
     "Description": "This event will consist of multiple challenges that test participants' logical thinking and creativity, such as quizzes, logo puzzles, and Pictionary, among others.",
     "Rules": "1. Quiz: The first mini-challenge will be a quiz, which will be based on any topic, challenging the logic and knowledge of the participants. The top 30 out of 60 participants will proceed to the next round.\n2. Logo puzzle: Participants will carve out logo symbols from clay work in a team-based challenge.\n3. Pictionary: Teams must guess the pictures drawn by their teammates on a smart screen.\n4. Guess the Principle: Participants will guess scientific principles or laws based on given cues.\n5. Business Proposal: In the final round, participants will present business solutions based on real-life problems.",
-    "Prizes": "1000",
+    "Prizes": "700",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Maratib Maajid",
     "Lead Contact Number": 7889869893,
     "Judging Criteria": "Qualification will be based on performance in each mini-challenge.\nQuiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
-    "Start Time": "02:00 PM",
-    "End Time": "04:30 PM",
+    "Start Time": "12:00 PM",
+    "End Time": "02:00 PM",
     "Day": 1,
-    "Venue": "Mech. Dept. Park",
+    "Venue": "L8",
     "Card Image": "squid-game.png"
   },
   {
     "Event Name": "Keyboard Jumble",
     "Description": "This event tests participants' quick thinking, speed, and knowledge of keyboard layouts. Participants will be provided with keyboards where the keys have been swapped or misplaced. Their task is to rearrange the keys in the correct manner within a fixed time.",
-    "Rules": "Objective: Participants must correctly arrange the keyboard keys to their standard positions within the allotted time.\nTime Duration: Maximum of 5 minutes per participant to complete the task.\nRules: No external help allowed, and only standard QWERTY keyboard layouts are acceptable. Disqualification: Any form of tampering with the keyboard or rule violations will result in immediate disqualification.",
-    "Prizes": "800",
+    "Rules": "Objective: Participants must correctly arrange the keyboard keys to their standard positions within the allotted time.\nTime Duration: Maximum of 1 minute per participant to complete the task.\nRules: No external help allowed, and only standard QWERTY keyboard layouts are acceptable. Disqualification: Any form of tampering with the keyboard or rule violations will result in immediate disqualification.",
+    "Prizes": "300",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Akash Kumar Singh",
@@ -853,7 +857,39 @@ export const competitions = [
     "Day": 2,
     "Venue": "Main Stage",
     "Card Image": "tech-showcase.png"
-  }  
+  },
+  {
+    "Event Name": "UV Dance competition",
+    "Description": "UV Dance Competition is a visually stunning dance event where performances are enhanced by ultraviolet (UV) light, creating a glowing and striking visual experience. Participants will showcase their choreography under black light to create a mesmerizing effect.",
+    "Rules": "",
+    "Prizes": "2000",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Janvi",
+    "Lead Contact Number": 9699408586,
+    "Judging Criteria": "",
+    "Start Time": "06:00",
+    "End Time": "08:00",
+    "Day": 1,
+    "Venue": "Main Stage",
+    "Card Image" : "UV Dance competition.png"
+  },
+  {
+    "Event Name": "Sonic Showdown: Battle of Beats",
+    "Description": "Sonic Showdown: Battle of Beats is an electrifying music production competition designed to showcase the creativity and technical skills of aspiring and experienced music producers. Participants will battle head-to-head to craft original tracks, pushing the limits of musical innovation across genres like electronic, hip-hop, pop, and experimental.",
+    "Rules": "",
+    "Prizes": "300",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "KUNDAN SINGH",
+    "Lead Contact Number": 9797985688,
+    "Judging Criteria": "",
+    "Start Time": "02:00",
+    "End Time": "03:30",
+    "Day": 2,
+    "Venue": "L 10",
+    "Card Image" : "Sonic ShowdownBattle of Beats.png"
+  },
 ];
 
 
@@ -885,31 +921,19 @@ export const performingEvents = [
     "Card Image" : "vihang.png"
   },
   
+
   {
-    "Event Name": "Sonic Showdown: Battle of Beats",
-    "Description": "Sonic Showdown: Battle of Beats is an electrifying music production competition designed to showcase the creativity and technical skills of aspiring and experienced music producers. Participants will battle head-to-head to craft original tracks, pushing the limits of musical innovation across genres like electronic, hip-hop, pop, and experimental.",
+    "Event Name": "Drawn Soccer",
+    "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings.",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "KUNDAN SINGH",
-    "Lead Contact Number": 9797985688,
-    "Start Time": "02:00",
-    "End Time": "03:30",
+    "Lead Name": "",
+    "Lead Contact Number": "",
+    "Start Time": "",
+    "End Time": "",
     "Day": 2,
-    "Venue": "L 10",
-    "Card Image" : "Sonic ShowdownBattle of Beats.png"
-  },
-  {
-    "Event Name": "UV Dance competition",
-    "Description": "UV Dance Competition is a visually stunning dance event where performances are enhanced by ultraviolet (UV) light, creating a glowing and striking visual experience. Participants will showcase their choreography under black light to create a mesmerizing effect.",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
-    "Lead Name": "Janvi",
-    "Lead Contact Number": 9699408586,
-    "Start Time": "06:00",
-    "End Time": "08:00",
-    "Day": 1,
-    "Venue": "Main Stage",
-    "Card Image" : "UV Dance competition.png"
+    "Venue": "",
+    "Card Image" : "Drawn Soccer.png"
   },
   
 ];
@@ -1451,7 +1475,7 @@ export const talks = [
     "Venue": "LH3",
     "Card Image": "IOT.png",
   },
-  {
+ /*  {
     "Event Name": "3D modelling",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
@@ -1546,7 +1570,7 @@ export const talks = [
     "Day": 1,
     "Venue": "LH3",
     "Card Image": "LateX.png",
-  },
+  }, */
   {
     "Event Name": "Tech & Expert Talks",
     Description:
