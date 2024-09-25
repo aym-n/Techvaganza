@@ -12,7 +12,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
             className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
             selectedClassName="active-tab"
           >
-            Rules / prizes
+            Rules/Prizes
           </Tab>
           <Tab
             className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
@@ -23,7 +23,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
         </TabList>
         <div className="BoxShadow mx-2 my-2 px-3 py-4 pb-12">
           <TabPanel>
-            <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Rules/Prizes</h1>
+            <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Rules</h1>
             <div className="space-y-5 mx-4 font-semibold font-kodeMono">
               {rules.map((rule, index) => (
                 <p key={index}>{rule}</p>
@@ -36,7 +36,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
                 <hr className="mt-4 border border-primary" />
                 <h1 className="entry-header text-3xl tfont-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>
                 <div className="space-y-5 mx-4 font-semibold font-kodeMono">
-                  {data["Prizes"]}
+                  Winner would get a prize of ₹{data["Prizes"]}
                 </div>
               </>)
             }

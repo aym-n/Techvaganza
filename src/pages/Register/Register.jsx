@@ -1,25 +1,16 @@
-import PersonalDetails from "./components/PersonalDetails";
-import EventDetails from "./components/EventDetails";
-import Confirmation from "./components/Confirmation";
-import { useContext } from "react";
-import { MultiStepContext } from "./StepContext";
+import RegisterHome from "./pages/RegisterHome";
+import { Route, Routes } from "react-router-dom";
+import ScrollToTop from "../../Components/ScrollToTop";
+import EventRegister from "./pages/EventRegister";
+
 export default function Register() {
-  const { currStep } = useContext(MultiStepContext);
-  const showStep = (step) => {
-    switch (step) {
-      case 1:
-        return <PersonalDetails />;
-      case 2:
-        return <EventDetails />;
-      case 3:
-        return <Confirmation />;
-      default:
-        return <PersonalDetails />;
-    }
-  }
   return (
     <>
-      {showStep(currStep)}
+      <ScrollToTop />
+      <Routes>
+        <Route path="/" element={<RegisterHome />} />
+        <Route path="nit-register" element={<EventRegister />} />
+      </Routes>
     </>
   );
 }
