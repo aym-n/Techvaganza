@@ -781,6 +781,7 @@ export const competitions = [
   {
     "Event Name": "Animated Video Competition",
     "Description": "Animated Video Competition is a platform for participants to showcase their creativity and technical skills through animated storytelling. The theme of the competition is Technology, encouraging participants to explore its impact on the world, the future, and how it solves problems.",
+    "Submission Url" : "https://forms.gle/D6Z9oVQEs2sdtyGN9",
     "Rules": "Eligibility: Open to students only (proof of student status may be required).\nIndividual or team participation is allowed.\nSubmission Guidelines: Video Length: The animated video should be 3-5 minutes long. Format: Videos must be submitted in MP4 format with a minimum resolution of 720p. Originality: All content must be original, created specifically for this competition. Plagiarism will result in disqualification.\nSubmission Method: Upload the video and share the link via the provided registration form (link to be provided). Ensure the video is accessible for judging.",
     "Prizes": "800",
     "NIT Entry Fee": "",
@@ -800,7 +801,7 @@ export const competitions = [
     "Rules": "1. Time duration: Only 2-3 minutes (max.) will be given to speak on a topic.\n2. Language use: Abusive, caste-based, political-based, or religion-based language is prohibited. Use of such language will result in disqualification.",
     "Prizes": "700",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "",
     "Lead Name": "Abishek Salaria",
     "Lead Contact Number": 6006618668,
     "Judging Criteria": "",
@@ -820,10 +821,10 @@ export const competitions = [
     "Lead Name": "Maratib Maajid",
     "Lead Contact Number": 7889869893,
     "Judging Criteria": "Qualification will be based on performance in each mini-challenge.\nQuiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
-    "Start Time": "12:00 PM",
-    "End Time": "02:00 PM",
+    "Start Time": "10:00 AM",
+    "End Time": "12:00 Noon",
     "Day": 1,
-    "Venue": "L8",
+    "Venue": "L-3",
     "Card Image": "squid-game.png"
   },
   {
@@ -916,7 +917,7 @@ export const performingEvents = [
     "Lead Contact Number": 6006993971,
     "Start Time": "6:00 PM",
     "End Time": "7:00 PM",
-    "Day": 1,
+    "Day": 2,
     "Venue": "Main Stage",
     "Card Image" : "vihang.png"
   },

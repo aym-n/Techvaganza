@@ -18,7 +18,7 @@ export default function EventDetailsLayout({data}) {
               <p key={index} className="text-base mb-2">{desc}</p>
             ))
           }
-          {/* <p className="text-base">{data["Description"]}</p> */}
+          {data["Submission Url"] && <p className="text-base font-bold mb-2">Submit your videos here: <a className="text-blue-500 ml-2" href={data["Submission Url"]}>Animated Video Submission Url</a></p>}
         </div>
         <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Timing</p>
