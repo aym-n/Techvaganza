@@ -38,7 +38,7 @@ export default function TalksAndWorkshopDetailsLayout({data}) {
           <p className="text-base mb-2">
             <span className="font-bold mr-2">Entry Fee:</span>
             {data["Outside Entry Fee"] === ""
-              ? ""
+              ? "Free"
               : `₹ ${data["Outside Entry Fee"]}`}
           </p>
         </div>
