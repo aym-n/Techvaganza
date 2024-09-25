@@ -27,6 +27,12 @@ export default function EventDetailsLayout({data}) {
           </p>
         </div>
         <div className="mb-4">
+          <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">Venue</p>
+          <p className="text-base mb-2">
+            {data["Venue"]}
+          </p>
+        </div>
+        <div className="mb-4">
           <p className="font-semibold text-gray-600 font-figtree textShadow-sm text-3xl overflow-visible mb-4">
             Entry Fee
           </p>
