@@ -776,7 +776,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L 9",
-    "Card Image": "emoji.png"
+    "Card Image": "Emoji Encryption.png"
   },
   {
     "Event Name": "Animated Video Competition",

@@ -11,6 +11,7 @@ export default function PageLayout({ title, imgUrl, children }) {
         <div
           style={{
             backgroundImage: `linear-gradient(to bottom, #000000 0%, #0000009f 50%, #00000033 100%), url(${imgUrl})`,
+            // backgroundImage: `url(${imgUrl})`,
             backgroundPosition: "center center"
           }}
           className={`bg-cover bg-no-repeat bg-top h-[380px]`}
