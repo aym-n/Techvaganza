@@ -1297,7 +1297,8 @@ export const gamezone = [
   },
 ];
 
-export const workshops = [
+
+export const talks = [
   {
     "Event Name": "Microcontrollers, \nHands on practice \nwith Arduino UNO",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
@@ -1312,6 +1313,7 @@ export const workshops = [
     "End Time": "1:00 pm",
     "Day": 1,
     "Venue": "L-11",
+    "isWorkshop": true,
     "Card Image" : "Adrino_Techtalks.png"
   },
   {
@@ -1328,6 +1330,7 @@ export const workshops = [
     "End Time": "1:00 pm",
     "Day": 1,
     "Venue": "L-10",
+    "isWorkshop": true,
     "Card Image": "intro-to-drones.png",
   },
   {
@@ -1344,6 +1347,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 1,
     "Venue": "L-8",
+    "isWorkshop": true,
     "Card Image": "Solid Works.png",
   },
   {
@@ -1360,6 +1364,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 1,
     "Venue": "L-9",
+    "isWorkshop": true,
     "Card Image": "ML.png",
   },
   {
@@ -1376,6 +1381,7 @@ export const workshops = [
     "End Time": "1:30 pm",
     "Day": 1,
     "Venue": "L-12",
+    "isWorkshop": true,
     "Card Image": "Python.png",
   },
   {
@@ -1392,6 +1398,7 @@ export const workshops = [
     "End Time": "1:30 pm",
     "Day": 2,
     "Venue": "L-10",
+    "isWorkshop": true,
     "Card Image": "Robotics.png",
   },
   {
@@ -1408,6 +1415,7 @@ export const workshops = [
     "End Time": "1:30 pm",
     "Day": 2,
     "Venue": "L-11",
+    "isWorkshop": true,
     "Card Image": "AI.png",
   },
   {
@@ -1424,6 +1432,7 @@ export const workshops = [
     "End Time": "1:30 pm",
     "Day": 2,
     "Venue": "L-12",
+    "isWorkshop": true,
     "Card Image": "App Development.png",
   },
   {
@@ -1440,6 +1449,7 @@ export const workshops = [
     "End Time": "1:30 pm",
     "Day": 2,
     "Venue": "L-13",
+    "isWorkshop": true,
     "Card Image": "Web Development.png",
   },
   {
@@ -1456,6 +1466,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 2,
     "Venue": "L-6",
+    "isWorkshop": true,
     "Card Image": "IOT.png",
   },
  /*  {
@@ -1472,6 +1483,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 2,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "3D Modelling.png",
   },
   {
@@ -1488,6 +1500,7 @@ export const workshops = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "CAD.png",
   },
   {
@@ -1504,6 +1517,7 @@ export const workshops = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "CLC(Computerised.png",
   },
   {
@@ -1520,6 +1534,7 @@ export const workshops = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "Circuit Designing.png",
   },
   {
@@ -1536,6 +1551,7 @@ export const workshops = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "Electric Vehicle.png",
   },
   {
@@ -1552,6 +1568,7 @@ export const workshops = [
     "End Time": "13:00",
     "Day": 1,
     "Venue": "LH3",
+    "isWorkshop": true,
     "Card Image": "LateX.png",
   }, */
   {
@@ -1568,6 +1585,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 2,
     "Venue": "L-7",
+    "isWorkshop": true,
     "Card Image": "thermo-workshop.png",
   },
   {
@@ -1584,6 +1602,7 @@ export const workshops = [
     "End Time": "5:00 pm",
     "Day": 2,
     "Venue": "L-8",
+    "isWorkshop": true,
     "Card Image": "aspen-hysys.png",
   },
   {
@@ -1600,12 +1619,10 @@ export const workshops = [
     "End Time": "1:00 PM",
     "Day": 1,
     "Venue": "L-13",
+    "isWorkshop": true,
     "Card Image":
       "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
   },
-]
-
-export const talks = [
   {
     "Event Name": "Empowering Financial Literacy: Transforming Futures Through EdTech ",
     "Description": "In this workshop, we will explore how technology is being used to revolutionize financial literacy. Participants will learn about various EdTech platforms and tools that simplify complex financial concepts, making them accessible to all. By the end of the session, you will understand how to use these tools to make better financial decisions and how EdTech is creating a more financially literate and empowered society.",
@@ -1620,6 +1637,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-3",
+    "isWorkshop": false,
     "Card Image": "Empowering Financial Literacy.png",
   },
   {
@@ -1636,6 +1654,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 2,
     "Venue": "L-3",
+    "isWorkshop": false,
     "Card Image": "AI & Animal Husbandry.png",
   },
   {
@@ -1652,6 +1671,7 @@ export const talks = [
     "End Time": "11:30 am",
     "Day": 1,
     "Venue": "L-1",
+    "isWorkshop": false,
     "Card Image": "The Future of Electric Vehicles Driving.png",
   },
   {
@@ -1668,6 +1688,7 @@ export const talks = [
     "End Time": "11:30 am",
     "Day": 1,
     "Venue": "L-2",
+    "isWorkshop": false,
     "Card Image": "Renewable Energy Pathway to a.png",
   },
   {
@@ -1684,6 +1705,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-1",
+    "isWorkshop": false,
     "Card Image": "AI.png",
   },
   {
@@ -1700,6 +1722,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 2,
     "Venue": "L-5",
+    "isWorkshop": false,
     "Card Image": "biogenesis.png",
   },
   {
@@ -1716,6 +1739,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 2,
     "Venue": "L-2",
+    "isWorkshop": false,
     "Card Image": "Electrospun nanofibers - Opening new.png",
   },
   {
@@ -1732,6 +1756,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-2",
+    "isWorkshop": false,
     "Card Image": "Knowledge Graph Applications.png",
   },
   {
@@ -1748,6 +1773,7 @@ export const talks = [
     "End Time": "11:30 pm",
     "Day": 2,
     "Venue": "L-1",
+    "isWorkshop": false,
     "Card Image": "Black Holes.png",
   },
   {
@@ -1764,6 +1790,7 @@ export const talks = [
     "End Time": "11:30 pm",
     "Day": 2,
     "Venue": "L-2",
+    "isWorkshop": false,
     "Card Image": "Multifunctional Grid.png",
   },
   {
@@ -1780,6 +1807,7 @@ export const talks = [
     "End Time": "11:30 pm",
     "Day": 2,
     "Venue": "L-3",
+    "isWorkshop": false,
     "Card Image": "A novel class of material.png",
   },
   // {
@@ -1796,7 +1824,8 @@ export const talks = [
   //   "End Time": "3:30 pm",
   //   "Day": 1,
   //   "Venue": "L-1",
-  //   "Card Image": "Applications of Hydrogen.png",
+  // "isWorkshop": false,   
+  // "Card Image": "Applications of Hydrogen.png",
   // },
   {
     "Event Name": "Tech role in Heritage Preservation",
@@ -1812,6 +1841,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-4",
+    "isWorkshop": false,
     "Card Image": "Tech role in Heritage Preservation.png",
   },
   {
@@ -1828,6 +1858,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-5",
+    "isWorkshop": false,
     "Card Image": "Career Counselling.png",
   },
   {
@@ -1844,6 +1875,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-6",
+    "isWorkshop": false,
     "Card Image": "Mental Health.png",
   },
   {
@@ -1860,6 +1892,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 1,
     "Venue": "L-7",
+    "isWorkshop": false,
     "Card Image": "Content Creation.png",
   },
   {
@@ -1876,6 +1909,7 @@ export const talks = [
     "End Time": "3:30 pm",
     "Day": 2,
     "Venue": "L-4",
+    "isWorkshop": false,
     "Card Image": "Art of Persuasion Writing.png",
   },
   {
@@ -1892,6 +1926,7 @@ export const talks = [
     "Day": "",
     "isWomen": true,
     "Venue": "",
+    "isWorkshop": false,
     "Card Image": "Women in techbreaking boundaries.png",
   },
   {
@@ -1908,6 +1943,7 @@ export const talks = [
     "Day": "",
     "isWomen": true,
     "Venue": "",
+    "isWorkshop": false,
     "Card Image": "Tech ForwardEmpowering Women in STEM.png",
   },
   {
@@ -1924,6 +1960,7 @@ export const talks = [
     "Day": "",
     "isWomen": true,
     "Venue": "",
+    "isWorkshop": false,
     "Card Image": "HerTech TalksInsights from Women Innovators.png",
   },
 ];

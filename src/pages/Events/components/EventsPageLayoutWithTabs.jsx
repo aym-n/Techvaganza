@@ -36,7 +36,7 @@ const EventsPageLayoutWithTabs = ({ events, tabs }) => {
                       time={item["Start Time"] + " - " + item["End Time"]}
                       venue={item["Venue"]}
                       image={`/events/${item["Card Image"]}`}
-                      url={`${index}`}
+                      url={`${item.originalIndex}`}
                     />
                   ))}
                 </div>
