@@ -35,7 +35,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "Mechanical Dpt. Park",
-    "Card Image": "RemoteControlledCar.png"
+    "Card Image": "Remote Control Car Racing.png"
   },
   {
     "Event Name": "Catapult",
@@ -54,7 +54,7 @@ export const competitions = [
     "End Time": "5:00 PM",
     "Day": 2,
     "Venue": "Football Ground",
-    "Card Image": "Catapult.png"
+    "Card Image": "Catapult   .png"
   },
   {
     "Event Name": "Hydraulic Lift",
@@ -73,7 +73,7 @@ export const competitions = [
     "End Time": "6:00 PM",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "HydralicLift.png"
+    "Card Image": "Hydraulic Lift.png"
   },
   {
     "Event Name": "Civil Engineering Quizathon",
@@ -130,7 +130,7 @@ export const competitions = [
     "End Time": "4:00 PM",
     "Day": 2,
     "Venue": "Structural Dynamics Lab",
-    "Card Image": "Structure Battles.png"
+    "Card Image": "STRUCTURE BATTLES Earthquake resistant building.png"
   },
   {
     "Event Name": "STRUCTURE BATTLES: BRIDGE BUILDING",
@@ -168,7 +168,7 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 2,
     "Venue": "L-2",
-    "Card Image": "TypingCompetition.png"
+    "Card Image": "Typing Competition.png"
   },
   {
     "Event Name": "Line Follower",
@@ -187,7 +187,7 @@ export const competitions = [
     "End Time": "3:30 PM",
     "Day": 1,
     "Venue": "Common hall",
-    "Card Image": "LineFollower.png"
+    "Card Image": "Line Follower Competition.png"
   },
   {
     "Event Name": "Ecobuild Challenge",
@@ -225,7 +225,7 @@ export const competitions = [
     "End Time": "4.30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 3",
-    "Card Image": "ArtCompetition.png"
+    "Card Image": "Digital Art Competition.png"
   },
   {
     "Event Name": "TECHNICAL EXHIBITION",
@@ -263,7 +263,7 @@ export const competitions = [
     "End Time": "11:30 AM",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "Rocketbattle.png"
+    "Card Image": "Rocketbattles.png"
   },
   {
     "Event Name": "Rapid fire",
@@ -320,7 +320,7 @@ export const competitions = [
     "End Time": "4:30 PM",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image": "ScienceExperiments.png"
+    "Card Image": "Science Experiments Competition.png"
   },
   {
     "Event Name": "Best Out Of Waste",
