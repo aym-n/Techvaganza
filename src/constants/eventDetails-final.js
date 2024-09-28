@@ -1297,7 +1297,7 @@ export const gamezone = [
   },
 ];
 
-export const talks = [
+export const workshops = [
   {
     "Event Name": "Microcontrollers, \nHands on practice \nwith Arduino UNO",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
@@ -1395,7 +1395,7 @@ export const talks = [
     "Card Image": "Robotics.png",
   },
   {
-    "Event Name": "Workshop on AI",
+    "Event Name": "AI",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
@@ -1586,6 +1586,26 @@ export const talks = [
     "Venue": "L-8",
     "Card Image": "aspen-hysys.png",
   },
+  {
+    "Event Name":
+      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
+    "Description":
+      "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
+    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Tanisha Khan",
+    "Lead Contact Number": 9149844814,
+    "Start Time": "10:00 am",
+    "End Time": "1:00 PM",
+    "Day": 1,
+    "Venue": "L-13",
+    "Card Image":
+      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+  },
+]
+
+export const talks = [
   {
     "Event Name": "Empowering Financial Literacy: Transforming Futures Through EdTech ",
     "Description": "In this workshop, we will explore how technology is being used to revolutionize financial literacy. Participants will learn about various EdTech platforms and tools that simplify complex financial concepts, making them accessible to all. By the end of the session, you will understand how to use these tools to make better financial decisions and how EdTech is creating a more financially literate and empowered society.",
@@ -1873,23 +1893,6 @@ export const talks = [
     "isWomen": true,
     "Venue": "",
     "Card Image": "Women in techbreaking boundaries.png",
-  },
-  {
-    "Event Name":
-      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
-    "Description":
-      "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
-    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
-    "Lead Name": "Tanisha Khan",
-    "Lead Contact Number": 9149844814,
-    "Start Time": "10:00 am",
-    "End Time": "1:00 PM",
-    "Day": 1,
-    "Venue": "L-13",
-    "Card Image":
-      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
   },
   {
     "Event Name": "Tech Forward: Empowering Women in STEM",

@@ -1,8 +1,10 @@
 import PageLayout from "../../../Components/PageLayout";
-import { talks } from "../../../constants/eventDetails-final";
-import EventsPageLayout from "../components/EventPageLayout";
+import { talks, workshops } from "../../../constants/eventDetails-final";
+import EventsPageLayoutWithTabs from "../components/EventsPageLayoutWithTabs";
 
 export default function TalksAndWorkshops() {
+  const events = [talks, workshops];
+  const tabs = ["Talks", "Workshops"];
   return (
     <PageLayout 
       title={"Talks And Workshops"} 
@@ -13,7 +15,7 @@ export default function TalksAndWorkshops() {
         { label: "Talks And Workshops", path: "/events/talks-and-workshops" }
       ]}
     >
-      <EventsPageLayout events={talks} /> 
+      <EventsPageLayoutWithTabs events={events} tabs={tabs} /> 
     </PageLayout>
   );
 }
