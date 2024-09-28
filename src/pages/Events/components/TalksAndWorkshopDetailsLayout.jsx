@@ -3,7 +3,7 @@ import PageLayout from "../../../Components/PageLayout";
 import PropTypes from "prop-types";
 
 
-export default function TalksAndWorkshopDetailsLayout({data}) {
+export default function TalksAndWorkshopDetailsLayout({data, index}) {
   const descriptions = data["Description"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
   return (
     <PageLayout 
@@ -13,7 +13,7 @@ export default function TalksAndWorkshopDetailsLayout({data}) {
         { label: "Home", path: "/" },
         { label: "Events", path: "/events" },
         { label: "Talks and Workshops", path: "/events/talks-and-workshops" },
-        { label: data["Event Name"], path: `/events/${data["Event Name"]}` }
+        { label: data["Event Name"], path: `/events/talks-and-workshops/${index}` }
       ]}
     >
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import PageLayout from "../../../Components/PageLayout";
 import PropTypes from "prop-types";
 
-export default function GamingEventDetailsLayout({ data }) {
+export default function GamingEventDetailsLayout({ data, index }) {
   const rules = data["Rules"]
     .split(";")
     .map((rule) => rule.trim())
@@ -15,7 +15,7 @@ export default function GamingEventDetailsLayout({ data }) {
         { label: "Home", path: "/" },
         { label: "Events", path: "/events" },
         { label: "Gaming Zone", path: "/events/gaming-zone" },
-        { label: data["Event Name"], path: `/events/${data["Event Name"]}` }
+        { label: data["Event Name"], path: `/events/gaming-zone/${index}` }
       ]}
     >
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">

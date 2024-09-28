@@ -4,7 +4,7 @@ import TabView from "./Tabview";
 import PropTypes from "prop-types";
 
 
-export default function EventDetailsLayout({data}) {
+export default function EventDetailsLayout({data, index}) {
   const descriptions = data["Description"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
   return (
     <PageLayout 
@@ -14,7 +14,7 @@ export default function EventDetailsLayout({data}) {
         { label: "Home", path: "/" },
         { label: "Events", path: "/events" },
         {label: "Competitions", path: "/events/competitions"},
-        { label: data["Event Name"], path: `/events/${data["Event Name"]}` }
+        { label: data["Event Name"], path: `/events/competitions/${index}` }
       ]}
     >
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
@@ -22,6 +22,11 @@ export default function EventDetailsLayout({data}) {
           <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 mb-3 overflow-visible">
             {data["Event Name"]}
           </p>
+          {data["isWomen"] && 
+            <p className="text-gray-800 font-extrabold font-kodeMono text-md overflow-visible mb-2">
+              Exclusive Only For Womens
+            </p>
+          }
           {
             descriptions.map((desc, index) => (
               <p key={index} className="text-base mb-2">{desc}</p>

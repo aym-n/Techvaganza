@@ -15,6 +15,7 @@ export default function GameZoneDetails() {
     <>
       <GamingEventDetailsLayout
         data={event}
+        index={eventIndex}
       />
     </>
   );
