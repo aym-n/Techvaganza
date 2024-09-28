@@ -8,7 +8,16 @@ export default function GamingEventDetailsLayout({ data }) {
     .map((rule) => rule.trim())
     .filter((rule) => rule !== "");
   return (
-    <PageLayout title={data["Event Name"]} imgUrl={`/common/gamezone.jpeg`}>
+    <PageLayout 
+      title={data["Event Name"]} 
+      imgUrl={`/common/gamezone.jpeg`}
+      breadcrumbs={[
+        { label: "Home", path: "/" },
+        { label: "Events", path: "/events" },
+        { label: "Gaming Zone", path: "/events/gaming-zone" },
+        { label: data["Event Name"], path: `/events/${data["Event Name"]}` }
+      ]}
+    >
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
           <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800  mb-3 overflow-visible">

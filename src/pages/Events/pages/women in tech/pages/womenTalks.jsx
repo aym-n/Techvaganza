@@ -7,7 +7,16 @@ export default function WomenTalks(){
   .filter(talk => talk.isWomen === true);
 
     return(
-        <PageLayout title={"Women Talks and Workshops"} imgUrl={'/common/women-in-tech.png'}>
+        <PageLayout 
+          title={"Women Talks and Workshops"} 
+          imgUrl={'/common/women-in-tech.png'}
+          breadcrumbs={[
+            { label: "Home", path: "/" },
+            { label: "Events", path: "/events" },
+            {label: "Women In Tech", path: "/events/women-in-tech"},
+            {label: "Talks and Workshops", path: "/events/women-in-tech/talks-and-workshops"}
+          ]}
+        >
           <WomenInTechPageLayout events={womenTalkEvents} /> 
         </PageLayout>
     )

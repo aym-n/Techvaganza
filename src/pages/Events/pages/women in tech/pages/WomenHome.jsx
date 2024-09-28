@@ -17,7 +17,15 @@ const womenCategory = [
 
 export default function WomenHome(){
     return(
-        <PageLayout title={"Women In Tech*"} imgUrl={'/common/women-in-tech.png'}>
+        <PageLayout 
+          title={"Women In Tech*"} 
+          imgUrl={'/common/women-in-tech.png'}
+          breadcrumbs={[
+            { label: "Home", path: "/" },
+            { label: "Events", path: "/events" },
+            {label: "Women In Tech", path : "/events/women-in-tech"}
+          ]}
+        >
           <div className="px-5 py-8 flex gap-8 flex-wrap items-center overflow-hidden justify-center">
             {womenCategory.map((item, index) => (
                 <CategoryCard key={item.id} index={index} title={item.title} url={item.url} img={item.img} />
