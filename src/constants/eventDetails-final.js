@@ -1950,6 +1950,14 @@ const day1Gamezone = gamezone
   }))
   .filter((event) => event.Day === 1 || event.Day === "");
 
+const day1Performances = performingEvents
+    .map((event, index) => ({
+      ...event,
+      category: "performances",
+      url: `performances/${index}`,
+    }))
+    .filter((event) => event.Day === 1 || event.Day === "");
+
 // For day 2 events
 const day2Competitions = competitions
   .map((event, index) => ({
@@ -1975,8 +1983,16 @@ const day2Gamezone = gamezone
   }))
   .filter((event) => event.Day === 2 || event.Day === "");
 
+const day2Performances = performingEvents
+    .map((event, index) => ({
+      ...event,
+      category: "performances",
+      url: `performances/${index}`,
+    }))
+    .filter((event) => event.Day === 2 || event.Day === "");
+
 // Combine all day 1 events
-export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone];
+export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone, ...day1Performances];
 
 // Combine all day 2 events
-export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone];
+export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone, ...day2Performances];

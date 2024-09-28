@@ -43,13 +43,7 @@ export const teams = {
       name: "Ikjot Kour",
       email: "2023nitsgr181@nitsri.ac.in",
       phone: "70061 54937"
-    },
-    // {
-    //   title: "Developer",
-    //   name: "Tavaheed Tariq",
-    //   email: "tavaheed_2022bite008@nitsri.ac.in",
-    //   phone: "9103100145"
-    // }
+    }
   ],
   "Outreach": [
     {
