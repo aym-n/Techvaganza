@@ -3,10 +3,19 @@ import PageLayout from "../../../Components/PageLayout";
 import PropTypes from "prop-types";
 
 
-export default function PerformingEventsDetailsLayout({data}) {
+export default function PerformingEventsDetailsLayout({data, index}) {
   const descriptions = data["Description"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
   return (
-    <PageLayout title={data["Event Name"]} imgUrl={`/common/performance.jpeg`}>
+    <PageLayout 
+      title={data["Event Name"]} 
+      imgUrl={`/common/performance.jpeg`}
+      breadcrumbs={[
+        { label: "Home", path: "/" },
+        { label: "Events", path: "/events" },
+        { label: "Performances", path: "/events/performances" },
+        { label: data["Event Name"], path: `/events/performances/${index}` }
+      ]}
+    >
       <div className="px-4 md:px-12 py-4 md:py-12 font-playfair bg-background ShadowLarge">
         <div className="mb-4">
           <p className="font-semibold font-figtree textShadow-md text-4xl md:text-5xl text-gray-800 mb-3 overflow-visible">

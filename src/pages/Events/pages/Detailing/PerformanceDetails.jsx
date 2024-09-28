@@ -14,6 +14,7 @@ export default function PerformanceDetails() {
     <>
       <PerformingEventsDetailsLayout
         data={event}
+        index={eventIndex}
       />
     </>
   );

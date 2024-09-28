@@ -35,7 +35,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "Mechanical Dpt. Park",
-    "Card Image": "RemoteControlledCar.png"
+    "Card Image": "Remote Control Car Racing.png"
   },
   {
     "Event Name": "Catapult",
@@ -54,7 +54,7 @@ export const competitions = [
     "End Time": "5:00 PM",
     "Day": 2,
     "Venue": "Football Ground",
-    "Card Image": "Catapult.png"
+    "Card Image": "Catapult   .png"
   },
   {
     "Event Name": "Hydraulic Lift",
@@ -73,7 +73,7 @@ export const competitions = [
     "End Time": "6:00 PM",
     "Day": 2,
     "Venue": "Common Hall",
-    "Card Image": "HydralicLift.png"
+    "Card Image": "Hydraulic Lift.png"
   },
   {
     "Event Name": "Civil Engineering Quizathon",
@@ -121,7 +121,7 @@ export const competitions = [
       "● This is a bring from home competition.;● Joints must be made using only fevicol and groove method.;● Structure and floors must be strong enough to withstand load.;● Follow the dimensions and weight limits.;● Only two toothpicks can be overlapped or sticked to get thick member.;●  In case the requirements and/or constraints are not met, points will be deducted orthe participant might face disqualification;● The rules are subject to change at the discretion of the organizers",
     "Prizes": "2250",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "99",
     "Lead Name": "Lalit Kumar",
     "Lead Contact Number": 9622199826,
     "Judging Criteria":
@@ -130,7 +130,7 @@ export const competitions = [
     "End Time": "4:00 PM",
     "Day": 2,
     "Venue": "Structural Dynamics Lab",
-    "Card Image": "Structure Battles.png"
+    "Card Image": "STRUCTURE BATTLES Earthquake resistant building.png"
   },
   {
     "Event Name": "STRUCTURE BATTLES: BRIDGE BUILDING",
@@ -140,7 +140,7 @@ export const competitions = [
     "● Participants have to complete their design model at there place before hand. ;● Participant who have higher breaking point of their bridge model, will be declared as the winner (breaking point of your model will be checked by putting weights on the model or by hanging a weight down the model).;● Contestants will be judged on the basis how much weight their model can withstand. ; ● Participants are not allowed to bring any external material to improve the strength of the model.;● Any participant seen using that will be disqualified.;● No sandwiching of sticks more than 3 if its used as a joint or 2 if used as a beam.",
     "Prizes": "2250",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "99",
     "Lead Name": "korukonda venkata lokesh",
     "Lead Contact Number": 6302651267,
     "Judging Criteria":
@@ -168,7 +168,7 @@ export const competitions = [
     "End Time": "5:30 PM",
     "Day": 2,
     "Venue": "L-2",
-    "Card Image": "TypingCompetition.png"
+    "Card Image": "Typing Competition.png"
   },
   {
     "Event Name": "Line Follower",
@@ -178,7 +178,7 @@ export const competitions = [
       "1.Robot Specifications:;● Components: Robots must be constructed by the participants themselves.;● Power Source: The robot must be battery- operated. The battery must be securely mounted and should not leak or cause electrical hazards.;● Sensors: Robots must use line-following sensors to detect the track. Additional sensors for detecting obstacles are allowed but should not interfere with other robots.;● Autonomy: Robots must be fully autonomous. Manual control or intervention during the race is not allowed.;2.Team Composition: Each team must have a minimum of 2 and a maximum of 4 members.; 3.Participation: All team members must be actively involved in the design, building, and programming of the robot.",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "99",
+    "Outside Entry Fee": "149",
     "Lead Name": "Aman Kumar yadav",
     "Lead Contact Number": 6306894707,
     "Judging Criteria":
@@ -187,7 +187,7 @@ export const competitions = [
     "End Time": "3:30 PM",
     "Day": 1,
     "Venue": "Common hall",
-    "Card Image": "LineFollower.png"
+    "Card Image": "Line Follower Competition.png"
   },
   {
     "Event Name": "Ecobuild Challenge",
@@ -225,7 +225,7 @@ export const competitions = [
     "End Time": "4.30 PM",
     "Day": 2,
     "Venue": "Hi-Tech 3",
-    "Card Image": "ArtCompetition.png"
+    "Card Image": "Digital Art Competition.png"
   },
   {
     "Event Name": "TECHNICAL EXHIBITION",
@@ -263,7 +263,7 @@ export const competitions = [
     "End Time": "11:30 AM",
     "Day": 2,
     "Venue": "Football ground",
-    "Card Image": "Rocketbattle.png"
+    "Card Image": "Rocketbattles.png"
   },
   {
     "Event Name": "Rapid fire",
@@ -273,7 +273,7 @@ export const competitions = [
       "1) A Team can constitute maximum of 3 students. Individual participation is also allowed.;2) Talking to the person of audience member during the rounds is strictly prohibited.;3)  Using any electronic/digital device viz. smart watches , smart phones,earbuds , etc. during the rounds of the contest is not allowed.;4)Each team/participants must bring their own ball point/ gell pen for response filling.;5) Contest will contain 3 rounds. the top 7 teams  based on their performance in round 1 will qualify for the round 2: semi final round. the top 4 teams will qualify for the final round. ;6) The two top scorer .teams in the final round will be declared winner and runner up teams.",
     "Prizes": "800",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "99",
     "Lead Name": "Abhishek Dubey",
     "Lead Contact Number": 7986714348,
     "Judging Criteria":
@@ -320,7 +320,7 @@ export const competitions = [
     "End Time": "4:30 PM",
     "Day": 1,
     "Venue": "Main Stage",
-    "Card Image": "ScienceExperiments.png"
+    "Card Image": "Science Experiments Competition.png"
   },
   {
     "Event Name": "Best Out Of Waste",
@@ -330,7 +330,7 @@ export const competitions = [
       "Participation: Open to individuals or teams (maximum 4 members per team).;Pre-Made Creations: Participants must prepare their creations beforehand and bring them to the competition. The creation must consist of at least 70% waste materials (e.g., plastic bottles, old newspapers, cardboard, scrap metal, fabric, etc.).;Presentation: Each participant or team will be given 5-7 minutes to showcase and explain their creation to the judges. They should discuss the materials used, the concept behind the creation, the process of making it, and its potential use.;Participant Preparation Guidelines: Prepare a concise and engaging 5-minute presentation that covers the idea, process, and sustainability impact.;Be ready to answer questions from judges about the materials used and the potential uses of the creation.",
     "Prizes": "2250",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "99",
+    "Outside Entry Fee": "49",
     "Lead Name": "Danish Mir",
     "Lead Contact Number": 6005619812,
     "Judging Criteria":
@@ -483,7 +483,7 @@ export const competitions = [
       "1. Team Composition:;- Teams of 4-5 members. No age limit, anyone can participate from any institution.;2. Game Structure:;Round 1: Cheat Challenge (Quiz-based);- Participants will receive an objective question bank via Google Form, consisting of 30 questions to be answered within 10 minutes.;- Teams are free to use Google, AI tools, or any other resources to find the answers—cheating is encouraged!;- The goal is to solve as many questions as possible within the time limit.;- Teams will be shortlisted for the next round based on the highest number of correct answers.;Round 2: Open Book Challenge;- Participants will be provided with a book and a set of specific problems.;- Teams must locate the answers within the book and solve the problems within a set time limit.;- The challenge tests both their ability to find information quickly and apply it to the given problem.;Round 3: Quiz Show (KBC Style);- Multiple-choice questions with four options will be presented to the teams.;- Teams must answer within a set time and can use limited lifelines (50-50, Call a Friend, Use AI, Pass to another team, etc.).",
     "Prizes": "700",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Kavita Choudhary",
     "Lead Contact Number": 7051554671,
     "Judging Criteria":
@@ -510,7 +510,7 @@ export const competitions = [
     "Start Time": "9:00 AM",
     "End Time": "9:00 PM",
     "Day": 1,
-    "Venue": "",
+    "Venue": "L-5",
     "Card Image": "Hues of Kashmir.png"
   },
   // {
@@ -561,7 +561,7 @@ export const competitions = [
       "1.Every squad needs to have 2 to 4 players.;2.The organisers' route must be followed by every participant.;3.Using the internet or outside assistance is strictly forbidden.;4.Cheating in any way will result in instant disqualification.;5.To get to the next spot, teams must solve each clue.;6.Teams have the allotted time to accomplish each task.;7. it is not permitted for teams to challenge one another physically or verbally.",
     "Prizes": "800",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "99",
     "Lead Name": "SHEIKH AZMAT Fayaz",
     "Lead Contact Number": 6006865581,
     "Judging Criteria":
@@ -591,22 +591,22 @@ export const competitions = [
     "Card Image": "SoapboxCarRacing.png"
   },
   {
-    "Event Name": "Reel Heroines: Women Who Lead the Future",
+    "Event Name": "Tech Scavenger Hunt",
     "Description":
-      "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Only female participants are allowed.Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers. ;Film will be screened in collaboration with Movie Club NIT Srinagar.This event will provide a unique and engaging way for participants to learn about the incredible impact women are making in sparking motivation and building a supportive community for future women leaders.",
+      "The Technology-Themed Scavenger Hunt is designed to engage young girls in an interactive and educational experience that highlights various aspects of technology and STEM (Science, Technology, Engineering, and Mathematics). The event aims to spark curiosity, foster problem-solving skills, and encourage collaboration while introducing participants to exciting tech concepts and career paths.;The Women in tech scavenger hunt promises to be an enriching and exciting event for all the participants. We look forward to meeting highly competitive teams that are ready to compete, learn and showcase their technical skills and teamwork. Looking forward to meeting you all at the event!",
     "Rules": "",
     "Prizes": "",
-    "NIT Entry Fee": "49",
-    "Outside Entry Fee": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Neharika Bajaj",
     "Lead Contact Number": "9149494702",
     "Judging Criteria": "",
-    "Start Time": "4:00 PM",
-    "End Time": "6:30 PM",
-    "Day": "",
+    "Start Time": "10:00 AM",
+    "End Time": "3:30 PM",
+    "Day": 1,
     "isWomen": true,
-    "Venue": "L-5",
-    "Card Image": "Reels making competetion.png"
+    "Venue": "Main Ground",
+    "Card Image": ""
   },
   {
     "Event Name": "Bug Bounty",
@@ -776,7 +776,7 @@ export const competitions = [
     "End Time": "12:00 PM",
     "Day": 1,
     "Venue": "L 9",
-    "Card Image": "emoji.png"
+    "Card Image": "Emoji Encryption.png"
   },
   {
     "Event Name": "Animated Video Competition",
@@ -801,7 +801,7 @@ export const competitions = [
     "Rules": "1. Time duration: Only 2-3 minutes (max.) will be given to speak on a topic.;2. Language use: Abusive, caste-based, political-based, or religion-based language is prohibited. Use of such language will result in disqualification.",
     "Prizes": "700",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Abishek Salaria",
     "Lead Contact Number": 6006618668,
     "Judging Criteria": "",
@@ -817,7 +817,7 @@ export const competitions = [
     "Rules": "1. Quiz: The first mini-challenge will be a quiz, which will be based on any topic, challenging the logic and knowledge of the participants. The top 30 out of 60 participants will proceed to the next round.;2. Logo puzzle: Participants will carve out logo symbols from clay work in a team-based challenge.;3. Pictionary: Teams must guess the pictures drawn by their teammates on a smart screen.;4. Guess the Principle: Participants will guess scientific principles or laws based on given cues.;5. Business Proposal: In the final round, participants will present business solutions based on real-life problems.",
     "Prizes": "700",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "149",
     "Lead Name": "Maratib Maajid",
     "Lead Contact Number": 7889869893,
     "Judging Criteria": "Qualification will be based on performance in each mini-challenge.;Quiz, Logo Puzzle, Pictionary, Guess the Principle, and Business Proposal will be judged based on originality, logic, and time completion.",
@@ -865,7 +865,7 @@ export const competitions = [
     "Rules": "",
     "Prizes": "2000",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "149",
     "Lead Name": "Janvi",
     "Lead Contact Number": 9699408586,
     "Judging Criteria": "",
@@ -881,7 +881,7 @@ export const competitions = [
     "Rules": "",
     "Prizes": "300",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "99",
     "Lead Name": "KUNDAN SINGH",
     "Lead Contact Number": 9797985688,
     "Judging Criteria": "",
@@ -912,7 +912,7 @@ export const performingEvents = [
     "Event Name": "Vihang Band",
     "Description": "Singing performance from NIT Srinagar Student band",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "99",
     "Lead Name": "Reeba Amin",
     "Lead Contact Number": 6006993971,
     "Start Time": "6:00 PM",
@@ -925,7 +925,7 @@ export const performingEvents = [
     "Event Name": "Drone Soccer",
     "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression, creating an engaging experience for participants and spectators alike. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings. Each match will not only feature dynamic gameplay but also highlight the artistic flair of the participants, making it a true celebration of teamwork, technology, and creativity. This is a fantastic opportunity to be part of an event that pushes the boundaries of traditional sports and art. Don’t miss your chance to engage in this one-of-a-kind experience—register now to secure your spot and let your imagination and athleticism shine in this exciting fusion of disciplines!",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "149",
     "Lead Name": "Tushar Kumar",
     "Lead Contact Number": "60056 58753",
     "Start Time": "3:00 pm",
@@ -1083,8 +1083,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30",
     "End Time": "19:30",
     "Day": 2,
@@ -1100,8 +1100,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1117,8 +1117,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1134,8 +1134,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1151,8 +1151,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1168,8 +1168,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1185,8 +1185,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1202,8 +1202,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1219,8 +1219,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1236,8 +1236,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1253,8 +1253,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1270,8 +1270,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1287,8 +1287,8 @@ export const gamezone = [
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "",
-    "Lead Name": "",
-    "Lead Contact Number": "",
+    "Lead Name": "Jay Warathe",
+    "Lead Contact Number": "70002 73022",
     "Start Time": "09:30:00",
     "End Time": "19:30",
     "Day": 2,
@@ -1297,7 +1297,7 @@ export const gamezone = [
   },
 ];
 
-export const talks = [
+export const workshops = [
   {
     "Event Name": "Microcontrollers, \nHands on practice \nwith Arduino UNO",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
@@ -1395,7 +1395,7 @@ export const talks = [
     "Card Image": "Robotics.png",
   },
   {
-    "Event Name": "Workshop on AI",
+    "Event Name": "AI",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "Robonox",
     "Prizes": "",
@@ -1587,6 +1587,26 @@ export const talks = [
     "Card Image": "aspen-hysys.png",
   },
   {
+    "Event Name":
+      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
+    "Description":
+      "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
+    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Tanisha Khan",
+    "Lead Contact Number": 9149844814,
+    "Start Time": "10:00 am",
+    "End Time": "1:00 PM",
+    "Day": 1,
+    "Venue": "L-13",
+    "Card Image":
+      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
+  },
+]
+
+export const talks = [
+  {
     "Event Name": "Empowering Financial Literacy: Transforming Futures Through EdTech ",
     "Description": "In this workshop, we will explore how technology is being used to revolutionize financial literacy. Participants will learn about various EdTech platforms and tools that simplify complex financial concepts, making them accessible to all. By the end of the session, you will understand how to use these tools to make better financial decisions and how EdTech is creating a more financially literate and empowered society.",
     "Description about Instructor / Speaker": "Arth Nirmiti",
@@ -1608,7 +1628,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Ambreen Hamdani (SKAUST) ",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1624,7 +1644,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Salman Ahmad (IUST)",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1640,7 +1660,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Sharique Anees (IUST)",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1653,10 +1673,10 @@ export const talks = [
   {
     "Event Name": "Talk on AI",
     "Description": "This workshop is an introduction to Artificial Intelligence and its applications across different industries. Participants will learn about the core concepts of AI, machine learning, and deep learning, with hands-on examples to see how AI is transforming fields such as healthcare, finance, and robotics. By the end of the workshop, attendees will have a better grasp of AI's potential and how it can be utilized in real-world scenarios.",
-    "Description about Instructor / Speaker": "Dr. Rufsan-ul-Haq ",
+    "Description about Instructor / Speaker": "Dr. Rukhsan-ul-haq",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1688,7 +1708,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Nisar Ahmad Khan (KU)",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1704,7 +1724,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Veningston K ",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1720,7 +1740,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Professor Prince Ahmad Ganai",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1736,7 +1756,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr Ikhlaq Hussain",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1752,7 +1772,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Dr. Harkirat Singh",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1762,29 +1782,29 @@ export const talks = [
     "Venue": "L-3",
     "Card Image": "A novel class of material.png",
   },
-  {
-    "Event Name": "Applications of Hydrogen Storage Materials ",
-    "Description": "In this workshop, participants will explore the emerging field of hydrogen storage materials, a key component of the future energy landscape. We will discuss how these materials enable efficient storage of hydrogen, a clean energy source, and the various industrial applications that are being developed. Through case studies and technical discussions, you will gain insights into how hydrogen storage can support global energy sustainability efforts.",
-    "Description about Instructor / Speaker": "Dr. Anshul Gupta ",
-    "Prizes": "",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
-    "Lead Name": "Mubashir Malik",
-    "Lead Contact Number": 7780916523,
-    "Judging Criteria": "",
-    "Start Time": "2:00 pm",
-    "End Time": "3:30 pm",
-    "Day": 1,
-    "Venue": "L-1",
-    "Card Image": "Applications of Hydrogen.png",
-  },
+  // {
+  //   "Event Name": "Applications of Hydrogen Storage Materials ",
+  //   "Description": "In this workshop, participants will explore the emerging field of hydrogen storage materials, a key component of the future energy landscape. We will discuss how these materials enable efficient storage of hydrogen, a clean energy source, and the various industrial applications that are being developed. Through case studies and technical discussions, you will gain insights into how hydrogen storage can support global energy sustainability efforts.",
+  //   "Description about Instructor / Speaker": "Dr. Anshul Gupta ",
+  //   "Prizes": "",
+  //   "NIT Entry Fee": "",
+  //   "Outside Entry Fee": "49",
+  //   "Lead Name": "Mubashir Malik",
+  //   "Lead Contact Number": 7780916523,
+  //   "Judging Criteria": "",
+  //   "Start Time": "2:00 pm",
+  //   "End Time": "3:30 pm",
+  //   "Day": 1,
+  //   "Venue": "L-1",
+  //   "Card Image": "Applications of Hydrogen.png",
+  // },
   {
     "Event Name": "Tech role in Heritage Preservation",
     "Description": "This workshop focuses on how technology is being used to preserve cultural heritage. Participants will learn about the use of digital tools such as 3D scanning, augmented reality, and data archiving to protect and restore heritage sites. Through interactive demonstrations, attendees will gain an understanding of how tech innovations are helping safeguard our history for future generations",
     "Description about Instructor / Speaker": "Muneer Ahmad Dar ",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1800,7 +1820,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Salman Shahid ",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1816,7 +1836,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Feroz Ahmad Malla",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1832,7 +1852,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Nufeel Mir",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1848,7 +1868,7 @@ export const talks = [
     "Description about Instructor / Speaker": "Faheem ul Islam",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
@@ -1875,29 +1895,12 @@ export const talks = [
     "Card Image": "Women in techbreaking boundaries.png",
   },
   {
-    "Event Name":
-      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir",
-    "Description":
-      "This workshop delves into the traditional architecture of Kashmir focusing on the principles of vernacular building styles in face of earthquakes. It will establish a detailed study of key techniques such as Dhajji Dewari and Taq construction which have demonstrated earthquake resilience and analysis of successful preservation and adaptation of vernacular buildings in Kashmir.",
-    "Description about Instructor / Speaker": "Dr. Rakesh Chandra (KU)",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
-    "Lead Name": "Tanisha Khan",
-    "Lead Contact Number": 9149844814,
-    "Start Time": "10:00 am",
-    "End Time": "1:00 PM",
-    "Day": 1,
-    "Venue": "L-13",
-    "Card Image":
-      "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
-  },
-  {
     "Event Name": "Tech Forward: Empowering Women in STEM",
     "Description":
       "As part of “Women in Tech”, the Career Pathways in Tech Workshop is designed to guide students through the diverse and rapidly evolving landscape of the tech industry. This workshop aims to provide insights into various career opportunities, emerging trends, and essential skills that students need to thrive in the tech world.Only female participants are eligible for the workshop.;;\n\nEvent Format;;\n\n1. Introduction ;\n•        Welcome and brief overview of the workshop.;\n•        Introduction of the speaker and any industry professionals present.;\n•        Outline of the domains to be covered (Data Science, Data Analytics, Cyber Security, Full Stack Web Development).;\n2. Exploring Career Domains in Technology; \n•        Data Science and Analytics; \n•        Explanation of how data science and analytics are shaping industries.;\n•        Overview of the skills required and the different roles within this domain.;\n•        Real-world applications and career opportunities.;\n•        Cyber Security; \n•        Introduction to the importance of cyber security in the digital world.;\n•        Roles like ethical hacker, security analyst, and incident responder.;\n•        Key skills and qualifications required.;\n•        Full Stack Web Development ;\n•        Overview of front-end and back-end development.;\n•        Career opportunities in web development, along with required skills and tools.;\n•        The importance of building a portfolio in this field.;\n3. Opportunities for Women in STEM ;\n•        Special focus on the growing opportunities for females in tech and the importance of gender diversity.;\n•        How female students can be empowered to enter and thrive in STEM fields.;\n•        Successful female role models in tech, highlighting their journeys and accomplishments.;\n4. Interactive Segment with Industry Professionals; \n•        A chance for students to hear insights from industry professionals.;\n•        Discussion on current industry trends and future opportunities in tech.;\n•        Encouraging students to actively participate in tech-related activities and competitions.;\n5. Q&A Session ;\n•        Open the floor for students to ask the speaker and professionals any questions related to the workshop content or career pathways.;\n•        Address specific queries on building a career in tech, overcoming challenges, and staying motivated.",
     "Description about Instructor / Speaker": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Neharika Bajaj",
     "Lead Contact Number": 9149494702,
     "Start Time": "",
@@ -1950,6 +1953,14 @@ const day1Gamezone = gamezone
   }))
   .filter((event) => event.Day === 1 || event.Day === "");
 
+const day1Performances = performingEvents
+    .map((event, index) => ({
+      ...event,
+      category: "performances",
+      url: `performances/${index}`,
+    }))
+    .filter((event) => event.Day === 1 || event.Day === "");
+
 // For day 2 events
 const day2Competitions = competitions
   .map((event, index) => ({
@@ -1975,8 +1986,16 @@ const day2Gamezone = gamezone
   }))
   .filter((event) => event.Day === 2 || event.Day === "");
 
+const day2Performances = performingEvents
+    .map((event, index) => ({
+      ...event,
+      category: "performances",
+      url: `performances/${index}`,
+    }))
+    .filter((event) => event.Day === 2 || event.Day === "");
+
 // Combine all day 1 events
-export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone];
+export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone, ...day1Performances];
 
 // Combine all day 2 events
-export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone];
+export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone, ...day2Performances];

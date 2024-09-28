@@ -6,7 +6,16 @@ export default function WomenCompetitions(){
     .map((competition, index) => ({ ...competition, category: "competitions", originalIndex: index }))
     .filter(competition => competition.isWomen === true);
     return(
-        <PageLayout title={"Women Competitions"} imgUrl={'/common/women-in-tech.png'}>
+        <PageLayout 
+          title={"Women Competitions"} 
+          imgUrl={'/common/women-in-tech.png'}
+          breadcrumbs={[
+            { label: "Home", path: "/" },
+            { label: "Events", path: "/events" },
+            {label: "Women In Tech", path: "/events/women-in-tech"},
+            {label: "Competitions", path: "/events/women-in-tech/competitions"}
+          ]}
+        >
           <WomenInTechPageLayout events={womenCompetitions} /> 
         </PageLayout>
     )

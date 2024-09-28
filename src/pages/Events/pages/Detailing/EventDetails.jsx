@@ -14,6 +14,7 @@ export default function EventDetails() {
     <>
       <EventDetailsLayout
         data={event}
+        index={eventIndex}
       />
     </>
   );

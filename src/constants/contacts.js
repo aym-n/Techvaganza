@@ -31,6 +31,52 @@ export const teams = {
       phone: "82084 92297"
     }
   ],
+  "Web Development": [
+    {
+      title: "Lead",
+      name: "Ayman Makroo",
+      email: "ayman_2022bcse004@nitsri.ac.in",
+      phone: "70064 56359"
+    },
+    {
+      title: "Co-Lead",
+      name: "Ikjot Kour",
+      email: "2023nitsgr181@nitsri.ac.in",
+      phone: "70061 54937"
+    }
+  ],
+  "Outreach": [
+    {
+      title: "Lead",
+      name: "Shahid Farooq",
+      email: "shahid_2021bite040@nitsri.ac.in",
+      phone: "60052 96492"
+    },
+    {
+      title: "Lead",
+      name: "Mir Mohammad Toib",
+      email: "mir_2021bmme042@nitsri.ac.in",
+      phone: "70062 49927"
+    },
+    {
+      title: "Co-Lead",
+      name: "Mir Tasleem",
+      email: "mirtasleem1234@gmail.com",
+      phone: "+91 7006460278"
+    },
+    {
+      title: "Co-Lead",
+      name: "Ather Parvez",
+      email: "ather_2021bciv057@nitsri.ac.in",
+      phone: "6005685613"
+    },
+    {
+      title: "Co-Lead",
+      name: "Syed Nisheta Andrabi",
+      email: "andrabi_2021bele050@nitsri.ac.in",
+      phone: "7889405665"
+    }
+  ],
   "Decoration and Ambience": [
     {
       title: "Lead",
@@ -237,38 +283,6 @@ export const teams = {
       name: "H. S. A. Baasit Moin P.",
       email: "syed_2022bciv069@nitsri.ac.in",
       phone: "7006738384"
-    }
-  ],
-  "Outreach": [
-    {
-      title: "Lead",
-      name: "Shahid Farooq",
-      email: "shahid_2021bite040@nitsri.ac.in",
-      phone: "60052 96492"
-    },
-    {
-      title: "Lead",
-      name: "Mir Mohammad Toib",
-      email: "mir_2021bmme042@nitsri.ac.in",
-      phone: "70062 49927"
-    },
-    {
-      title: "Co-Lead",
-      name: "Mir Tasleem",
-      email: "mirtasleem1234@gmail.com",
-      phone: "+91 7006460278"
-    },
-    {
-      title: "Co-Lead",
-      name: "Ather Parvez",
-      email: "ather_2021bciv057@nitsri.ac.in",
-      phone: "6005685613"
-    },
-    {
-      title: "Co-Lead",
-      name: "Syed Nisheta Andrabi",
-      email: "andrabi_2021bele050@nitsri.ac.in",
-      phone: "7889405665"
     }
   ],
   "Photography": [
@@ -485,20 +499,6 @@ export const teams = {
       name: "Shakil HUssain",
       email: "shakil_2021bite080@nitsri.ac.in",
       phone: "6005079530"
-    }
-  ],
-  "Web Development": [
-    {
-      title: "Lead",
-      name: "Ayman Makroo",
-      email: "ayman_2022bcse004@nitsri.ac.in",
-      phone: "70064 56359"
-    },
-    {
-      title: "Co-Lead",
-      name: "Ikjot Kour",
-      email: "2023nitsgr181@nitsri.ac.in",
-      phone: "70061 54937"
     }
   ],
   "Women In Tech": [

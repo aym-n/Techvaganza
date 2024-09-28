@@ -13,6 +13,7 @@ export default function WomenInTechDetails({events}) {
     <>
       <EventDetailsLayout
         data={event}
+        index={eventIndex}
       />
     </>
   );
