@@ -137,12 +137,12 @@ export const competitions = [
     "Description":
       "In this captivating event participants have to get their ice cream stick bridges, An ice cream stick bridge-building competition is a fun and educational event where participants use ice cream sticks (also known as popsicle sticks) and sometimes glue to construct bridges that can support weight. The competition often tests participants' engineering skills, creativity, and teamwork",
     "Rules":
-    "● Participants have to complete their design model at there place before hand. ;● Participant who have higher breaking point of their bridge model, will be declared as the winner (breaking point of your model will be checked by putting weights on the model or by hanging a weight down the model).;● Contestants will be judged on the basis how much weight their model can withstand. ; ● Participants are not allowed to bring any external material to improve the strength of the model.;● Any participant seen using that will be disqualified.;● No sandwiching of sticks more than 3 if its used as a joint or 2 if used as a beam.",
+    "1)POPSICLE STICKS CAN BE CUT TO ANY SIZE;2)UP TO 2 STICKS CAN BE OVERLAPPED HORIZONTALLY TO MAKE A THICKER MEMBER;3)GLUE IS NOT ALLOWED ON THE OUTER EXPOSED SURFACE OF THE STICKS;4)CENTRAL 10 CM OF DECK SHOULD BE HORIZONTAL",
     "Prizes": "2250",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
-    "Lead Name": "korukonda venkata lokesh",
-    "Lead Contact Number": 6302651267,
+    "Lead Name": "Sharansh",
+    "Lead Contact Number": 9682578846,
     "Judging Criteria":
       "The models will be judged on three points in which aesthetics carry 10% weightage, presentation 10% and efficiency ratio. Efficiency ratio is calculated as the ratio of maximum load taken before failure and bridge's own weight.",
     "Start Time": "4:00 PM",
@@ -1453,7 +1453,7 @@ export const talks = [
     "Card Image": "Web Development.png",
   },
   {
-    "Event Name": "Internet Of Thngs (IoT)",
+    "Event Name": "Internet Of Things (IoT)",
     "Description": "Tech Workshops at Techvaganza 2024 offer hands-on learning experiences across a wide range of cutting-edge technologies and practical tools. Whether you're eager to explore Drones, SolidWorks, or Microcontrollers with Arduino UNO, or dive into specialized topics like Vernacular Building Styles for earthquake-prone areas, these workshops will provide the skills and knowledge to thrive in today's tech-driven world.Participants will have the opportunity to learn about the latest advancements in Machine Learning, Python, Robotics, AI, App Development, and Web Development. In addition, the MSME-led sessions will focus on key technologies like IoT, 3D Modelling, CAD, CNC, Circuit Designing, Electric Vehicles, and even advanced tools like LaTeX for document preparation. For those interested in computational tools, workshops on Thermocalc and Aspen Hysys will also be available. These workshops are designed to provide practical, hands-on experience, making them ideal for students and professionals looking to expand their skillset in the tech space.",
     "Description about Instructor / Speaker": "MSME",
     "Prizes": "",
