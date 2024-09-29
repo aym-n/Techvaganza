@@ -14,8 +14,26 @@ function About() {
     });
   }, []);
   return (
-    <div className='px-4 sm:px-0 flex justify-center items-center'>
-      <div data-aos="fade-down" className='p-8 my-40 bg-background sm:p-12 md:w-3/5 sm:w-4/5  ShadowLarge'>
+    <div className='px-4 sm:px-0 flex flex-col justify-center items-center'>
+      <div data-aos="fade-down" className='p-8 mt-40 bg-background sm:p-12 md:w-3/5 sm:w-4/5  ShadowLarge'>
+        <div className='overflow-visible mb-5'>
+           <p className="text-center text-2xl ss:text-3xl text-gray-700 textShadow-md font-kodeMono font-bold overflow-visible">
+              Greener Innovations: Engineering a Sustainable World
+            </p>
+            <div
+            data-aos="fade-down"
+            data-aos-duration="2000"
+            className="text-gray-700 textShadow-sm text-xl ss:text-2xl md:text-4xl text-center mt-4 overflow-visible xs:whitespace-nowrap"
+          >
+            10
+            <sup className="text-gray-700 text-xl md:text-2xl">th </sup>& 11
+            <sup className="text-gray-700 text-xl md:text-2xl">th </sup>
+            Oct 2024
+          </div>
+        </div>
+      </div>
+
+      <div data-aos="fade-down" className='p-8 my-32 bg-background sm:p-12 md:w-3/5 sm:w-4/5  ShadowLarge'>
         <div className='overflow-visible mb-5'>
           <p className='text-xs sm:text-sm font-semibold'>
             NIT Srinagar's Annual Technical Fest
