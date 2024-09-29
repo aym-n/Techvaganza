@@ -4,8 +4,10 @@ import ScrollToTop from "../../../../Components/ScrollToTop";
 import WomenHome from "./pages/WomenHome";
 import WomenCompetitions from "./pages/WomenCompetitions";
 import WomenTalks from "./pages/womenTalks";
-import WomenInTechDetails from "../Detailing/WomenInTechDetails";
-import { competitions, talks } from "../../../../constants/eventDetails-final";
+import WomenEvents from "./pages/WomenEvents";
+import TalksDetails from "./detailing/TalksDetails";
+import EventsDetails from "./detailing/EventsDetails";
+import CompetitionDetails from "./detailing/CompetitionDetails";
 
 export default function WomenTech() {
   useEffect(() => {
@@ -18,8 +20,10 @@ export default function WomenTech() {
         <Route path="/" element={<WomenHome />} />
         <Route path="/competitions" element={<WomenCompetitions />} />
         <Route path="/talks-and-workshops" element={<WomenTalks />} />
-        <Route path="women-in-tech/talks-and-workshops/:index" element={<WomenInTechDetails events={talks} />} />
-        <Route path="women-in-tech/competitions/:index" element={<WomenInTechDetails events={competitions} />} />
+        <Route path="/women-events" element={<WomenEvents />} />
+        <Route path="/talks-and-workshops/:index" element={<TalksDetails />} />
+        <Route path="/competitions/:index" element={<CompetitionDetails />} />
+        <Route path="/women-events/:index" element={<EventsDetails />} />
       </Routes>
     </>
   );

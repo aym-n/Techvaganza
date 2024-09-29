@@ -20,7 +20,7 @@ const WomenInTechPageLayout = ({ events }) => {
             time={item["Start Time"] + " - " + item["End Time"]}
             venue={item["Venue"]}
             image={`/events/${item["Card Image"]}`}
-            url={`/events/${item.category}/${item.originalIndex}`}
+            url={`/events/women-in-tech/${item.category}/${item.originalIndex}`}
           />
         ))}
       </div>
