@@ -9,7 +9,7 @@ export const cards = [
     {
         title: "Women in Tech",
         description:
-            "This event showcases accomplished women professionals from various technology fields sharing their experiences, insights, and expertise. each session would feature 2-3 women speakers who are leaders in their respective areas of tech.",
+            "Women in Tech involves exciting events designed to celebrate, empower, and connect women in the technology sector. Our lineup includes inspiring keynote speeches, thought-provoking round table conference and hands-on workshops tailored to enhance your skills. It also includes innovative debate and essay competitions and engaging Scavenger Hunt. Don’t miss this chance to be part of a vibrant community advocating for gender equality in the tech industry!",
             image: "events/women.jpg",
         link: "/events/women-in-tech",
     },

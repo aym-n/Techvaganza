@@ -1961,8 +1961,8 @@ export const talks = [
   },
   {
     "Event Name": "EXPERT TALK 1",
-    "Description": "GUEST SPEAKER: Dr. Richa                                                                                                                                                                                                        TOPIC: Breaking Barriers: Inspiring the Next Generation of Women in STEM, Resilience and Innovation: Inspiring Young Women to Lead in STEM.",
-    "Description about Instructor / Speaker": "",
+    "Description": "TOPIC: Breaking Barriers: Inspiring the Next Generation of Women in STEM, Resilience and Innovation: Inspiring Young Women to Lead in STEM.",
+    "Description about Instructor / Speaker": "Dr. Rishi Richa",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Hurmat Khalid",
     "Lead Contact Number": "8082251200",

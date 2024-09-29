@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 const EventsPageLayout = ({events}) => {
     return (
       <div className="bg-background ShadowLarge">
-        <div className="font-playfair px-8 pt-8 ">
+        <div className="font-playfair px-8 pt-8 overflow-visible">
           <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-4xl md:text-5xl overflow-visible">
             Event List
           </p>
