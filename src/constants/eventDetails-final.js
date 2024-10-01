@@ -537,16 +537,16 @@ export const competitions = [
   {
     "Event Name": "Ideathons",
     "Description":
-      "The IDEATHON event is an intensive, brainstorming workshop-like experience for young talents to generate solutions to existing challenges in their communities. This event will be a chance to help your inner innovative and entrepreneurial mind reach a new level as you will be participating in teams to find your own creative solutions and to showcase your potential. ;In simple terms, ideathon is hackathon minus the coding part. This means it is open to all, the only thing one need to participate in this event is creativity, problem-solving and teamwork. The goal is to encourage out-of-the-box thinking and pushing the boundaries of innovation.",
+      " The event's objective is to encourage students to showcase their creativity and problem-solving skills by designing innovative solutions to real-world engineering problems in the field of Standardization.",
     "Rules":
-      "1. Problems will be given to participants a week before the event and they have to make a presentation on one of the given problem statements.;2. On the Event day, the teams have to present their idea as a presentation.;3. The winners will be announced based on their overall performance, mainly on their ideas.",
-    "Prizes": "800",
+      "1. Concept Design: Participants propose a novel engineering concept. This could include sketches, simulations, or conceptual models that address a specific problem or improve an existing solution.      ;2. Technical Presentation: Participants prepare and deliver a presentation explaining their design, including the engineering principles involved, potential impact, and practical applications in the field of Standardization.;3. Problem-Solving Case Study: Teams are given a real-world engineering problem and have a limited time to develop and present their solution. This category tests quick thinking and practical engineering skills.",
+    "Prizes": ["First Prize: Certificate, cash prize (5000/- INR), and the opportunity to showcase their project at WSD 2024  Event.", "Second Prize: Certificate, cash prize (3000/- INR), and the opportunity to showcase their project at a major IMechE Event.", "Third Prize: Certificate, cash prize (2000/- INR), and the opportunity to showcase their project at WSD 2024  Event."],
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Waseem Akram",
     "Lead Contact Number": 9596694967,
     "Judging Criteria":
-      "1. Originality of the idea;2. Impact on the real world;3. Team-coordination, and ;4. Presentation of the solution",
+      "1. Innovation: Originality and creativity of the solution.;2. Feasibility: Practicality and ease of implementation.;3. Technical Rigor: Understanding and application of engineering principles.;4. Presentation: Clarity, organization, and effectiveness of the presentation.",
     "Start Time": "02:00 PM",
     "End Time": "05:00 PM",
     "Day": 1,
@@ -829,7 +829,7 @@ export const competitions = [
     "End Time": "03:30",
     "Day": 2,
     "Venue": "L 10",
-    "Card Image" : "Sonic ShowdownBattle of Beats.png"
+    "Card Image" : "Sonic Shutdown.png"
   },
 ];
 

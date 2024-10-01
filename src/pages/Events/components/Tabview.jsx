@@ -12,7 +12,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
             className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
             selectedClassName="active-tab"
           >
-            Rules/Prizes
+            Rules
           </Tab>
           <Tab
             className="px-8 py-3 text-base font-medium text-gray-800 bg-white border-gray-800 focus:outline-none hover:bg-gray-800 hover:text-primary hover:border-primary text-center border-2 tab-button cursor-pointer"
@@ -29,7 +29,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
                 <p key={index}>{rule}</p>
               ))}
             </div>
-            { 
+            { typeof(data["Prizes"]) !== "object" ?
               !data["prizes"] && 
               parseInt(data["Prizes"].replace(/[^0-9]/g, '')) > 800 &&
               (<>
@@ -37,6 +37,16 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
                 <h1 className="entry-header text-3xl tfont-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>
                 <div className="space-y-5 mx-4 font-semibold font-kodeMono">
                   Winner would get a prize of ₹{data["Prizes"]}
+                </div>
+              </>)
+              :
+              (<>
+                <hr className="mt-4 border border-primary" />
+                <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>
+                <div className="space-y-5 mx-4 font-semibold font-kodeMono">
+                  {data["Prizes"].map((prize, index) => (
+                    <p key={index}>{prize}</p>
+                  ))}
                 </div>
               </>)
             }
