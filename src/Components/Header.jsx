@@ -55,7 +55,13 @@ const Header = () => {
               Events
             </Link>
             <Link
-              // to="https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj"
+              to="/Technical Fest 2024_final.pdf"
+              target="_blank"
+              className="text-white hover:text-secondary text-2xl underline-animate relative inline-block"
+            >
+              Brochure
+            </Link>
+            <Link
               to={'/register'}
               className="text-white hover:text-secondary text-2xl underline-animate relative inline-block"
             >

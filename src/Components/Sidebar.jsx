@@ -51,9 +51,15 @@ const Sidebar = ({ isOpen, onClose }) => {
         >
           <p className="underline-animate relative inline-block">Events</p>
         </Link>
-
         <Link
-          // to="https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5nj"
+          to="/Technical Fest 2024_final.pdf"
+          target="_blank"
+          onClick={onClose}
+          className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
+        >
+          <p className="underline-animate relative inline-block">Brochure</p>
+        </Link>
+        <Link
           to={'/register'}
           className="text-gray-200 hover:text-secondary flex justify-center text-xl py-2"
           onClick={onClose}
