@@ -27,7 +27,7 @@ const Header = () => {
   return (
     <>
       <header
-        className="py-8 px-4 md:px-28 w-full linear-bg font-figtree"
+        className="py-8 px-4 md:px-28 w-full linear-bg font-kodeMono"
       >
         <div className="flex flex-row justify-between items-center container mx-auto ">
           <Link to="/">
