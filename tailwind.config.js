@@ -13,8 +13,8 @@ export default {
         'background' : '#fff'
       },
       fontFamily: {
-        neotriad: ["Figtree", 'sans-serif'],
-        kodeMono : ["Figtree", 'sans-serif'],
+        neotriad: ['Neotriad Regular', 'serif'],
+        kodeMono : ["Kode Mono", 'monospace'],
         figtree : ["Figtree", 'sans-serif']
       }
     },
