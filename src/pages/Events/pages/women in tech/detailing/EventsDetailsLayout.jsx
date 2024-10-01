@@ -24,7 +24,7 @@ export default function EventsDetailsLayout({data, index}) {
           </p>
           {data["isWomen"] && 
             <p className="text-gray-800 font-extrabold font-kodeMono text-md overflow-visible mb-2">
-              Exclusively for Women
+              Exclusively for Womens
             </p>
           }
           {

@@ -9,7 +9,7 @@ const WomenInTechPageLayout = ({ events }) => {
           Event List
         </p>
         <p className="text-gray-700 font-extrabold font-kodeMono text-md overflow-visible">
-          Exclusively for Women
+          Exclusively for Womens
         </p>
       </div>
       <div className="px-10 flex flex-wrap justify-center gap-8 pt-20 pb-10 relative ">
