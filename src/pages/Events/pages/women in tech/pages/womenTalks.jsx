@@ -1,8 +1,8 @@
 import PageLayout from "../../../../../Components/PageLayout";
-import { talks } from "../../../../../constants/eventDetails-final";
+import { womenTalks } from "../../../../../constants/eventDetails-final";
 import WomenInTechPageLayout from "../../../components/WomenInTechPageLayout";
 export default function WomenTalks(){
-  const womenTalkEvents = talks
+  const womenTalkEvents = womenTalks
   .map((talk, index) => ({ ...talk,category: "talks-and-workshops", originalIndex: index }))
   .filter(talk => talk.isWomen === true);
 

@@ -628,70 +628,6 @@ export const competitions = [
     "Card Image": "bug-bounty.png"
   },
   {
-    "Event Name": "Tech Scavenger Hunt",
-    "Description": "The Technology-Themed Scavenger Hunt is designed to engage young girls in an interactive and educational experience that highlights various aspects of technology and STEM (Science, Technology, Engineering, and Mathematics). The event aims to spark curiosity, foster problem-solving skills, and encourage collaboration while introducing participants to exciting tech concepts and career paths.",
-    "Rules": "1. All participants will gather at the activity center,NIT Srinagar.\n;2. Then some introduction about the event will be given to them.\n;3. All teams will be given a number like team alpha, team beta, etc\n;4. Every team will be handed out a clue card and a volunteer will be assigned to them who will always accompany a team to avoid cheating and discrepancies during the event. \n;5.Clue cards will be having riddles related to tech.The teams will be provided with a map of the campus. \n;6.  The volunteer will make sure that there is no sort of cheating and will mark when the team finds each letter.\n;7.Each team will get a different word(with anagrams) to form. That is there will be 6 different words for 6 teams and different places will be chosen for each team , where the next clue cards will be placed.\n;8.The first team able to form the right word will win.",
-    "Prizes": "Ultimate prize will be given to the winning team and all the other teams will receive certificates of participation.",
-    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Janvi Sharma",
-    "Lead Contact Number": "8899005236",
-    "Judging Criteria": "The first team able to form the right word will win.",
-    "Start Time": "11:00 a.m",
-    "End Time": "3:30 p.m.",
-    "Day": 1,
-    "isWomen": true,
-    "Venue": "Main Ground,NIT Srinagar",
-    "Card Image": "TechQuestTrailblazing Women Edition.png"
-  },
-  {
-    "Event Name": "DebateHer",
-    "Description": "The \"Women in the Workplace\" debate is an engaging and insightful event tailored for young girls interested in exploring gender dynamics in professional environments. This debate will feature influential speakers discussing key issues such as gender equality, leadership opportunities, and the challenges women face in various industries. Attendees will gain a deeper understanding of the evolving role of women in the workplace, learn about successful strategies for overcoming obstacles, and explore ways to advocate for a more inclusive work environment. Join us for an inspiring discussion that will empower and motivate you to shape your own career path with confidence and knowledge.",
-    "Rules": "The debate is an ASIAN PARLIAMENTARY DEBATE. The topics of the debate will be provided to the teams 15 minutes before the debate.;\nNumber of teams: 8\nMembers in each team: 3 \nA ) Opening House: It includes first two speakers from the team i.e. Leader and Deputy Leader. Their Task is to lay down the motion and perspectives by defining the topic. Perspectives they need to specify very clearly for E.g.  Political, Social, Legal, Technological, Cultural, Economical etc. The Leader has to define the topic and lay down perspectives. The Deputy Leader can lay down more perspectives and also has to start with the case building of the perspectives laid by the leader by giving examples. \n\nb) Closing House : It includes the last  speaker from the team i.e. the Whip. Whips task is to only give rebuttals on what the opposite team has said.\nEach debating match will consist of two teams; one to propose the motion and one to oppose it. The team proposing may be known as \"The Proposition\" or \"The Government\". The opposing team may be known as \"The Opposition\".\nI. The debate will consist of two teams of three participants each (participants will be known as \"members\").\nII.The allotted time is up to Five (5) minutes for each speaker.\n\nORDER OF SPEECH\n1) Prime Minister; \n2) Opposition Leader; \n3) Deputy Prime Minister; \n4) Deputy Opposition Leader; \n5) Government Whip; \n6) Opposition Whip. \n\nTHE MEMBERS OF THE GOVERNMENT SIDE ARE THE FOLLOWING:\n\n1. Prime minister (PM) - Opens the debate, defines the motion and advances arguments; \n2. Deputy Prime Minister (DPM) - Refute at first instance the case of the opposition, reestablish the governments claim, and advances arguments; \n3. Government whip (GW) - Makes an issue-based rebuttal of the opposition's case and summarizes the case of the government.\n\nTHE MEMBERS OF THE OPPOSITION SIDE ARE THE FOLLOWING:\n\n1. Leader of the Opposition (LO) - Responds directly to the case of the government by giving a direct clash, and advances arguments. May challenge the motion if the definition is challengeable; \n2. Deputy Leader of the Opposition (DPL) - Refutes the case of the DPM, re-establishes the case of the opposition, and advances an argument; \n3. Opposition Whip (OW) - Makes an issues-based rebuttal of the government and summarizes the case of the opposition.\n\nPREPARATION\nI. The debate should commence 15 minutes after the motion is announced. \nII. Teams should arrive at their debate within five minutes of the scheduled starting time for that debate.\n\nFOR ADJUDICATION\nI. The debate shall be adjudicated by a panel of at least three adjudicators.",
-    "Prizes": "Prizes will be given to the winning team and all the other participants will receive certificates of participation.",
-    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Janvi Sharma",
-    "Lead Contact Number": "8899005236",
-    "Judging Criteria": " 1. At the end of every debate, each adjudicator will complete their adjudication forms.\n;2. The marks will be awarded on the basis of :-;\nMatter: 20 points\n;Manner: 20 points\n;Method: 10 points\n; Total: 50",
-    "Start Time": "Day-1 : 2:00 p.m \n           Day-2: 9:00 a.m",
-    "End Time": "Day-1 : 5:00 p.m. \n           Day-2: 11:00 a.m.",
-    "Day": "1&2",
-    "isWomen": true,
-    "Venue": "L-13(Day-1)\n             L-4(Day-2)",
-    "Card Image": "SheSpeaks Debating the Future of Women in Tec.png"
-  },
-  {
-    "Event Name": "Ink Women's Voice: Essay Writing",
-    "Description": "Essay Writing Competition focused on the theme \"Women in Tech,\" invites students to explore and articulate the significant roles, achievements, and challenges faced by women in the technology industry. This competition provides a platform for students to engage with important issues such as gender diversity, innovation, and the impact of women leaders in tech fields. Participants are encouraged to delve into topics like the history of women in technology, current trends, and future prospects, while showcasing their analytical skills and creativity. Essays should reflect thoughtful research, originality, and a clear understanding of the subject matter.",
-    "Rules": "We will have the chits of topics ready which will be placed in a box.; Each participant will take out one chit and write an essay on the topic which they get Participants have to bring their own pen and A4 sheets (maximum 4).;  Words limit:250",
-    "Prizes": "Ultimate prize will be given to the top three winners and all the other participants will receive certificates of participation.",
-    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Janvi Sharma",
-    "Lead Contact Number": "8899005236",
-    "Judging Criteria": "Marks will be awarded on the basis of:\n   ;Creativity-10 marks\n ;  Expression of the topic -10 marks\n ;  Understanding of the theme-15 marks \n ;  Clarity of ideas -15 marks \n.;Total marks -50",
-    "Start Time": "9:00 a.m",
-    "End Time": "10:30 a.m",
-    "Day": 1,
-    "isWomen": true,
-    "Venue": "Hitech-4",
-    "Card Image": "Ink Women_s Voice in Technology.png"
-  },
-  {
-    "Event Name": "Competitive Programing:Women In Tech",
-    "Description": "Platform: LeetCode/Hackerrank/Unstop/any other platform(will be updated in the event Day). ; This competitive programming aims to encourage and empower women in tech by providing them with a platform to enhance their coding skills, solve real-world problems, and compete with peers. The focus is to create a supportive environment where women can learn, practice, and excel in competitive programming.",
-    "Rules": "There will be a detailed briefing on the competition Rules, the platform, and the scoring system and participants will be given 10 minutes for signing up on the platform.;\nPlatform Overview: ;Quick tutorial will be given for beginners on using the platform, submitting solutions, and understanding test cases.;\nProblem Set Release:; Participants will be given a set of 46 problems on LeetCode/hackerrank or any other platform(will be mentioned before the commencement of the event) , ranging from easy to hard difficulty.;\nCompetition: ;Participants will solve the problems in a competitive environment.;\nReal-Time Leaderboard:; A live scoreboard will track the progress of the participants based on accuracy and efficiency.                                                 Participants are required to bring:\n Laptop with an Internet connection.",
-    "Prizes": "Prizes will be given to top 3 winners and all the participants will receive certificates of participation.",
-    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Janvi Sharma",
-    "Lead Contact Number": "8899005236",
-    "Judging Criteria": "Participants will be judged based on accuracy, efficiency (time/space complexity), and speed of submissions.;\n\n\nCheating Policy: Any participant found copying or sharing code will be disqualified.",
-    "Start Time": "11:00 a.m.",
-    "End Time": "1:30 p.m.",
-    "Day": 2,
-    "isWomen": true,
-    "Venue": "L4",
-    "Card Image": "Code Mania.png"
-  },
-  {
     "Event Name": "Raw Footage Video Editing Event",
     "Description":
       "Hello creators, It's time to showcase your creativity with your videography and Video Editing skill. We invites you to participate in the Raw Footage Video Editing Event. This is a raw footage video editing in which participant have to take the raw footage (by their phone/camera) on Day 1 (10th october) of  Techvaganza 24 and Event will start next day ( Day 2, 11th of october) from 2pm.",
@@ -897,21 +833,74 @@ export const competitions = [
   },
 ];
 
-
-export const performingEvents = [
+export const womenCompetitions = [
   {
-    "Event Name": "Real Heroines:Film Screening",
-    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers. Join us for a special film screening at our Women in Tech event, where well showcase a powerful film that highlights the journeys of women breaking barriers in the various fields. An inspiring documentary will delve into their challenges, triumphs, and the impact theyre making on future generations. A Dont miss this opportunity to connect, learn, and celebrate the incredible contributions of women in technology!",
+    "Event Name": "Tech Scavenger Hunt",
+    "Description": "The Technology-Themed Scavenger Hunt is designed to engage young girls in an interactive and educational experience that highlights various aspects of technology and STEM (Science, Technology, Engineering, and Mathematics). The event aims to spark curiosity, foster problem-solving skills, and encourage collaboration while introducing participants to exciting tech concepts and career paths.",
+    "Rules": "1. All participants will gather at the activity center,NIT Srinagar.\n;2. Then some introduction about the event will be given to them.\n;3. All teams will be given a number like team alpha, team beta, etc\n;4. Every team will be handed out a clue card and a volunteer will be assigned to them who will always accompany a team to avoid cheating and discrepancies during the event. \n;5.Clue cards will be having riddles related to tech.The teams will be provided with a map of the campus. \n;6.  The volunteer will make sure that there is no sort of cheating and will mark when the team finds each letter.\n;7.Each team will get a different word(with anagrams) to form. That is there will be 6 different words for 6 teams and different places will be chosen for each team , where the next clue cards will be placed.\n;8.The first team able to form the right word will win.",
+    "Prizes": "Ultimate prize will be given to the winning team and all the other teams will receive certificates of participation.",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Neharika Bajaj",
-    "Lead Contact Number": "9149494702",
-    "Start Time": "4:00 p.m",
-    "End Time": "6:30p.m",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": "8899005236",
+    "Judging Criteria": "The first team able to form the right word will win.",
+    "Start Time": "11:00 a.m",
+    "End Time": "3:30 p.m.",
     "Day": 1,
     "isWomen": true,
-    "Venue": "L5",
-    "Card Image" : "Reels making competetion.png"
+    "Venue": "Main Ground,NIT Srinagar",
+    "Card Image": "TechQuestTrailblazing Women Edition.png"
   },
+  {
+    "Event Name": "DebateHer",
+    "Description": "The \"Women in the Workplace\" debate is an engaging and insightful event tailored for young girls interested in exploring gender dynamics in professional environments. This debate will feature influential speakers discussing key issues such as gender equality, leadership opportunities, and the challenges women face in various industries. Attendees will gain a deeper understanding of the evolving role of women in the workplace, learn about successful strategies for overcoming obstacles, and explore ways to advocate for a more inclusive work environment. Join us for an inspiring discussion that will empower and motivate you to shape your own career path with confidence and knowledge.",
+    "Rules": "The debate is an ASIAN PARLIAMENTARY DEBATE. The topics of the debate will be provided to the teams 15 minutes before the debate.;\nNumber of teams: 8;\nMembers in each team: 3; \nA ) Opening House: It includes first two speakers from the team i.e. Leader and Deputy Leader. Their Task is to lay down the motion and perspectives by defining the topic. Perspectives they need to specify very clearly for E.g.  Political, Social, Legal, Technological, Cultural, Economical etc. The Leader has to define the topic and lay down perspectives. The Deputy Leader can lay down more perspectives and also has to start with the case building of the perspectives laid by the leader by giving examples. ;\n\nb) Closing House : It includes the last  speaker from the team i.e. the Whip. Whips task is to only give rebuttals on what the opposite team has said.\nEach debating match will consist of two teams; one to propose the motion and one to oppose it. The team proposing may be known as \"The Proposition\" or \"The Government\". The opposing team may be known as \"The Opposition\".\n;I. The debate will consist of two teams of three participants each (participants will be known as \"members\").\n;II.The allotted time is up to Five (5) minutes for each speaker.\n\n;ORDER OF SPEECH\n;1) Prime Minister; \n2) Opposition Leader; \n3) Deputy Prime Minister; \n4) Deputy Opposition Leader; \n5) Government Whip; \n6) Opposition Whip. \n\n;THE MEMBERS OF THE GOVERNMENT SIDE ARE THE FOLLOWING:;\n\n1. Prime minister (PM) - Opens the debate, defines the motion and advances arguments; \n2. Deputy Prime Minister (DPM) - Refute at first instance the case of the opposition, reestablish the governments claim, and advances arguments; \n3. Government whip (GW) - Makes an issue-based rebuttal of the opposition's case and summarizes the case of the government.\n\n;THE MEMBERS OF THE OPPOSITION SIDE ARE THE FOLLOWING:;\n\n1. Leader of the Opposition (LO) - Responds directly to the case of the government by giving a direct clash, and advances arguments. May challenge the motion if the definition is challengeable; \n2. Deputy Leader of the Opposition (DPL) - Refutes the case of the DPM, re-establishes the case of the opposition, and advances an argument; \n3. Opposition Whip (OW) - Makes an issues-based rebuttal of the government and summarizes the case of the opposition.\n\nPREPARATION\nI. The debate should commence 15 minutes after the motion is announced. \nII. Teams should arrive at their debate within five minutes of the scheduled starting time for that debate.\n\nFOR ADJUDICATION\nI. The debate shall be adjudicated by a panel of at least three adjudicators.",
+    "Prizes": "Prizes will be given to the winning team and all the other participants will receive certificates of participation.",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": "8899005236",
+    "Judging Criteria": " 1. At the end of every debate, each adjudicator will complete their adjudication forms.\n;2. The marks will be awarded on the basis of :-;\nMatter: 20 points\n;Manner: 20 points\n;Method: 10 points\n; Total: 50",
+    "Start Time": "Day-1 : 2:00 p.m \n           Day-2: 9:00 a.m",
+    "End Time": "Day-1 : 5:00 p.m. \n           Day-2: 11:00 a.m.",
+    "Day": "1&2",
+    "isWomen": true,
+    "Venue": "L-13(Day-1)\n             L-4(Day-2)",
+    "Card Image": "SheSpeaks Debating the Future of Women in Tec.png"
+  },
+  {
+    "Event Name": "Ink Women's Voice: Essay Writing",
+    "Description": "Essay Writing Competition focused on the theme \"Women in Tech,\" invites students to explore and articulate the significant roles, achievements, and challenges faced by women in the technology industry. This competition provides a platform for students to engage with important issues such as gender diversity, innovation, and the impact of women leaders in tech fields. Participants are encouraged to delve into topics like the history of women in technology, current trends, and future prospects, while showcasing their analytical skills and creativity. Essays should reflect thoughtful research, originality, and a clear understanding of the subject matter.",
+    "Rules": "We will have the chits of topics ready which will be placed in a box.; Each participant will take out one chit and write an essay on the topic which they get Participants have to bring their own pen and A4 sheets (maximum 4).;  Words limit:250",
+    "Prizes": "Ultimate prize will be given to the top three winners and all the other participants will receive certificates of participation.",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": "8899005236",
+    "Judging Criteria": "Marks will be awarded on the basis of:\n   ;Creativity-10 marks\n ;  Expression of the topic -10 marks\n ;  Understanding of the theme-15 marks \n ;  Clarity of ideas -15 marks \n.;Total marks -50",
+    "Start Time": "9:00 a.m",
+    "End Time": "10:30 a.m",
+    "Day": 1,
+    "isWomen": true,
+    "Venue": "Hitech-4",
+    "Card Image": "Ink Women_s Voice in Technology.png"
+  },
+  {
+    "Event Name": "Competitive Programing:Women In Tech",
+    "Description": "Platform: LeetCode/Hackerrank/Unstop/any other platform(will be updated in the event Day). ; This competitive programming aims to encourage and empower women in tech by providing them with a platform to enhance their coding skills, solve real-world problems, and compete with peers. The focus is to create a supportive environment where women can learn, practice, and excel in competitive programming.",
+    "Rules": "There will be a detailed briefing on the competition Rules, the platform, and the scoring system and participants will be given 10 minutes for signing up on the platform.;\nPlatform Overview: ;Quick tutorial will be given for beginners on using the platform, submitting solutions, and understanding test cases.;\nProblem Set Release:; Participants will be given a set of 46 problems on LeetCode/hackerrank or any other platform(will be mentioned before the commencement of the event) , ranging from easy to hard difficulty.;\nCompetition: ;Participants will solve the problems in a competitive environment.;\nReal-Time Leaderboard:; A live scoreboard will track the progress of the participants based on accuracy and efficiency.                                                 Participants are required to bring:\n Laptop with an Internet connection.",
+    "Prizes": "Prizes will be given to top 3 winners and all the participants will receive certificates of participation.",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Janvi Sharma",
+    "Lead Contact Number": "8899005236",
+    "Judging Criteria": "Participants will be judged based on accuracy, efficiency (time/space complexity), and speed of submissions.;\n\n\nCheating Policy: Any participant found copying or sharing code will be disqualified.",
+    "Start Time": "11:00 a.m.",
+    "End Time": "1:30 p.m.",
+    "Day": 2,
+    "isWomen": true,
+    "Venue": "L4",
+    "Card Image": "Code Mania.png"
+  }
+]
+
+export const performingEvents = [
   {
     "Event Name": "Vihang Band",
     "Description": "Singing performance from NIT Srinagar Student band",
@@ -926,6 +915,22 @@ export const performingEvents = [
     "Card Image" : "vihang.png"
   },
   {
+    "Event Name": "Drone Soccer",
+    "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression, creating an engaging experience for participants and spectators alike. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings. Each match will not only feature dynamic gameplay but also highlight the artistic flair of the participants, making it a true celebration of teamwork, technology, and creativity. This is a fantastic opportunity to be part of an event that pushes the boundaries of traditional sports and art. Don’t miss your chance to engage in this one-of-a-kind experience—register now to secure your spot and let your imagination and athleticism shine in this exciting fusion of disciplines!",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "149",
+    "Lead Name": "Tushar Kumar",
+    "Lead Contact Number": "60056 58753",
+    "Start Time": "3:00 pm",
+    "End Time": "4:30 pm",
+    "Day": 1,
+    "Venue": "Football ground",
+    "Card Image" : "Drawn Soccer.png"
+  }
+];
+
+export const womenPerformances = [
+  {
     "Event Name": "ROUND TABLE CONFERENCE",
     "Description": "Theme -Climbing the ladder:Where are theWomen?\nAgenda-\nDuring this discussion we will cover up topics including definition and overview of the topic, its prevalence, and different forms in which it exists, its main causes and triggers, psychological and professional impacts, its coping mechanisms, and short term and long term strategies to overcome this issue.\n \n \n \n Conference Rules:-\nChair/Moderator Role:\nThe moderator will be responsible for guiding the conversation, maintaining time, and ensuring all voices are heard.\nShe  will introduce each topic, allow participants to speak, and will be  summarizing the points at the end of each session.\n? Time Management:\n1.   Specific time slots will be alloted for each agenda point.\n2.   Participants are requested to keep their remarks concise and within the allotted time.\n?Equal Participation:\n1.     An equal opportunity will be given to everyone to speak.\n2.      No single participant will dominate the conversation.\n3.      The moderator will intervene if discussions become one-sided.\n  \n2. Speaking Order:\n?Participants should raise their hand or use a signal to indicate they want to speak.\n?The moderator will be calling participants in order.\n?Respect and Courtesy: Participants are requested to actively listen without interrupting others. Debates should remain respectful, avoiding personal attacks.\n? Focus on Agenda: Sticking to the agenda topics is expected from everyone. The moderator will redirect the conversation if it goes off track.\n?Decision Making: It will be Decided in advance whether decisions will be made by consensus, voting, or another method.\n? Summarize Key Points: The moderator or a note-taker will summarize the outcomes and share the minutes with participants.                                                                                                                                                                                 Participants:  Female Faculty from NIT Srinagar and renowned female experts in different domains.",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
@@ -939,20 +944,19 @@ export const performingEvents = [
     "Card Image" : "tech-showcase.png"
   },
   {
-    "Event Name": "Drone Soccer",
-    "Description": "This groundbreaking competition uniquely blends the thrill of soccer with artistic expression, creating an engaging experience for participants and spectators alike. Teams will compete in an innovative format that challenges them to showcase their athletic skills on the field while also expressing their creativity through digital drawings. Each match will not only feature dynamic gameplay but also highlight the artistic flair of the participants, making it a true celebration of teamwork, technology, and creativity. This is a fantastic opportunity to be part of an event that pushes the boundaries of traditional sports and art. Don’t miss your chance to engage in this one-of-a-kind experience—register now to secure your spot and let your imagination and athleticism shine in this exciting fusion of disciplines!",
-    "NIT Entry Fee": "",
-    "Outside Entry Fee": "149",
-    "Lead Name": "Tushar Kumar",
-    "Lead Contact Number": "60056 58753",
-    "Start Time": "3:00 pm",
-    "End Time": "4:30 pm",
+    "Event Name": "Real Heroines:Film Screening",
+    "Description": "The Women in Tech Movie Screening is an empowering event designed to inspire and celebrate the contributions of women. Through a carefully selected film, the screening will highlight the challenges, achievements, and journeys of female pioneers. Join us for a special film screening at our Women in Tech event, where well showcase a powerful film that highlights the journeys of women breaking barriers in the various fields. An inspiring documentary will delve into their challenges, triumphs, and the impact theyre making on future generations. A Dont miss this opportunity to connect, learn, and celebrate the incredible contributions of women in technology!",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Neharika Bajaj",
+    "Lead Contact Number": "9149494702",
+    "Start Time": "4:00 p.m",
+    "End Time": "6:30p.m",
     "Day": 1,
-    "Venue": "Football ground",
-    "Card Image" : "Drawn Soccer.png"
-  },
-  
-];
+    "isWomen": true,
+    "Venue": "L5",
+    "Card Image" : "Reels making competetion.png"
+  }
+]
 
 export const gamezone = [
   {
@@ -1928,7 +1932,10 @@ export const talks = [
     "Venue": "L-4",
     "isWorkshop": false,
     "Card Image": "Art of Persuasion Writing.png",
-  },
+  }
+];
+
+export const womenTalks = [
   {
     "Event Name": "TO BE A GIRL LEADER:Leadership Workshop",
     "Description": "Session Overview By The Guest Speaker :;    Brief speech on the concept of leadership, its significance, and the objectives of the workshop highlighting the importance of qualities such as decision-making, teamwork, and creative problem-solving will be given by the speaker.\n\n;2.     \"What If\" Scenario Game  ;       Rules and Guidelines for the Game :; \n        (1) Volunteers will be selected from the audiences, who will be grouped in teams and they will be presented with different ;\"What If\" leadership scenarios such as: \n ;          ->\"What if a woman in your team is overqualified for their role and the rest of the team members are men?\" \n  ;         ->\"What if you were in charge of organizing a college-wide female talent  show?\" \n   ;     (2) The teams will brainstorm the situation for 3-5 minutes and come up with an answer that will be presented by the leader. This will emphasize leadership qualities like adaptability, decision-making, and managing diverse talents. \n\n     ;    Awards:\n        ; Attendees with the most innovative and practical solutions will be recognized with Prizes, fostering competitive yet constructive engagement. \n \n;3.      Survival Scenario Game  . \n;      Rules and Guidelines for the Game :  \n;        A survival scenario will be presented (e.g., stranded on a desert island after a plane crash).and a list of items such as matches, knives, water, medicines, etc. will be provided to the participants.  The attendees(individually or in teams) will be asked to prioritize these items based on the given scenario. ; For  e.g:  If the group includes elderly people, medicines may be prioritized. \n; For instance:  You are a woman whose village was recently hit by a tsunami . The villagers , including old people and children are in a state of fear . You decided to step up as              a leader and  build various shelter homes , look for food supplies , medicines , emergency medical equipment , etc . Despite the criticism and demotivation you received from the villagers because a \"woman \" decided to step up as the leader , how will you face the scenario and look for better lives ahead for the people in your village ? \n ;  After 5-7 minutes of brainstorming, participants will explain the rationale behind their choices and how it reflects leadership in crisis situations. This will induce stress handling and resource management capabilities amongst the attendees.\n  ;    \n4.       Conclusion and Q&A  \nA Q&A session will open the floor for questions, allowing attendees to clarify doubts, share their experiences, and seek advice from the guest speaker on leadership challenges they may face. This interactive discussion will foster a deeper understanding of effective leadership and encourage participants to apply these insights in their own journeys.",
@@ -1989,7 +1996,7 @@ export const talks = [
     "Venue": "L12",
     "Card Image": "HerTech TalksInsights from Women Innovators.png"
   }
-];
+]
 
 
 // For day 1 events
@@ -2018,6 +2025,30 @@ const day1Gamezone = gamezone
   .filter((event) => event.Day === 1 || event.Day === "");
 
 const day1Performances = performingEvents
+    .map((event, index) => ({
+      ...event,
+      category: "performances",
+      url: `performances/${index}`,
+    }))
+    .filter((event) => event.Day === 1 || event.Day === "");
+
+const day1womenCompetitions = womenCompetitions
+  .map((event, index) => ({
+    ...event,
+    category: "competitions",
+    url: `competitions/${index}`,
+  }))
+  .filter((event) => event.Day === 1 || event.Day === "");
+
+const day1womenTalks = womenTalks
+  .map((event, index) => ({
+    ...event,
+    category: "talks",
+    url: `talks-and-workshops/${index}`,
+  }))
+  .filter((event) => event.Day === 1 || event.Day === "");
+
+const day1womenPerformances = womenPerformances
     .map((event, index) => ({
       ...event,
       category: "performances",
@@ -2057,9 +2088,34 @@ const day2Performances = performingEvents
       url: `performances/${index}`,
     }))
     .filter((event) => event.Day === 2 || event.Day === "");
+  
+    const day2womenCompetitions = womenCompetitions
+    .map((event, index) => ({
+      ...event,
+      category: "competitions",
+      url: `competitions/${index}`,
+    }))
+    .filter((event) => event.Day === 2 || event.Day === "");
+  
+  const day2womenTalks = womenTalks
+    .map((event, index) => ({
+      ...event,
+      category: "talks",
+      url: `talks-and-workshops/${index}`,
+    }))
+    .filter((event) => event.Day === 2 || event.Day === "");
+  
+  const day2womenPerformances = womenPerformances
+      .map((event, index) => ({
+        ...event,
+        category: "performances",
+        url: `performances/${index}`,
+      }))
+      .filter((event) => event.Day === 2 || event.Day === "");
+  
 
 // Combine all day 1 events
-export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone, ...day1Performances];
+export const day1Events = [...day1Competitions, ...day1Talks, ...day1Gamezone, ...day1Performances, ...day1womenCompetitions, ...day1womenTalks, ...day1womenPerformances];
 
 // Combine all day 2 events
-export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone, ...day2Performances];
+export const day2Events = [...day2Competitions, ...day2Talks, ...day2Gamezone, ...day2Performances, ...day2womenCompetitions, ...day2womenTalks, ...day2womenPerformances];

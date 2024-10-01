@@ -24,7 +24,7 @@ const womenCategory = [
 export default function WomenHome(){
     return(
         <PageLayout 
-          title={"Women In Tech*"} 
+          title={"Women In Tech"} 
           imgUrl={'/common/women-in-tech.png'}
           breadcrumbs={[
             { label: "Home", path: "/" },
