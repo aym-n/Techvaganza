@@ -502,7 +502,7 @@ export const competitions = [
       "1:-No Photo Editing: All photos must be original and unedited to maintain authenticity.;2:-Minimum Uploads: Each participant must upload at least 20 photos.;3:-Social Media Tagging: Photos must be uploaded to social media accounts with the Techvaganza page tagged.;4:-Google Link Submission: Photos must also be uploaded to a Google link provided at the time of the event, within the given timeframe.",
     "Prizes": "2250",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "",
+    "Outside Entry Fee": "49",
     "Lead Name": "Prabhat Shukla",
     "Lead Contact Number": 9082067512,
     "Judging Criteria":
