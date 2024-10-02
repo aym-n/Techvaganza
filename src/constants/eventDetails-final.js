@@ -1647,10 +1647,10 @@ export const talks = [
   {
     "Event Name": "Empowering Financial Literacy: Transforming Futures Through EdTech ",
     "Description": "In this workshop, we will explore how technology is being used to revolutionize financial literacy. Participants will learn about various EdTech platforms and tools that simplify complex financial concepts, making them accessible to all. By the end of the session, you will understand how to use these tools to make better financial decisions and how EdTech is creating a more financially literate and empowered society.",
-    "Description about Instructor / Speaker": "Arth Nirmiti",
+    "Description about Instructor / Speaker": "Mr. Punit G. is an inspiring professional with a diverse career across multiple industries. He pursued veterinary medicine at Bombay Veterinary College before moving into management with a Post Graduate Program (PGP) from IIM Ahmedabad. He is the founder of Arth Nirmiti, co-founder of Social-Noise, and has launched and scaled businesses globally, including in the USA, Japan, and Europe. With leadership roles spanning FMCG, digital marketing, and hospitality, Punit’s journey is a testament to determination and adaptability in navigating complex challenges and achieving excellence.",
     "Prizes": "",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "19",
+    "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",

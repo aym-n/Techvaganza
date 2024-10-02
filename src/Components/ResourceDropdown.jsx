@@ -23,16 +23,18 @@ const ResourceDropdownMenu = ({ isDropdownOpen, position }) => {
       }}
     >
       <Link
-        to="/schedule"
+        to="/Technical Fest 2024_final.pdf"
+        target="_blank"
         className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
       >
-        Schedule
+        Brochure
       </Link>
       <Link
-        to="/bronche"
+        to="/Techvaganza 2024 General Guidelines.pdf"
+        target="_blank"
         className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
       >
-        Bronche
+        Guidelines
       </Link>
     </div>,
     document.getElementById("dropdown-root")
