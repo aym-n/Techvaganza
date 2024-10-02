@@ -385,14 +385,14 @@ export const competitions = [
     "Description":
       "In this event, participants will have the opportunity to showcase their skills in using AI tools by creating practical applications. Whether you are a beginner or an experienced developer, this competition challenges you to design and implement an application with the help of AI addresses real-world needs.;This is your chance to push the boundaries of what AI can do and apply your knowledge to develop innovative tools that can make a difference. Let your creativity and technical skills shine as you bring your AI-powered ideas to life!",
     "Rules":
-      "Eligibility: The event is open only to students of NIT Srinagar.;Event Format: The event will be held in a classroom, where participants have 2 hours to create an application using AI tools.;Requirements: Participants should develop a functional application within the allotted time, using AI tools to assist in its creation.;Assistance: Participants may seek help from others during the event, including peers and mentors.;Submission: Applications must be completed and demonstrated within the 2-hour timeframe. Participants should be prepared to explain their application and how AI tools were used.",
+      "Individual participation only.;GAME STRUCTURE:;Round 1: Basic Round;Image Creation: Participants will be required to create an image using AI within a specified domain and time constraint.;Video Creation/Content Writing: Participants will need to generate either a video or a written paragraph using AI within a specified domain and time constraint.;Round 2: Submission;Participants must showcase a completed AI project or application (e.g., chatbots, games, or other AI tools).;The project must already be completed; participants will only need to present it.;REQUIREMENTS:;Individual work only; no group participation is allowed.;Participants must bring their own laptops.;They must ensure that their devices have a stable internet connection (no connections will be provided).;For Round 2, participants should be prepared to explain how AI tools were utilized in their application.",
     "Prizes": "700",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Tabinda Shafi",
     "Lead Contact Number": 8899894476,
     "Judging Criteria":
-      "Innovation: Originality and creativity in using AI tools to develop the application.;Functionality: Effectiveness and practicality of the application.;Technical Execution: Quality of the use of AI tools and overall technical performance.",
+      "Marks will be awarded separately for each round.;The winner will be determined based on the cumulative scores from both rounds.;Round 1:Accuracy and adherence to time constraints will be evaluated.;Round 2:The smoothness, accuracy, and functionality of the AI application will be judged.",
     "Start Time": "10:00 AM",
     "End Time": "12:30 PM",
     "Day": 1,
@@ -551,7 +551,7 @@ export const competitions = [
     "End Time": "05:00 PM",
     "Day": 1,
     "Venue": "Hi-Tech 5",
-    "Card Image": "Ideathons.png"
+    "Card Image": "ideathons.jpeg"
   },
   {
     "Event Name": "Treasure Hunt",
