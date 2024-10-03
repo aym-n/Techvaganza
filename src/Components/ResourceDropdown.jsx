@@ -36,6 +36,13 @@ const ResourceDropdownMenu = ({ isDropdownOpen, position }) => {
       >
         Guidelines
       </Link>
+      <Link
+        to="https://docs.google.com/spreadsheets/d/1jrNBm7qVfFSy9gtt1Tx5g3JNCwClE9XVNqV2grU80BE/edit?gid=766239620#gid=766239620"
+        target="_blank"
+        className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
+      >
+        Time Table
+      </Link>
     </div>,
     document.getElementById("dropdown-root")
   );

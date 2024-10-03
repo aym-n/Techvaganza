@@ -542,7 +542,7 @@ export const competitions = [
       "1. Concept Design: Participants propose a novel engineering concept. This could include sketches, simulations, or conceptual models that address a specific problem or improve an existing solution.      ;2. Technical Presentation: Participants prepare and deliver a presentation explaining their design, including the engineering principles involved, potential impact, and practical applications in the field of Standardization.;3. Problem-Solving Case Study: Teams are given a real-world engineering problem and have a limited time to develop and present their solution. This category tests quick thinking and practical engineering skills.",
     "Prizes": ["First Prize: Certificate, cash prize (5000/- INR), and the opportunity to showcase their project at WSD 2024  Event.", "Second Prize: Certificate, cash prize (3000/- INR), and the opportunity to showcase their project at a major IMechE Event.", "Third Prize: Certificate, cash prize (2000/- INR), and the opportunity to showcase their project at WSD 2024  Event."],
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "149",
     "Lead Name": "Waseem Akram",
     "Lead Contact Number": 9596694967,
     "Judging Criteria":
