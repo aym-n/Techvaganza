@@ -7,7 +7,7 @@ const ResourceDropdownMenu = ({ isDropdownOpen, position }) => {
     <div
       className={`absolute ${right ? "right-0" : left ? "left-0" : ""} ${
         bottom ? "bottom-0" : top ? "top-0" : ""
-      } w-48 bg-white backdrop-blur-lg font-kodeMono rounded-md shadow-lg py-1 z-50 transition-all duration-300 ease-in-out ${
+      } w-48 bg-white backdrop-blur-lg font-figtree rounded-md shadow-lg py-1 z-50 transition-all duration-300 ease-in-out ${
         isDropdownOpen
           ? "opacity-100 transform translate-y-0"
           : "opacity-0 transform -translate-y-2 pointer-events-none"
