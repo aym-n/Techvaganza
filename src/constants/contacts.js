@@ -26,9 +26,9 @@ export const teams = {
   "Treasurer": [
     {
       title: "Treasurer",
-      name: "Sanskruti Kakkad",
-      email: "sanskruti_2021bece063@nitsri.ac.in",
-      phone: "82084 92297"
+      name: "Anjali Kacher",
+      email: "jainishkacher88@gmail.com",
+      phone: "8400357741"
     }
   ],
   "Outreach": [
@@ -52,9 +52,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Ather Parvez",
-      email: "ather_2021bciv057@nitsri.ac.in",
-      phone: "6005685613"
+      name: "Numan Beigh",
+      email: "numaan_2021bmme036@nitsri.ac.in",
+      phone: "6005466026"
     },
     {
       title: "Co-Lead",
@@ -69,6 +69,12 @@ export const teams = {
       name: "Ayman Makroo",
       email: "ayman_2022bcse004@nitsri.ac.in",
       phone: "70064 56359"
+    },
+    {
+      title: "Co-Lead",
+      name: "Tawheed tariq",
+      email: "tavaheed_2022bite008@nitsri.ac.in",
+      phone: "9103100145 "
     },
     {
       title: "Co-Lead",
@@ -98,7 +104,7 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Vikas Singh",
+      name: "Vikas Kumar",
       email: "vikas_2021bciv084@nitsri.ac.in",
       phone: "73185 65386"
     },
@@ -121,12 +127,6 @@ export const teams = {
       name: "Reeba Ashraf",
       email: "reeba_2022bciv171@nitsri.ac.in",
       phone: "9622433103"
-    },
-    {
-      title: "Co-Lead",
-      name: "Shaheen",
-      email: "shaheen_2021bmec061@nitsri.ac.in",
-      phone: "93077 31261"
     }
   ],
   "Gamezone": [
@@ -205,12 +205,6 @@ export const teams = {
       name: "Ahsan ul Haq",
       email: "ahsan_2022bciv039@nitsri.ac.in",
       phone: "6005498686"
-    },
-    {
-      title: "Co-Lead",
-      name: "Kanhaiya Pandey",
-      email: "kanhaiya_2022bciv147@nitsri.ac.in",
-      phone: "7889730023"
     },
     {
       title: "Co-Lead",
@@ -308,23 +302,29 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Zainab",
+      name: "Zainab khan",
       email: "zainab_2021bmec033@nitsri.ac.in",
       phone: "93020 90083"
     },
     {
       title: "Co-Lead",
-      name: "Aryan Sharma",
-      email: "aryan_2021bmec016@nitsri.ac.in",
-      phone: "914988 5523"
+      name: "Sandeep Kumar",
+      email: "",
+      phone: ""
     }
   ],
   "SocialMedia Publicity": [
     {
       title: "Lead",
-      name: "Krish Mahajan",
-      email: "2023nitsgr730@nitsri.ac.in",
-      phone: "70061 52565"
+      name: "Nelofar Tabassum",
+      email: "nelofarbhat6474@gmail.com",
+      phone: "7006042584"
+    },
+    {
+      title: "Lead",
+      name: "Teja Kodaliya",
+      email: "teja_2022bece043@nitsri.ac.in",
+      phone: "94918 16263"
     },
     {
       title: "Co-Lead",
@@ -334,10 +334,11 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Teja Kodaliya",
-      email: "teja_2022bece043@nitsri.ac.in",
-      phone: "94918 16263"
-    }
+      name: "Krish Mahajan",
+      email: "2023nitsgr730@nitsri.ac.in",
+      phone: "70061 52565"
+    },
+    
   ],
   "Sponsorship": [
     {
@@ -379,7 +380,7 @@ export const teams = {
       phone: "95417 07784"
     }
   ],
-  "Startup Event": [
+  "Startup Event (IIEDC)": [
     {
       title: "Lead",
       name: "Prudhvi Ram",
@@ -388,9 +389,9 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Lakshmi Swati",
-      email: "lakshmi_2022bmme045@nitsri.ac.in",
-      phone: "91103 16547"
+      name: "Aryan",
+      email: "aryan_2022bmec099@nitsri.ac.in",
+      phone: "9897649372"
     }
   ],
   "Technical Events and ExpertTalks": [
@@ -450,12 +451,6 @@ export const teams = {
   "TechnoCultural Events": [
     {
       title: "Lead",
-      name: "Manjeet Kumar",
-      email: "manjeet_2021bele002@nitsri.ac.in",
-      phone: "60053 36839"
-    },
-    {
-      title: "Lead",
       name: "Reeba Amin",
       email: "reeba_2021bciv106@nitsri.ac.in",
       phone: "6006993971"
@@ -476,15 +471,15 @@ export const teams = {
     },
     {
       title: "Lead",
-      name: "Pranaya",
-      email: "pranaya_2021bmec097@nitsri.ac.in",
-      phone: "7893475849"
-    },
-    {
-      title: "Co-Lead",
       name: "Rohit Kumar",
       email: "rohit_2021bche078@nitsri.ac.in",
       phone: "62007 84064"
+    },
+    {
+      title: "Co-Lead",
+      name: "Pranaya",
+      email: "pranaya_2021bmec097@nitsri.ac.in",
+      phone: "7893475849"
     }
   ],
   "Videography": [
@@ -496,7 +491,7 @@ export const teams = {
     },
     {
       title: "Co-Lead",
-      name: "Shakil HUssain",
+      name: "Shakil Hussain",
       email: "shakil_2021bite080@nitsri.ac.in",
       phone: "6005079530"
     }

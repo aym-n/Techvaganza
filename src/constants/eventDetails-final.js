@@ -535,7 +535,7 @@ export const competitions = [
   //   "Card Image": "STARTUP.png"
   // },
   {
-    "Event Name": "Ideathons",
+    "Event Name": "Engineers’ Day Innovation Challenge 2024 - Ideathons",
     "Description":
       " The event's objective is to encourage students to showcase their creativity and problem-solving skills by designing innovative solutions to real-world engineering problems in the field of Standardization.",
     "Rules":
@@ -616,7 +616,7 @@ export const competitions = [
       "Round 1: Basic Debugging, you'll tackle 10 programs with simple bugs that are perfect for building confidence. The goal is to spot and fix these bugs using your core coding skills. It's a great way to warm up and get comfortable with the debugging process.;Round 2: Intermediate Bug Fixing steps things up a notch, with 5 programs featuring slightly more complex bugs. Don't worry—this is where you'll start applying your problem-solving skills while still having fun! ;The Final Round: Advanced Bug Hunt is where things get exciting! You'll be presented with two tricky bugs to crack. This is your chance to really showcase what you've learned along the way, using both skill and determination.",
     "Prizes": "800",
     "NIT Entry Fee": "",
-    "Outside Entry Fee": "49",
+    "Outside Entry Fee": "149",
     "Lead Name": "Sumit Kumar",
     "Lead Contact Number": 8581047217,
     "Judging Criteria":
@@ -1973,8 +1973,8 @@ export const womenTalks = [
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Hurmat Khalid",
     "Lead Contact Number": "8082251200",
-    "Start Time": "12:30am",
-    "End Time": "2:00am",
+    "Start Time": "12:30 pm",
+    "End Time": "2:00 pm",
     "Day": 1,
     "isWomen": true,
     "isWorkshop": false,
@@ -1988,8 +1988,8 @@ export const womenTalks = [
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Hurmat Khalid",
     "Lead Contact Number": "8082251200",
-    "Start Time": "2:00am",
-    "End Time": "3:30pm",
+    "Start Time": "2:00 pm",
+    "End Time": "3:30 pm",
     "Day": 2,
     "isWomen": true,
     "isWorkshop": false,
