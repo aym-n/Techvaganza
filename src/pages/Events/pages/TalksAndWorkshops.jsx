@@ -1,10 +1,16 @@
 import PageLayout from "../../../Components/PageLayout";
-import { talks, workshops } from "../../../constants/eventDetails-final";
+import { talks } from "../../../constants/eventDetails-final";
 import EventsPageLayoutWithTabs from "../components/EventsPageLayoutWithTabs";
 
 export default function TalksAndWorkshops() {
-  const events = [talks, workshops];
+  const Talks = talks
+    .map((event, index) => ({ ...event, originalIndex: index })) 
+    .filter(event => event["isWorkshop"] === false);
+  const Workshops = talks
+    .map((event, index) => ({ ...event, originalIndex: index })) 
+    .filter(event => event["isWorkshop"] === true);
   const tabs = ["Talks", "Workshops"];
+  const events = [Talks, Workshops];
   return (
     <PageLayout 
       title={"Talks And Workshops"} 

@@ -31,20 +31,6 @@ export const teams = {
       phone: "82084 92297"
     }
   ],
-  "Web Development": [
-    {
-      title: "Lead",
-      name: "Ayman Makroo",
-      email: "ayman_2022bcse004@nitsri.ac.in",
-      phone: "70064 56359"
-    },
-    {
-      title: "Co-Lead",
-      name: "Ikjot Kour",
-      email: "2023nitsgr181@nitsri.ac.in",
-      phone: "70061 54937"
-    }
-  ],
   "Outreach": [
     {
       title: "Lead",
@@ -75,6 +61,20 @@ export const teams = {
       name: "Syed Nisheta Andrabi",
       email: "andrabi_2021bele050@nitsri.ac.in",
       phone: "7889405665"
+    }
+  ],
+  "Web Development": [
+    {
+      title: "Lead",
+      name: "Ayman Makroo",
+      email: "ayman_2022bcse004@nitsri.ac.in",
+      phone: "70064 56359"
+    },
+    {
+      title: "Co-Lead",
+      name: "Ikjot Kour",
+      email: "2023nitsgr181@nitsri.ac.in",
+      phone: "70061 54937"
     }
   ],
   "Decoration and Ambience": [

@@ -1,8 +1,8 @@
 import PageLayout from "../../../../../Components/PageLayout";
-import { competitions } from "../../../../../constants/eventDetails-final";
+import { womenCompetitions } from "../../../../../constants/eventDetails-final";
 import WomenInTechPageLayout from "../../../components/WomenInTechPageLayout";
 export default function WomenCompetitions(){
-  const womenCompetitions = competitions
+  const competitions = womenCompetitions
     .map((competition, index) => ({ ...competition, category: "competitions", originalIndex: index }))
     .filter(competition => competition.isWomen === true);
     return(
@@ -16,7 +16,7 @@ export default function WomenCompetitions(){
             {label: "Competitions", path: "/events/women-in-tech/competitions"}
           ]}
         >
-          <WomenInTechPageLayout events={womenCompetitions} /> 
+          <WomenInTechPageLayout events={competitions} /> 
         </PageLayout>
     )
 }

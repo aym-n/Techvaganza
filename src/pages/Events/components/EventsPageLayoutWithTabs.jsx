@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 const EventsPageLayoutWithTabs = ({ events, tabs }) => {
   return (
     <div className="bg-background ShadowLarge">
-      <div className="font-playfair px-8 pt-8 ">
+      <div className="font-playfair px-8 pt-8 overflow-visible">
         <p className="text-gray-700 textShadow-md font-extrabold font-figtree text-4xl md:text-5xl overflow-visible">
           Event List
         </p>
@@ -36,7 +36,7 @@ const EventsPageLayoutWithTabs = ({ events, tabs }) => {
                       time={item["Start Time"] + " - " + item["End Time"]}
                       venue={item["Venue"]}
                       image={`/events/${item["Card Image"]}`}
-                      url={`${index}`}
+                      url={`${item.originalIndex}`}
                     />
                   ))}
                 </div>

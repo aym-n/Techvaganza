@@ -7,7 +7,7 @@ const ResourceDropdownMenu = ({ isDropdownOpen, position }) => {
     <div
       className={`absolute ${right ? "right-0" : left ? "left-0" : ""} ${
         bottom ? "bottom-0" : top ? "top-0" : ""
-      } w-48 bg-white backdrop-blur-lg font-kodeMono rounded-md shadow-lg py-1 z-50 transition-all duration-300 ease-in-out ${
+      } w-48 bg-white backdrop-blur-lg font-figtree rounded-md shadow-lg py-1 z-50 transition-all duration-300 ease-in-out ${
         isDropdownOpen
           ? "opacity-100 transform translate-y-0"
           : "opacity-0 transform -translate-y-2 pointer-events-none"
@@ -23,16 +23,25 @@ const ResourceDropdownMenu = ({ isDropdownOpen, position }) => {
       }}
     >
       <Link
-        to="/schedule"
+        to="/Technical Fest 2024_final.pdf"
+        target="_blank"
         className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
       >
-        Schedule
+        Brochure
       </Link>
       <Link
-        to="/bronche"
+        to="/Techvaganza 2024 General Guidelines.pdf"
+        target="_blank"
         className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
       >
-        Bronche
+        Guidelines
+      </Link>
+      <Link
+        to="https://docs.google.com/spreadsheets/d/1jrNBm7qVfFSy9gtt1Tx5g3JNCwClE9XVNqV2grU80BE/edit?gid=766239620#gid=766239620"
+        target="_blank"
+        className="block px-4 py-2 text-sm text-white hover:bg-background hover:bg-opacity-30"
+      >
+        Time Table
       </Link>
     </div>,
     document.getElementById("dropdown-root")
