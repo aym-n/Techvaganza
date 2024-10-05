@@ -5,6 +5,7 @@ import PropTypes from "prop-types";
 
 export default function TalksAndWorkshopDetailsLayout({data, index}) {
   const descriptions = data["Description"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
+  const speakers = data["Description about Instructor / Speaker"].split(";").map(desc => desc.trim()).filter(desc => desc !== "");
   return (
     <PageLayout 
       title={data["Event Name"]} 
@@ -54,14 +55,14 @@ export default function TalksAndWorkshopDetailsLayout({data, index}) {
         <div className="flex gap-4">
           <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
             <Link
-              to={"https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?%2fAcademic%2fEvent%2fEventRegistrationDetails.aspx"}
+              to={data["url"] ? data["url"]:"https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?%2fAcademic%2fEvent%2fEventRegistrationDetails.aspx"}
             >
               Register
             </Link>
           </button>
           <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
             <Link
-              to={"/register/nit-register"}
+              to={data["url"] ? data["url"]:"/register/nit-register"}
             >
               Register: NIT Students
             </Link>
@@ -80,7 +81,12 @@ export default function TalksAndWorkshopDetailsLayout({data, index}) {
         <div className="BoxShadow mx-2 my-2 px-3 py-2 pb-12">
         <h1 className="entry-header text-3xl font-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Speaker(s)</h1>
             <div className="space-y-5 mx-4 font-semibold font-kodeMono">
-              <p>{data["Description about Instructor / Speaker"]}</p>
+              {/* <p>{data["Description about Instructor / Speaker"]}</p> */}
+              {
+                speakers.map((desc, index) => (
+                  <p key={index} className="text-base mb-2">{desc}</p>
+                ))
+              }
             </div>
         </div>
       </div>

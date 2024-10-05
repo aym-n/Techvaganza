@@ -53,7 +53,7 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Numan Beigh",
-      email: "numaan_2021bmme036@nitsri.ac.in",
+      email: "numan_2021bmme036@nitsri.ac.in",
       phone: "6005466026"
     },
     {

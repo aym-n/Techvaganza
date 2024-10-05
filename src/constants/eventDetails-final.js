@@ -513,27 +513,6 @@ export const competitions = [
     "Venue": "L-5",
     "Card Image": "Hues of Kashmir.png"
   },
-  // {
-  //   "Event Name": "Startup Fest",
-  //   "Description":
-  //     "TStartup Fest is a groundbreaking startup event where aspiring entrepreneurs and innovators can present their ideas to address pressing challenges in various themes such as Energy Management, Waste Management, Agricultural Technology, and more. Top ideas will receive incubation support, seed funding, and office space.",
-  //   "Rules":
-  //     "- Team Size: Minimum 2 members, Maximum 7 members\n- All team members must be current students of any institution\n- Submit innovative ideas by September 30, 2024, 11:59 PM IST\n- Top 10-15 ideas will be selected for a conference presentation on October 10, 2024",
-  //   "Prizes":
-  //     "- Incubation support from GIF-NIT\n- Seed funding up to INR 5 lakhs\n- Office space at GIF",
-  //   "NIT Entry Fee": "Not specified",
-  //   "Outside Entry Fee": "Not specified",
-  //   "Lead Name": "Not specified",
-  //   "Lead Contact Number": "Not specified",
-  //   "Judging Criteria":
-  //     "Not explicitly stated, but likely based on innovation, problem-solving ability, and potential impact",
-  //   "Start Time": "September 1, 2024, 12:00 AM IST (for idea submission)",
-  //   "End Time": "October 11, 2024, 1:00 PM IST (result declaration)",
-  //   "Day": "Multiple days event",
-  //   "Venue":
-  //     "Online for idea submission; Conference venue not specified (may be online or offline)",
-  //   "Card Image": "STARTUP.png"
-  // },
   {
     "Event Name": "Engineers’ Day Innovation Challenge 2024 - Ideathons",
     "Description":
@@ -1336,6 +1315,41 @@ export const talks = [
     "Venue": "L-11",
     "isWorkshop": true,
     "Card Image" : "Adrino_Techtalks.png"
+  },
+  {
+    "Event Name": "Startup Fest",
+    "Description":
+      "Welcome to Startup Fest by IIEDC, where imagination meets innovation! This event is your platform to brainstorm, collaborate, and present groundbreaking solutions to real-world problems. Whether you're a budding entrepreneur, a tech enthusiast, or a creative mind, Ideathon challenges you to develop and pitch your most innovative ideas. Join us for this exciting experience where the best ideas have the potential to shape the future of industries. Be part of the change – let your ideas take flight!",
+    "Prizes": "",
+    "Description about Instructor / Speaker": "Dr. Saad Parvez",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Teja Kodaliya",
+    "Lead Contact Number": 9491816263,
+    "Start Time": "10:00 am",
+    "End Time": "7:00 pm",
+    "Day": "1 and 2",
+    "Venue":"Hi-tech 5",
+    "isWorkshop": false,
+    "url" : "https://unstop.com/competitions/start-up-fest-techvaganza-24-techvaganza-24-national-institute-of-technology-srinagar-1145666",
+    "Card Image": "STARTUP.png"
+  },
+  {
+    "Event Name": "Entrepreneurship Talks ",
+    "Description":
+      "At Startup Fest by IIEDC, we bring you the Expert Talk, where industry leaders and seasoned entrepreneurs share their journey, insights, and the secrets to their success. Get firsthand knowledge about startup culture, innovation strategies, and the dos and don’ts of building a successful business. This session is designed to inspire, educate, and empower the next generation of innovators and entrepreneurs. Come with questions and leave with the wisdom to turn your ideas into impactful ventures!",
+    "Prizes": "",
+    "Description about Instructor / Speaker": "1) Dr. Saad Parvez – C0-founder IIEDC and development an ecosystem of I&E in J&K Co- founder Greenovator Incubation foundation (Section-8 company) NIT Srinagar;2)Mr Abdul Hameed – Managing Director and CEO of Rahim Motors and Raheem Green;3)Mr Ubaid Mairaj  - Managing Director of L CRYSTAL;4) Mr Zia Ashai – Director with Bqe Software Private Limited, is registered with the Ministry of Corporate Affairs (MCA).",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "",
+    "Lead Name": "Teja Kodaliya",
+    "Lead Contact Number": 9491816263,
+    "Start Time": "10:00 am",
+    "End Time": "7:00 pm",
+    "Day": 2,
+    "Venue":"Hi-tech 5",
+    "isWorkshop": false,
+    "Card Image": "startup-talks.jpeg"
   },
   {
     "Event Name": "Introduction To Drones",
