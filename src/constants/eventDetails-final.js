@@ -910,7 +910,7 @@ export const performingEvents = [
 
 export const womenPerformances = [
   {
-    "Event Name": "ROUND TABLE CONFERENCE",
+    "Event Name": "Round table conference",
     "Description": "Theme -Climbing the ladder:Where are theWomen?\nAgenda-\nDuring this discussion we will cover up topics including definition and overview of the topic, its prevalence, and different forms in which it exists, its main causes and triggers, psychological and professional impacts, its coping mechanisms, and short term and long term strategies to overcome this issue.\n \n \n \n Conference Rules:-\nChair/Moderator Role:\nThe moderator will be responsible for guiding the conversation, maintaining time, and ensuring all voices are heard.\nShe  will introduce each topic, allow participants to speak, and will be  summarizing the points at the end of each session.\n? Time Management:\n1.   Specific time slots will be alloted for each agenda point.\n2.   Participants are requested to keep their remarks concise and within the allotted time.\n?Equal Participation:\n1.     An equal opportunity will be given to everyone to speak.\n2.      No single participant will dominate the conversation.\n3.      The moderator will intervene if discussions become one-sided.\n  \n2. Speaking Order:\n?Participants should raise their hand or use a signal to indicate they want to speak.\n?The moderator will be calling participants in order.\n?Respect and Courtesy: Participants are requested to actively listen without interrupting others. Debates should remain respectful, avoiding personal attacks.\n? Focus on Agenda: Sticking to the agenda topics is expected from everyone. The moderator will redirect the conversation if it goes off track.\n?Decision Making: It will be Decided in advance whether decisions will be made by consensus, voting, or another method.\n? Summarize Key Points: The moderator or a note-taker will summarize the outcomes and share the minutes with participants.                                                                                                                                                                                 Participants:  Female Faculty from NIT Srinagar and renowned female experts in different domains.",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Neharika Bajaj",
@@ -1951,7 +1951,7 @@ export const talks = [
 
 export const womenTalks = [
   {
-    "Event Name": "TO BE A GIRL LEADER:Leadership Workshop",
+    "Event Name": "To be a girl leader: Leadership Workshop",
     "Description": "Session Overview By The Guest Speaker :;    Brief speech on the concept of leadership, its significance, and the objectives of the workshop highlighting the importance of qualities such as decision-making, teamwork, and creative problem-solving will be given by the speaker.\n\n;2.     \"What If\" Scenario Game  ;       Rules and Guidelines for the Game :; \n        (1) Volunteers will be selected from the audiences, who will be grouped in teams and they will be presented with different ;\"What If\" leadership scenarios such as: \n ;          ->\"What if a woman in your team is overqualified for their role and the rest of the team members are men?\" \n  ;         ->\"What if you were in charge of organizing a college-wide female talent  show?\" \n   ;     (2) The teams will brainstorm the situation for 3-5 minutes and come up with an answer that will be presented by the leader. This will emphasize leadership qualities like adaptability, decision-making, and managing diverse talents. \n\n     ;    Awards:\n        ; Attendees with the most innovative and practical solutions will be recognized with Prizes, fostering competitive yet constructive engagement. \n \n;3.      Survival Scenario Game  . \n;      Rules and Guidelines for the Game :  \n;        A survival scenario will be presented (e.g., stranded on a desert island after a plane crash).and a list of items such as matches, knives, water, medicines, etc. will be provided to the participants.  The attendees(individually or in teams) will be asked to prioritize these items based on the given scenario. ; For  e.g:  If the group includes elderly people, medicines may be prioritized. \n; For instance:  You are a woman whose village was recently hit by a tsunami . The villagers , including old people and children are in a state of fear . You decided to step up as              a leader and  build various shelter homes , look for food supplies , medicines , emergency medical equipment , etc . Despite the criticism and demotivation you received from the villagers because a \"woman \" decided to step up as the leader , how will you face the scenario and look for better lives ahead for the people in your village ? \n ;  After 5-7 minutes of brainstorming, participants will explain the rationale behind their choices and how it reflects leadership in crisis situations. This will induce stress handling and resource management capabilities amongst the attendees.\n  ;    \n4.       Conclusion and Q&A  \nA Q&A session will open the floor for questions, allowing attendees to clarify doubts, share their experiences, and seek advice from the guest speaker on leadership challenges they may face. This interactive discussion will foster a deeper understanding of effective leadership and encourage participants to apply these insights in their own journeys.",
     "Description about Instructor / Speaker": "Dr. Fouzia Jan , Assistant Professor , Department of HSS&M",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
@@ -1966,7 +1966,7 @@ export const womenTalks = [
     "Card Image": "Women in techbreaking boundaries.png"
   },
   {
-    "Event Name": "SKILL BUILDING WORKSHOP",
+    "Event Name": "Skill building workshop",
     "Description": "Attendees will engage in hands-on activities covering key topics such as coding, data analysis, software development, and more. Through interactive sessions and collaborative projects, youll gain practical experience and apply your skills in real-world scenarios.\nWhether youre a beginner or looking to advance your existing knowledge, this workshop caters to all skill levels. Join us to connect with fellow tech enthusiasts, expand your network, and take your technical skills to the next level. Dont miss this opportunity to invest in your future.",
     "Description about Instructor / Speaker": "",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
@@ -1981,7 +1981,7 @@ export const womenTalks = [
     "Card Image": "Tech ForwardEmpowering Women in STEM.png"
   },
   {
-    "Event Name": "EXPERT TALK 1",
+    "Event Name": "Expert talk 1",
     "Description": "TOPIC: Breaking Barriers: Inspiring the Next Generation of Women in STEM, Resilience and Innovation: Inspiring Young Women to Lead in STEM.",
     "Description about Instructor / Speaker": "Dr. Rishi Richa",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
@@ -1996,7 +1996,7 @@ export const womenTalks = [
     "Card Image": "HerTech TalksInsights from Women Innovators.png"
   },
   {
-    "Event Name": "EXPERT TALK 2",
+    "Event Name": "Expert talk 2",
     "Description": "TOPIC: Security and privacy issues in 5g- URLLC network slice",
     "Description about Instructor / Speaker": "Syed Rameem Zahra",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
