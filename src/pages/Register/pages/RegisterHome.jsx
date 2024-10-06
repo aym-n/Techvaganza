@@ -3,12 +3,12 @@ import PageLayout from "../../../Components/PageLayout";
 
 export default function RegisterHome() {
   return (
-    <PageLayout 
-      title={"Event Registration"} 
+    <PageLayout
+      title={"Event Registration"}
       imgUrl={"/common/register.png"}
       breadcrumbs={[
         { label: "Home", path: "/" },
-        { label: "Register", path: "/Register" }
+        { label: "Register", path: "/Register" },
       ]}
     >
       <div className="px-4 md:px-10 py-4 md:py-10 font-playfair bg-background ShadowLarge">
@@ -18,23 +18,23 @@ export default function RegisterHome() {
         <div className="flex flex-col gap-12 items-center px-4 py-10">
           {/* NIT Srinagar Students Card */}
           <div className="bg-gradient-to-r from-green-700 to-green-500 text-white rounded-xl CardShadow p-8 w-full max-w-2xl transform hover:scale-105 transition-transform duration-300 ease-in-out">
-            <h2 className="text-3xl font-figtree font-extrabold mb-6 text-center">Outside NIT Srinagar</h2>
+            <h2 className="text-3xl font-figtree font-extrabold mb-6 text-center">
+              Outside NIT Srinagar
+            </h2>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-4 text-center">
-            Register Here if You're a Non-NIT Srinagar Student <br />
-
-            {/* <span className="font-extrabold text-gray-800">Due to ongoing issues with credit card transactions in J&K, we recommend using the Google Form for registration.</span> */}
+              Register Here if You're a Non-NIT Srinagar Student <br />
+              {/* <span className="font-extrabold text-gray-800">Due to ongoing issues with credit card transactions in J&K, we recommend using the Google Form for registration.</span> */}
             </p>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-8 text-center">
-            <span className="font-bold">Note:</span> Make sure to keep your institute ID with you for verification.
+              <span className="font-bold">Note:</span> Make sure to keep your
+              institute ID with you for verification.
             </p>
             <div className="flex flex-col md:flex-row gap-4 justify-center">
-              <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
-                <Link
-                  to={'https://forms.gle/c53TeD59dqLJ1EcG9'}
-                >
+              <Link to={"https://forms.gle/c53TeD59dqLJ1EcG9"}>
+                <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
                   Register
-                </Link>
-              </button>
+                </button>
+              </Link>
             </div>
           </div>
 
@@ -44,19 +44,18 @@ export default function RegisterHome() {
               NIT Srinagar Students
             </h2>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-4 text-center">
-            Register here if you're a student of NIT Srinagar.
+              Register here if you're a student of NIT Srinagar.
             </p>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-8 text-center">
-            <span className="font-bold">Note:</span> Make sure to keep your institute ID with you for verification.
+              <span className="font-bold">Note:</span> Make sure to keep your
+              institute ID with you for verification.
             </p>
             <div className="flex flex-col md:flex-row  justify-center">
-              <button className="bg-green-600 border-2 border-green-600 text-white font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent hover:text-green-600 transition-colors duration-300">
-                <Link
-                  to={'nit-register'}
-                >
+              <Link to={"nit-register"}>
+                <button className="bg-green-600 border-2 border-green-600 text-white font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent hover:text-green-600 transition-colors duration-300">
                   Register
-                </Link>
-              </button>
+                </button>
+              </Link>
             </div>
           </div>
         </div>

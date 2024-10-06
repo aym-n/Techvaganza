@@ -13,9 +13,9 @@ export const competitions = [
     "Judging Criteria":
       "Participants shall be evaluated and judged on the basis of time, punctuality, accuracy and technical skills in AutoCAD for a given problem statement and accordingly the winner shall be decided. Moreover, commands will be reviewed to ensure that they comply with all the rules and guidelines.;",
     "Start Time": "11:00 AM",
-    "End Time": "1:00 PM",
+    "End Time": "1:30 PM",
     "Day": 2,
-    "Venue": "L-2",
+    "Venue": "Hi-tech 3",
     "Card Image": "AutoCad.png"
   },
   {
@@ -24,7 +24,7 @@ export const competitions = [
       "A thrilling competition where participants will build and race their own remote-controlled (RC) cars. Each participant will test their engineering and driving skills on a specially designed racing track, competing head-to-head against others. This event challenges participants to design, build, and fine-tune their RC cars for maximum speed, control, and durability as they navigate the track.",
       "Rules":
       "1. Participants must design and build their own RC cars. Pre-built commercial RC cars are not allowed.; 2. The RC car must be powered by electric motors. Combustion engines are not permitted.; 3. The car must fit within the specified size and weight limits, which will be provided by the organizers before the event.; 4. The use of off-the-shelf parts is allowed, but the overall design and assembly must be the work of the participants.; 5. Participants must control their RC cars remotely using handheld controllers.; 6. Cars must remain on the track at all times leaving the track will result in disqualification from that heat.; 7. No interference with other participants' cars is allowed. Any intentional collision or obstruction will result in disqualification",
-    "Prizes": "6000",
+    "Prizes": "2250",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Atishay jain",
@@ -43,7 +43,7 @@ export const competitions = [
       "A catapult event typically involves participants or teams building and launching projectiles using a catapult. The event can be organized as a competition where participants are judged based on factors such as distance, accuracy, and creativity in catapult design.",
     "Rules":
       "1)Event officials or volunteers should be stationed at key points to ensure no one crosses into unsafe areas during launches.; 2)The catapult should be set up on stable, level ground to prevent shifting during launches.",
-    "Prizes": "10,000",
+    "Prizes": "8000",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "149",
     "Lead Name": "Sahil kumar",
@@ -91,7 +91,7 @@ export const competitions = [
     "Start Time": "04:00 PM",
     "End Time": "05:30 PM",
     "Day": 1,
-    "Venue": "L-11",
+    "Venue": "L-13",
     "Card Image": "CIVIL ENGINEERING QUIZATHON.png"
   },
   {
@@ -100,7 +100,7 @@ export const competitions = [
       'The challenge is to defuse a simulated "bomb" by identifying and cutting the correct wires within a time limit. The "bomb" is designed using  Arduino,logic gate ICs, LEDs, and buzzers to create a circuit that mimics a real defusal scenario. Teams will compete against each other to test their skills in electronics and logical thinking. Each round presents a unique circuit configuration, requiring teams to analyze and understand the logic gates involved to determine which wire to cut. ;Round 1: Teams defuse a basic "bomb" circuit with simple logic gates by cutting the correct wire within the time limit. Wrong cuts trigger the buzzer. ;Round 2: The circuit becomes more complex, with wrong cuts reducing the time limit. Teams must defuse it quickly to advance.; Round 3: Teams face a dynamic circuit that reconfigures up to three times. They must adapt and defuse the "bomb" within the time limit to win.',
     "Rules":
       "--Exceeding the time limit results in disqualification. Cutting a wrong wire results in a penalty and reduces the remaining time.; -- The circuit may change up to three times. Adapt quickly to new setups.;-- In case of a tie, a quick circuit challenge will determine the winner. ;-- Teams are judged on accuracy, speed, problem-solving, and teamwork. Judges' decisions are final.",
-    "Prizes": "3500",
+    "Prizes": "2250",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Anurag Raj",
@@ -119,7 +119,7 @@ export const competitions = [
       'The ultimate showdown of engineering prowess! Students and professionals, gear up for two action-packed competitions Bridge Making and Earthquake Resistant Building. Unleash your creativity, showcase innovative designs, and outshine the rest. Prizes, recognition, and bragging rights await the champions of this structural duel! Get ready for mind-blowing innovations, intense competition, and fun!;This competition is a challenge designed to encourage Innovation and Excellencein the design and constructionof structures that can withstand seismic activities. There are two categories in the event Category 1:School students and category 2: College students. Each category may have an individual member or team of upto 5 members. In this event students have to make a framed structure of double storey building using bamboo toothpicks, fevicol, cardboard and any light material for floor plates. The participants will make the frames of buildings prior to the competition and bring the constructed model to the "venue" on the "day" of competition only. ;Dimensions: Base plate-30*30cm, structure base- 20*20cm, height of structure-50cm, two floors at 35cm and 50cm respectively and maximum weight of framed structure: 200grams. ;There will be three awards in both the categories: "Overall Winner, 1st Runner up and people\'s choice award in both the categories."',
     "Rules":
       "● This is a bring from home competition.;● Joints must be made using only fevicol and groove method.;● Structure and floors must be strong enough to withstand load.;● Follow the dimensions and weight limits.;● Only two toothpicks can be overlapped or sticked to get thick member.;●  In case the requirements and/or constraints are not met, points will be deducted orthe participant might face disqualification;● The rules are subject to change at the discretion of the organizers",
-    "Prizes": ["First Prize: Certificate, cash prize (2500/- INR)", "Second Prize: Certificate, cash prize (2000/- INR)", "Third Prize: Certificate, cash prize (1500/- INR)"],
+    "Prizes": ["First Prize: Certificate, cash prize (5000/- INR)", "Second Prize: Certificate, cash prize (4000/- INR)", "Third Prize: Certificate, cash prize (3000/- INR)"],
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Lalit Kumar",
@@ -138,15 +138,15 @@ export const competitions = [
       "In this captivating event participants have to get their ice cream stick bridges, An ice cream stick bridge-building competition is a fun and educational event where participants use ice cream sticks (also known as popsicle sticks) and sometimes glue to construct bridges that can support weight. The competition often tests participants' engineering skills, creativity, and teamwork",
     "Rules":
     "1)POPSICLE STICKS CAN BE CUT TO ANY SIZE;2)UP TO 2 STICKS CAN BE OVERLAPPED HORIZONTALLY TO MAKE A THICKER MEMBER;3)GLUE IS NOT ALLOWED ON THE OUTER EXPOSED SURFACE OF THE STICKS;4)CENTRAL 10 CM OF DECK SHOULD BE HORIZONTAL",
-    "Prizes": ["First Prize: Certificate, cash prize (2500/- INR)", "Second Prize: Certificate, cash prize (2000/- INR)", "Third Prize: Certificate, cash prize (1500/- INR)"],
+    "Prizes": ["First Prize: Certificate, cash prize (5000/- INR)", "Second Prize: Certificate, cash prize (4000/- INR)", "Third Prize: Certificate, cash prize (3000/- INR)"],
     "NIT Entry Fee": "",
     "Outside Entry Fee": "99",
     "Lead Name": "Sharansh",
     "Lead Contact Number": 9682578846,
     "Judging Criteria":
       "The models will be judged on three points in which aesthetics carry 10% weightage, presentation 10% and efficiency ratio. Efficiency ratio is calculated as the ratio of maximum load taken before failure and bridge's own weight.",
-    "Start Time": "4:00 PM",
-    "End Time": "6:00 PM",
+    "Start Time": "10:00 AM",
+    "End Time": "11:00 AM",
     "Day": 1,
     "Venue": "Common Hall",
     "Card Image": "Structure Battles.png"
@@ -202,10 +202,10 @@ export const competitions = [
     "Lead Contact Number": 6005128984,
     "Judging Criteria":
       "1)...Sustainability Impact : How effective the solution is in addressing environmental issues (e.g., reducing carbon footprint, conserving resources).;2)...Innovation & Creativity : Originality and uniqueness of the concept.;3)...Feasibility : Practicality and scalability of the solution in the real world.;4)...Technical Execution : The technical soundness and quality of the prototype or product.;5)...Presentation : How well the team explains the project, including challenges faced and future improvements.",
-    "Start Time": "04:00 PM",
-    "End Time": "06:30 PM",
+    "Start Time": "02:00 PM",
+    "End Time": "04:00 PM",
     "Day": 1,
-    "Venue": "L-12",
+    "Venue": "L-14",
     "Card Image": "Ecobuild Challenge .png"
   },
   {
@@ -214,7 +214,7 @@ export const competitions = [
       "We invite all aspiring digital artists to participate in our Digital Art Competition, open to students from schools, colleges, and the general public. Whether you are a budding artist or a seasoned creative, this is your chance to showcase your talent and imagination using technology!",
     "Rules":
       "1. Participants must bring their own tablets or PCs for creating their digital art. Basic chart papers will not be provided.; 2. All digital art must be submitted electronically, and participants are required to prepare all necessary software and tools in advance.;3. The theme for this competition is 'Eco Cyber City'",
-    "Prizes": "2300",
+    "Prizes": "5000",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Salman Zubair",
@@ -665,16 +665,16 @@ export const competitions = [
   {
     "Event Name": "Aeromodelling",
     "Description":
-      "Think you can build the ultimate aircraft?;Join the Aeromodelling Competition 2024 and prove it! Participants will craft aero models that not only look stunning but also perform in the air. The model with the best flight performance and design takes home the grand prize!;Design. Fly. Win",
+      "Aero-modelling competition is a big opportunity for those who are enthusiast about the principles of flight, exploration of aerodynamics, and the science behind this. Here we are making a competition among the participants to show variety of aero-models like aircrafts. The one who will have best aero model and good air show of their model will be given cash price.The participants are having great opportunities to showcase their talent in aero modelling by aircrafts designs.",
     "Rules":
-      "1. The participants have to prepare and craft their design with cardboards, foams, plastics, etc. that should be designed with proper gadgets and RC control.;2. The body structure should be strong enough to resist the crash effect.;3. There is no size and weight limitation, but the RC control should be appropriate for the size and shape.;4. The aircraft must be fully RC controlled.;5. The team lead can be either one or up to 5 members.;6. All team members must be actively involved in the design, building, and controlling of their aircraft.",
-    "Prizes": "3500",
+      "• The participants have to prepare and craft there design with cardboards, bamboo sticks, etc. that should be design with proper gadgets and RC control. ;• The body structure should be strong enough to resist the crash effect. ;• There is no limit on size and weight. You have to make sure the RC control should be perfect over there size and shape. ;• The aircrafts must be Fully RC controlled. ;• Maximum 5 members allowed in each team. ;• All team members must be actively involved in the design, building, and controlling of their aircraft.",
+    "Prizes":  ["First Prize: Certificate, cash prize (1500/- INR)", "Second Prize: Certificate, cash prize (1200/- INR)", "Third Prize: Certificate, cash prize (800/- INR)"],
     "NIT Entry Fee": "",
     "Outside Entry Fee": "149",
     "Lead Name": "Atul",
     "Lead Contact Number": 6006410954,
     "Judging Criteria":
-      "1) *Design* (20 Points): Based on the aero model's shape and design.;2) *Explanation of Models* (30 Points): The team lead must explain the design and parts used in their aircraft, detailing their roles and flight efficiency.;3) *Air Show* (50 Points):;- 20 points for takeoff and landing.;- 30 points for the air show and stunts performed by the aircraft.",
+      "• Explanation of models (20 Points): The team lead among the group have to explain the design of the model. You have to explain like what is the role of the respective parts and how it is efficient in flight. ;• Design (40 Points): On the basis of the design (strength and shape) the judge will give the point. ;• Air show (40 Points): These 40 points will give on the basis of Flight time & Distance Covered by your model.",
     "Start Time": "12:30 PM",
     "End Time": "5:30 PM",
     "Day": 1,
@@ -1651,9 +1651,9 @@ export const talks = [
     "Lead Name": "Tanisha Khan",
     "Lead Contact Number": 9149844814,
     "Start Time": "10:00 am",
-    "End Time": "1:00 PM",
+    "End Time": "1:30 PM",
     "Day": 1,
-    "Venue": "L-13",
+    "Venue": "L-1",
     "isWorkshop": true,
     "Card Image":
       "Vernacular Building styles and Earthquake Prone Areas with Special reference to Kashmir workshop.png",
@@ -1981,9 +1981,9 @@ export const womenTalks = [
     "Card Image": "Tech ForwardEmpowering Women in STEM.png"
   },
   {
-    "Event Name": "Expert talk 1",
-    "Description": "TOPIC: Breaking Barriers: Inspiring the Next Generation of Women in STEM, Resilience and Innovation: Inspiring Young Women to Lead in STEM.",
-    "Description about Instructor / Speaker": "Dr. Rishi Richa",
+    "Event Name": "Expert Talk: Resilience and Innovation: Inspiring Young Women to Lead in STEM",
+    "Description": "In a rapidly evolving world driven by technology and scientific discovery, women remain underrepresented in STEM fields. This talk is designed to inspire and empower the next generation of young women to pursue careers in science, technology, engineering, and mathematics. Through stories of resilience, innovation, and leadership, the event will highlight trailblazing women in STEM who have broken barriers and are shaping the future. Attendees will gain insights on overcoming challenges, staying persistent, and leading with creativity. The discussion will encourage young women to explore STEM opportunities, become innovators, and lead with confidence in these critical fields. This will be an extremely engaging and informative talk.;Let’s build a future where women are at the forefront of technological advancements and scientific breakthroughs!",
+    "Description about Instructor / Speaker": "Dr. Rishi Richa ( She's an Assistant Professor cum scientist, actively involved in the teaching of Agricultural Engineering and food engineering courses. Her research areas are ohmic heating, dehydration).",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Hurmat Khalid",
     "Lead Contact Number": "8082251200",
@@ -1996,9 +1996,9 @@ export const womenTalks = [
     "Card Image": "HerTech TalksInsights from Women Innovators.png"
   },
   {
-    "Event Name": "Expert talk 2",
-    "Description": "TOPIC: Security and privacy issues in 5g- URLLC network slice",
-    "Description about Instructor / Speaker": "Syed Rameem Zahra",
+    "Event Name": "Expert Talk: Security and privacy issues in 5g- URLLC network slice.",
+    "Description": "As 5G technology reshapes global communication, Ultra-Reliable Low-Latency Communication (URLLC) network slicing plays a critical role in delivering highly dependable and real-time services, especially in sectors like healthcare, autonomous vehicles, and smart industries. However, the rise of 5G-URLLC also brings forth unprecedented security and privacy challenges. This event will delve into the vulnerabilities, potential threats, and privacy concerns specific to 5G-URLLC network slicing. Experts will discuss emerging security frameworks, mitigation strategies, and the need for robust privacy mechanisms to ensure the integrity and reliability of these critical systems. This talk will be interesting and informative. Join us to explore the future of secure 5G networks and how to safeguard next-generation communication technologies.",
+    "Description about Instructor / Speaker": "Syed Rameem Zahra (Assistant Professor at SKUAST  cum junior Scientist and Iot security researcher having expertise in domains like Data science and AI.",
     "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
     "Lead Name": "Hurmat Khalid",
     "Lead Contact Number": "8082251200",
@@ -2007,8 +2007,38 @@ export const womenTalks = [
     "Day": 2,
     "isWomen": true,
     "isWorkshop": false,
-    "Venue": "L12",
+    "Venue": "Hi-tech 1",
     "Card Image": "HerTech TalksInsights from Women Innovators.png"
+  },
+  {
+    "Event Name": "Expert Talk: Women in Science: Breaking Barriers and Defying Stereotypes",
+    "Description": "This event celebrates the achievements of women in science who have challenged norms, broken barriers, and defied stereotypes to excel in their fields. Through inspiring stories of perseverance and innovation, the talk will highlight the contributions of female scientists in shaping the world we live in today. It will address the challenges women face, and how they overcome obstacles to thrive in their careers. Attendees will be encouraged to challenge societal norms, embrace diversity in science, and inspire future generations of women to pursue careers in STEM. Join us for this amazing talk by successful and experienced speakers.",
+    "Description about Instructor / Speaker": "Dr. Ambreen Hamadani (Assistant professor at SKAUST cum )",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Hurmat Khalid",
+    "Lead Contact Number": "8082251200",
+    "Start Time": "12:00 noon",
+    "End Time": "2:00 pm",
+    "Day": 2,
+    "isWomen": true,
+    "isWorkshop": false,
+    "Venue": "L-1",
+    "Card Image": "HerTech TalksInsights from Women Innovators.png"
+  },
+  {
+    "Event Name": "Skill Building Workshop",
+    "Description": "Unlock your potential at the technical  skill building workshop! This immersive event is designed for individuals eager to enhance their technical abilities and stay competitive in today's fast paced digital landscape.;Attendees will engage in hands on activities covering key topics such as coding , python and machine learning. Through interactive sessions and collaborative projects you will gain practical experience and apply your skills in real-world scenarios.;Whether you are a beginner or looking to advance your existing knowledge ,this workshop caters to all skill levels .Join us to connect with fellow tech enthusiasts ,expand your network and take your technical skills to the next level. Don't miss this opportunity to invest in your future.",
+    "Description about Instructor / Speaker": "Dr. Shifaa Basharat( Assistant professor at University of Kashmir).",
+    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
+    "Lead Name": "Hurmat Khalid",
+    "Lead Contact Number": "8082251200",
+    "Start Time": "4:00 pm",
+    "End Time": "6:00 pm",
+    "Day": 2,
+    "isWomen": true,
+    "isWorkshop": false,
+    "Venue": "L-5",
+    "Card Image": "Women in techbreaking boundaries.png"
   }
 ]
 

@@ -51,20 +51,12 @@ export default function GamingEventDetailsLayout({ data, index }) {
           </p>
         </div>
         <div className="flex gap-4">
-          <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
             <Link
               to={"/register"}
+              className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4"
             >
               Register
             </Link>
-          </button>
-          {/* <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4">
-            <Link
-              to={"/register/nit-register"}
-            >
-              Register: NIT Students
-            </Link>
-          </button> */}
         </div>
         <div className="mb-4">
           <p className="text-base mb-2">For Any Queries Contact</p>
