@@ -16,29 +16,37 @@ export default function RegisterHome() {
           Registration
         </p>
         <div className="flex flex-col gap-12 items-center px-4 py-10">
-          {/* NIT Srinagar Students Card */}
           <div className="bg-gradient-to-r from-green-700 to-green-500 text-white rounded-xl CardShadow p-8 w-full max-w-2xl transform hover:scale-105 transition-transform duration-300 ease-in-out">
             <h2 className="text-3xl font-figtree font-extrabold mb-6 text-center">
               Outside NIT Srinagar
             </h2>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-4 text-center">
               Register Here if You're a Non-NIT Srinagar Student <br />
-              {/* <span className="font-extrabold text-gray-800">Due to ongoing issues with credit card transactions in J&K, we recommend using the Google Form for registration.</span> */}
+              <span className="font-extrabold text-gray-800">Due to ongoing issues with credit card transactions in J&K, we recommend using the Google Form for registration.</span>
             </p>
             <p className="font-kodeMono font-medium text-base md:text-lg mb-8 text-center">
               <span className="font-bold">Note:</span> Make sure to keep your
               institute ID with you for verification.
             </p>
             <div className="flex flex-col md:flex-row gap-4 justify-center">
-              <Link to={"https://forms.gle/c53TeD59dqLJ1EcG9"}>
+              <Link
+                to={
+                  "https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5njDq4Y6ECAw5nj"
+                }
+              >
                 <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
                   Register
+                </button>
+              </Link>
+
+              <Link to={"https://forms.gle/c53TeD59dqLJ1EcG9"}>
+                <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
+                  Register:Using Google forms
                 </button>
               </Link>
             </div>
           </div>
 
-          {/* Other Institute Students Card */}
           <div className="bg-gradient-to-r from-white to-gray-100 text-black rounded-xl CardShadow p-8 w-full max-w-2xl transform hover:scale-105 transition-transform duration-300 ease-in-out">
             <h2 className="text-3xl font-figtree font-extrabold text-green-600 mb-6 text-center">
               NIT Srinagar Students
