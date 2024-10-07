@@ -230,7 +230,7 @@ export const competitions = [
   {
     "Event Name": "Technical Exhibition",
     "Description":
-      "students from various schools and colleges need to present their projects infront of the judges. Students need to give a brief presentation about their projects , and if it is a working project , the working needs to be displayed and explained well.;On day 1 exhibition would be presented by school students while on day 2 it would be presented by college students",
+      "Students from various schools and colleges need to present their projects infront of the judges. Students need to give a brief presentation about their projects , and if it is a working project , the working needs to be displayed and explained well.;On day 1 exhibition would be presented by school students while on day 2 it would be presented by college students; Number of students allowed per team : 8; Enter Captain details while registering",
     "Rules":
       "1. presentation of the project should be brief and informative.;2. project should be presentable.;3. all the necessary items required for displaying the project should be brought by participant itself.",
     "Prizes": "2250",
@@ -920,7 +920,7 @@ export const womenPerformances = [
     "Day": 2,
     "isWomen": true,
     "Venue": "Common Hall",
-    "Card Image" : "tech-showcase.png"
+    "Card Image" : "conference.png"
   },
   {
     "Event Name": "Real Heroines:Film Screening",
@@ -945,7 +945,7 @@ export const gamezone = [
       "Rules":
       '1. Each round lasts a limited amount of time.;2. If the attackers plant the spike and it explodes, or if the defending team defuses it, the round ends.;3. If the round time runs out and the spike is not planted or defused, the defending team wins.;                                                      4.Players earn credits at the end of each round based on their performance and the outcome of the round.Each agent has an ultimate ability that can be charged by earning "ultimate points" throughout the match.',
     "Prizes": "PRIZE MONEY – RS 4000 ( WINNER 3500, MVP – 500)",
-    "NIT Entry Fee": "500",
+    "NIT Entry Fee": "500:per team",
     "Outside Entry Fee": "500",
     "Lead Name": "Vivek, Yashwant",
     "Lead Contact Number": 9905224158,
@@ -963,7 +963,7 @@ export const gamezone = [
       "1. Players are eliminated from the match when they are either killed or their teammates are unable to revive them.; 2. In duo and squad modes, players can revive teammates if they are knocked down but not eliminated.;3. Players must scavenge the map for weapons, armor, medical supplies, and other equipment.;4. The game ends when only one player or team remains in the final safe zone.;5. The last standing player or team is declared the winner.",
     "Prizes": "PRIZE MONEY – RS 8,000 ( WINNER 7000, MVP – 1000)",
     "NIT Entry Fee": "ENTRY FEE- RS. 400",
-    "Outside Entry Fee": "400",
+    "Outside Entry Fee": "400:per team",
     "Lead Name": "Ayush Ranjan",
     "Lead Contact Number": 9797986564,
     "Start Time": "11:00",
@@ -980,7 +980,7 @@ export const gamezone = [
       "1. Engage in combat using a variety of weapons, grenades, and melee items. ;  2. In duo and squad modes, players can revive knocked-down teammates.;3. The game concludes when only one player or team remains within the final safe zone.",
     "Prizes": "PRIZE MONEY – RS 3,500 ( WINNER 3000, MVP – 500)",
     "NIT Entry Fee": "ENTRY FEE- RS. 300",
-    "Outside Entry Fee": "300",
+    "Outside Entry Fee": "300:per team",
     "Lead Name": "Rajan",
     "Lead Contact Number": 9797986564,
     "Start Time": "09:00",
@@ -995,9 +995,9 @@ export const gamezone = [
       "In Tekken 8, players can expect a roster of diverse fighters, each with their unique moves, styles, and special abilities. The game retains the series' signature 3D fighting mechanics, allowing for intricate combos and high-octane battles. It introduces new characters and revisits beloved veterans, all rendered with cutting-edge graphics and enhanced animations that bring their moves and personalities to life.",
       "Rules":
       '1. Characters have unique special moves and "Rage" abilities that can turn the tide of battle.; 2. To win a match, a player must defeat their opponent in the majority of the rounds.',
-    "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
+    "Prizes": "PRIZE MONEY Up to- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "100",
+    "Outside Entry Fee": "50",
     "Lead Name": "Atabik",
     "Lead Contact Number": 7006329838,
     "Start Time": "09:00",
@@ -1012,9 +1012,9 @@ export const gamezone = [
       "In Mortal Kombat , players engage in intense one-on-one battles using a diverse roster of characters, each with unique moves and abilities. Players use attack buttons for punches and kicks. Mastering combos and Blocking incoming attacks is crucial for defense, and players can execute dramatic finishing moves, known as Fatalities or Brutalities, at the end of a match. The game features various modes, including Story Mode, Versus Mode, and Online Mode, offering a range of experiences from narrative-driven campaigns to competitive online play. The objective is to deplete your opponent’s health bar and emerge victorious.",
       "Rules":
       "1. Choose from a roster of unique characters, each with their own set of moves, abilities, and combos.;2. Matches are played in rounds, typically with the first player to win two out of three rounds being declared the victor.;3. Customize your character’s appearance, gear, and sometimes abilities.",
-    "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
+    "Prizes": "PRIZE MONEY Up To- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "100",
+    "Outside Entry Fee": "50",
     "Lead Name": "Muneez,Nityam",
     "Lead Contact Number": 9541524206,
     "Start Time": "09:00",
@@ -1029,9 +1029,9 @@ export const gamezone = [
       "WWE 2K23 is a professional wrestling video game that immerses players in the high-octane world of WWE. It features a roster of real-life wrestlers and legends, allowing players to engage in realistic, action-packed matches with detailed graphics and lifelike animations. The game includes various modes, such as MyGM, MyRise, and Universe Mode, offering deep customization and career management options. Enhanced gameplay mechanics and improved controls provide a more dynamic and engaging wrestling experience, while a revamped story mode delivers compelling narratives. Whether playing solo or online, WWE 2K23 offers a comprehensive wrestling simulation with a focus on both strategic and dramatic in-ring action.",
       "Rules":
       "1. Utilize in-game chat or voice communication for coordination in team-based modes.;2. The game uses matchmaking algorithms to pair players of similar skill levels to ensure fair and competitive matches.;3. Ensure a stable internet connection to minimize lag and disconnections.",
-    "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
+    "Prizes": "PRIZE MONEY Up To- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "100",
+    "Outside Entry Fee": "50",
     "Lead Name": "Krishna Thakre",
     "Lead Contact Number": 8349666552,
     "Start Time": "09:00",
@@ -1046,9 +1046,9 @@ export const gamezone = [
       "FIFA is a soccer simulation game where players control real-life football teams and compete in matches. The game features realistic graphics and gameplay, allowing players to manage teams, execute tactics, and perform a wide range of actions such as passing, shooting, and defending. Players can choose from various game modes, including Career Mode for managing a team or player, Ultimate Team for building a dream squad, and online multiplayer for competing against others. The objective is to outscore the opponent in matches and achieve success across different tournaments and leagues.",
       "Rules":
       "1. The primary objective of the game is to score more goals than your opponent ;                                                                                                                                                  2.A goal is scored when the ball crosses the goal line between the goalposts.                     ;                                                                                                                               3.A player is offside if they are ahead of the ball when it is last played by a teammate. However, a player is not offside if they are in their own half or if they are level with the second-to-last defender.\n;4. If a player commits a foul, such as tripping, pushing, or handling the ball, the opposing team is awarded a free kick. If a foul is committed inside the penalty area, a penalty kick is awarded.;                                                                                                                                                                                                                                  5.Teams can make a limited number of substitutions during a match.",
-    "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
+    "Prizes": "PRIZE MONEY Up To- RS.1000 (WINNER)",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "100",
+    "Outside Entry Fee": "50",
     "Lead Name": "Uttam, Vivek Vatsal",
     "Lead Contact Number": 8676071094,
     "Start Time": "11:00",
@@ -1063,9 +1063,9 @@ export const gamezone = [
       "eFootball is a free-to-play football simulation video game . eFootball offers players a dynamic football experience with cross-platform play and dynamic season updates. Move the ball with precision using dribbling techniques .Pass the ball accurately to teammates using various types of passes (short, long, through ball. Attempt to score goals with different shooting techniques. Use tackling, intercepting, and positioning to prevent the opponent from scoring.Control the goalkeeper to make saves and manage the defense.",
       "Rules":
       "1. The primary objective is to score more goals than your opponent.;2. The offside rule works similarly to real-world football, with players being offside if they are ahead of the ball when it is last played by a teammate.;3. Fouls, such as tripping, pushing, or handling the ball, result in free kicks or penalties.;4. Players can be issued yellow or red cards for misconduct, leading to warnings or expulsions.",
-    "Prizes": "PRIZE MONEY- RS.1000 (WINNER)",
+    "Prizes": "",
     "NIT Entry Fee": "ENTRY FEE- RS. 100",
-    "Outside Entry Fee": "100",
+    "Outside Entry Fee": "",
     "Lead Name": "Suryansh Pal",
     "Lead Contact Number": 9928931991,
     "Start Time": "09:00",
@@ -1345,8 +1345,8 @@ export const talks = [
     "Lead Name": "Teja Kodaliya",
     "Lead Contact Number": 9491816263,
     "Start Time": "10:00 am",
-    "End Time": "7:00 pm",
-    "Day": 2,
+    "End Time": "2:00 pm",
+    "Day": 1,
     "Venue":"Hi-tech 5",
     "isWorkshop": false,
     "Card Image": "startup-talks.jpeg"
@@ -1705,7 +1705,7 @@ export const talks = [
     "Start Time": "10:00 am",
     "End Time": "11:30 am",
     "Day": 1,
-    "Venue": "L-1",
+    "Venue": "L-11",
     "isWorkshop": false,
     "Card Image": "The Future of Electric Vehicles Driving.png",
   },
@@ -1814,7 +1814,7 @@ export const talks = [
   {
     "Event Name": "Multifunctional Grid Connected PV System ",
     "Description": "This workshop will cover the design, implementation, and benefits of multifunctional grid-connected photovoltaic (PV) systems. Participants will explore how PV systems can provide not only clean energy but also enhance grid stability. Practical examples and real-world case studies will be used to show how solar energy systems are integrated into modern electrical grids",
-    "Description about Instructor / Speaker": "Dr Ikhlaq Hussain",
+    "Description about Instructor / Speaker": "Dr Masiha Aijaz",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
@@ -1845,23 +1845,23 @@ export const talks = [
     "isWorkshop": false,
     "Card Image": "A novel class of material.png",
   },
-  // {
-  //   "Event Name": "Applications of Hydrogen Storage Materials ",
-  //   "Description": "In this workshop, participants will explore the emerging field of hydrogen storage materials, a key component of the future energy landscape. We will discuss how these materials enable efficient storage of hydrogen, a clean energy source, and the various industrial applications that are being developed. Through case studies and technical discussions, you will gain insights into how hydrogen storage can support global energy sustainability efforts.",
-  //   "Description about Instructor / Speaker": "Dr. Anshul Gupta ",
-  //   "Prizes": "",
-  //   "NIT Entry Fee": "",
-  //   "Outside Entry Fee": "49",
-  //   "Lead Name": "Mubashir Malik",
-  //   "Lead Contact Number": 7780916523,
-  //   "Judging Criteria": "",
-  //   "Start Time": "2:00 pm",
-  //   "End Time": "3:30 pm",
-  //   "Day": 1,
-  //   "Venue": "L-1",
-  // "isWorkshop": false,   
-  // "Card Image": "Applications of Hydrogen.png",
-  // },
+  {
+    "Event Name": "Applications of Hydrogen Storage Materials ",
+    "Description": "In this workshop, participants will explore the emerging field of hydrogen storage materials, a key component of the future energy landscape. We will discuss how these materials enable efficient storage of hydrogen, a clean energy source, and the various industrial applications that are being developed. Through case studies and technical discussions, you will gain insights into how hydrogen storage can support global energy sustainability efforts.",
+    "Description about Instructor / Speaker": "Dr. Anshul Gupta ",
+    "Prizes": "",
+    "NIT Entry Fee": "",
+    "Outside Entry Fee": "49",
+    "Lead Name": "Mubashir Malik",
+    "Lead Contact Number": 7780916523,
+    "Judging Criteria": "",
+    "Start Time": "2:00 pm",
+    "End Time": "3:30 pm",
+    "Day": 2,
+    "Venue": "L-1",
+  "isWorkshop": false,   
+  "Card Image": "Applications of Hydrogen.png",
+  },
   {
     "Event Name": "Tech role in Heritage Preservation",
     "Description": "This workshop focuses on how technology is being used to preserve cultural heritage. Participants will learn about the use of digital tools such as 3D scanning, augmented reality, and data archiving to protect and restore heritage sites. Through interactive demonstrations, attendees will gain an understanding of how tech innovations are helping safeguard our history for future generations",
@@ -1880,21 +1880,21 @@ export const talks = [
     "Card Image": "Tech role in Heritage Preservation.png",
   },
   {
-    "Event Name": "Career Counselling ",
-    "Description": "This workshop will provide participants with essential strategies for career development in today’s dynamic job market. Through personalized guidance and interactive activities, attendees will learn how to assess their strengths, set career goals, and navigate different industries. The workshop will also include insights on how to adapt to the fast-changing demands of the tech industry",
-    "Description about Instructor / Speaker": "Salman Shahid ",
+    "Event Name": "Power and RF GaN Technology",
+    "Description": "Gallium Nitride (GaN) technology is revolutionizing industries like automotive, consumer electronics, defense, and space with its superior efficiency, high power density, and high-frequency capabilities. In automotive, GaN enables faster EV charging and autonomous driving systems. Consumer electronics benefit from compact, efficient chargers and devices. In defense, GaN enhances radar and communication systems with higher power and reliability. In space, its radiation resistance and high performance in harsh conditions make it ideal for satellite and communication systems, driving innovation across these sectors.",
+    "Description about Instructor / Speaker": "Dr Sheikh Aamir Ahsan",
     "Prizes": "",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
     "Lead Name": "Mubashir Malik",
     "Lead Contact Number": 7780916523,
     "Judging Criteria": "",
-    "Start Time": "2:00 pm",
-    "End Time": "3:30 pm",
+    "Start Time": "12:00 noon",
+    "End Time": "1:30 pm",
     "Day": 1,
-    "Venue": "L-5",
+    "Venue": "L-2",
     "isWorkshop": false,
-    "Card Image": "Career Counselling.png",
+    "Card Image": "gan.png",
   },
   {
     "Event Name": "Mental Health ",
@@ -1966,21 +1966,6 @@ export const womenTalks = [
     "Card Image": "Women in techbreaking boundaries.png"
   },
   {
-    "Event Name": "Skill building workshop",
-    "Description": "Attendees will engage in hands-on activities covering key topics such as coding, data analysis, software development, and more. Through interactive sessions and collaborative projects, youll gain practical experience and apply your skills in real-world scenarios.\nWhether youre a beginner or looking to advance your existing knowledge, this workshop caters to all skill levels. Join us to connect with fellow tech enthusiasts, expand your network, and take your technical skills to the next level. Dont miss this opportunity to invest in your future.",
-    "Description about Instructor / Speaker": "",
-    "Outside Entry Fee": "49: Common fee for accessing all women in tech events",
-    "Lead Name": "Hurmat Khalid",
-    "Lead Contact Number": "8082251200",
-    "Start Time": "4:00 p.m",
-    "End Time": "7:00 p.m.",
-    "Day": 2,
-    "isWomen": true,
-    "isWorkshop": true,
-    "Venue": "L5",
-    "Card Image": "Tech ForwardEmpowering Women in STEM.png"
-  },
-  {
     "Event Name": "Expert Talk: Resilience and Innovation: Inspiring Young Women to Lead in STEM",
     "Description": "In a rapidly evolving world driven by technology and scientific discovery, women remain underrepresented in STEM fields. This talk is designed to inspire and empower the next generation of young women to pursue careers in science, technology, engineering, and mathematics. Through stories of resilience, innovation, and leadership, the event will highlight trailblazing women in STEM who have broken barriers and are shaping the future. Attendees will gain insights on overcoming challenges, staying persistent, and leading with creativity. The discussion will encourage young women to explore STEM opportunities, become innovators, and lead with confidence in these critical fields. This will be an extremely engaging and informative talk.;Let’s build a future where women are at the forefront of technological advancements and scientific breakthroughs!",
     "Description about Instructor / Speaker": "Dr. Rishi Richa ( She's an Assistant Professor cum scientist, actively involved in the teaching of Agricultural Engineering and food engineering courses. Her research areas are ohmic heating, dehydration).",
@@ -2008,7 +1993,7 @@ export const womenTalks = [
     "isWomen": true,
     "isWorkshop": false,
     "Venue": "Hi-tech 1",
-    "Card Image": "HerTech TalksInsights from Women Innovators.png"
+    "Card Image": "security.png"
   },
   {
     "Event Name": "Expert Talk: Women in Science: Breaking Barriers and Defying Stereotypes",
@@ -2023,7 +2008,7 @@ export const womenTalks = [
     "isWomen": true,
     "isWorkshop": false,
     "Venue": "L-1",
-    "Card Image": "HerTech TalksInsights from Women Innovators.png"
+    "Card Image": "women in science.png"
   },
   {
     "Event Name": "Skill Building Workshop",
@@ -2038,7 +2023,7 @@ export const womenTalks = [
     "isWomen": true,
     "isWorkshop": false,
     "Venue": "L-5",
-    "Card Image": "Women in techbreaking boundaries.png"
+    "Card Image": "skill building.png"
   }
 ]
 

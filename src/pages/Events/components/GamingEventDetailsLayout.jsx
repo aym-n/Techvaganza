@@ -51,12 +51,12 @@ export default function GamingEventDetailsLayout({ data, index }) {
           </p>
         </div>
         <div className="flex gap-4">
-            <Link
-              to={"/register"}
-              className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-semibold text-gray-800 bg-primary border border-primary focus:outline-none text-center mb-4"
-            >
-              Register
-            </Link>
+            <p className="font-semibold mb-4">
+              Registration will be on spot on the day of event at a spot of <br /> 
+              1. Main Gate NIT Srinagar <br />
+              2. PF Hall <br />
+              3. Main Ground 
+            </p>
         </div>
         <div className="mb-4">
           <p className="text-base mb-2">For Any Queries Contact</p>

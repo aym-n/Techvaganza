@@ -309,8 +309,8 @@ export const teams = {
     {
       title: "Co-Lead",
       name: "Sandeep Kumar",
-      email: "",
-      phone: ""
+      email: "sandeep_2021bmec065@nitsri.ac.in",
+      phone: "9887570742"
     }
   ],
   "SocialMedia Publicity": [
