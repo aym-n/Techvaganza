@@ -31,7 +31,7 @@ const judgingCriteria = data["Judging Criteria"].split(";").map(criteria => crit
             </div>
             { typeof(data["Prizes"]) !== "object" ?
               !data["prizes"] && 
-              parseInt(data["Prizes"].replace(/[^0-9]/g, '')) > 800 &&
+              parseInt(data["Prizes"].replace(/[^0-9]/g, '')) >= 800 &&
               (<>
                 <hr className="mt-4 border border-primary" />
                 <h1 className="entry-header text-3xl tfont-semibold text-gray-600 font-figtree textShadow-sm mb-4 mt-4 mx-2 overflow-visible">Prizes</h1>

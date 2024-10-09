@@ -142,7 +142,7 @@ function Hero() {
             Greener Innovations: Engineering a Sustainable World
           </p>
 
-          <div className="font-kodeMono mt-6 md:mt-10 flex justify-center">
+          {/* <div className="font-kodeMono mt-6 md:mt-10 flex justify-center">
             <div className="w-full min-w-150 mt-7 px-12 lg:px-40 flex flex-wrap gap-6 justify-between text-white font-bold overflow-hidden">
               <div
                 data-aos="fade-down"
@@ -192,8 +192,8 @@ function Hero() {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="mt-4 py-4 flex justify-center">
+          </div> */}
+          {/* <div className="mt-4 py-4 flex justify-center">
             <Link
               data-aos="fade-in"
               data-aos-delay="500"
@@ -202,7 +202,7 @@ function Hero() {
             >
               Register Yourself
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
