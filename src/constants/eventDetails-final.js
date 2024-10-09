@@ -389,8 +389,8 @@ export const competitions = [
     "Prizes": "700",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
-    "Lead Name": "Tabinda Shafi",
-    "Lead Contact Number": 8899894476,
+    "Lead Name": "Khushboo Dar",
+    "Lead Contact Number": 8082401865,
     "Judging Criteria":
       "Marks will be awarded separately for each round.;The winner will be determined based on the cumulative scores from both rounds.;Round 1:Accuracy and adherence to time constraints will be evaluated.;Round 2:The smoothness, accuracy, and functionality of the AI application will be judged.",
     "Start Time": "10:00 AM",
@@ -484,8 +484,8 @@ export const competitions = [
     "Prizes": "700",
     "NIT Entry Fee": "",
     "Outside Entry Fee": "49",
-    "Lead Name": "Kavita Choudhary",
-    "Lead Contact Number": 7051554671,
+    "Lead Name": "Brahmjot Singh",
+    "Lead Contact Number": 7900030981,
     "Judging Criteria":
       "Round 1: Cheat Challenge (Quiz-based);- Accuracy: Teams are judged on the number of correct answers out of 30 questions.;- Time Management: All answers must be submitted within the 10-minute limit.;Round 2: Open Book Challenge;- Accuracy: Correctness of the solution.;- Speed: How quickly the answer is found.;- Application: Effective use of the book to solve the problem.;- Clarity: How well the answer is explained.;Round 3: Quiz Show (KBC Style);- Accuracy: Correct answers for multiple-choice questions.;- Difficulty: Points awarded based on question difficulty (Easy, Medium, Hard).;- Speed: Bonuses for quick responses.;- Use of Lifelines: Points deducted for lifeline usage;-  judged on strategic use.;- Penalties: Points deducted for incorrect answers.;- Overall Criteria;- Cumulative Score: Total score across all rounds.;- Accuracy, Strategy, Quality: Final score based on accuracy, strategy with lifelines, and quality of answers.",
     "Start Time": "4:00 PM",

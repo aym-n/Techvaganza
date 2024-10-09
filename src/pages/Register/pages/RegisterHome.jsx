@@ -33,16 +33,13 @@ export default function RegisterHome() {
                 to={
                   "https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+https://erp.nitsri.ac.in/Academic/Event/iitms59kYF9lC0cj3VbTS6unBiAl+l75Pr6We0g1qjBoOkzq3f3cNp1dZ7YOKj7wb+MDkvhXLxOyJOP47ksp5DwqNGQ==?enc=S4ALRM2Vj9bizT3vZvKSo3N+ZwkymXBaFNp5ctbAnVBuQ8nlFHQ9FoYayvr2BAVZjYQO+c0SC2YUM3DcznhpD2S6muaSikpGaDEGX8Ez2mgZ1zseNxb+Dq4Y6ECAw5njDq4Y6ECAw5nj"
                 }
+                className="bg-white border-2 text-center border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300"
               >
-                <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
                   Register
-                </button>
               </Link>
 
-              <Link to={"https://forms.gle/c53TeD59dqLJ1EcG9"}>
-                <button className="bg-white border-2 border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300">
+              <Link className="bg-white border-2 text-center border-white text-green-600 font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent  hover:text-white transition-colors duration-300" to={"https://forms.gle/c53TeD59dqLJ1EcG9"}>
                   Register:Using Google forms
-                </button>
               </Link>
             </div>
           </div>
@@ -59,10 +56,8 @@ export default function RegisterHome() {
               institute ID with you for verification.
             </p>
             <div className="flex flex-col md:flex-row  justify-center">
-              <Link to={"nit-register"}>
-                <button className="bg-green-600 border-2 border-green-600 text-white font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent hover:text-green-600 transition-colors duration-300">
+              <Link className="bg-green-600 border-2 text-center border-green-600 text-white font-semibold py-4 px-8 rounded-lg shadow-md hover:bg-transparent hover:text-green-600 transition-colors duration-300" to={"nit-register"}>
                   Register
-                </button>
               </Link>
             </div>
           </div>
