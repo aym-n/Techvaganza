@@ -9,9 +9,7 @@ export default function FormCard({title, registerUrl}) {
         </h3>
       </div>
       <div className="mt-2 lg:mt-0 py-6 md:py-6 md:px-5 flex">
-        <button className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-medium text-gray-800 bg-primary border border-primary focus:outline-none text-center">
-          <Link to={registerUrl}>Register</Link>
-        </button>
+          <Link className="px-6 md:px-8 py-2 ShadowBlur text-sm md:text-base rounded-md font-medium text-gray-800 bg-primary border border-primary focus:outline-none text-center" to={registerUrl}>Register</Link>
       </div>
     </div>
   );
