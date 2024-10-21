@@ -1,9 +1,9 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import Header from "../../../Components/Header";
-import { Link } from "react-router-dom";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { FaAddressCard } from "react-icons/fa6";
+import { Link } from "react-router-dom";
 
 function Hero() {
   const targetDate = "2024-10-10T09:00:00";
@@ -120,16 +120,8 @@ function Hero() {
         <div>
           <Header />
         </div>
-        <div className="p-7 md:p-32 flex items-center h-full justify-center">
+        <div className="p-7 md:px-32 flex items-center h-full justify-center">
           <div className="overflow-visible">
-            <div
-              data-aos="fade-down"
-              data-aos-duration="2000"
-              className="text-white text-xl ss:text-2xl md:text-4xl text-center overflow-visible xs:whitespace-nowrap"
-            >
-              Thank you for being a part of Techvaganza <br />See you next year for an
-              even bigger and better edition!
-            </div>
             <p
               ref={textRef}
               className="text-center text-5xl ss:text-7xl sm:text-8xl md:text-9xl mt-4 text-white font-neotriad font-extrabold overflow-visible textShadow"
@@ -140,8 +132,26 @@ function Hero() {
             <p className="text-center text-2xl ss:text-3xl  mt-4 text-white font-kodeMono font-bold overflow-visible textShadow-sm">
               Greener Innovations: Engineering a Sustainable World
             </p>
+            <div
+              data-aos="fade-down"
+              data-aos-duration="2000"
+              className="text-white text-xl ss:text-2xl md:text-4xl text-center font-semibold textShadow-md overflow-visible xs:whitespace-nowrap mt-8"
+            >
+              Thank you for being a part of Techvaganza <br />See you next year for an
+              even bigger and better edition!
+            </div>
           </div>
         </div>
+        <div className="mt-4 py-4 flex justify-center">
+            <Link
+              data-aos="fade-in"
+              data-aos-delay="500"
+              to={'https://docs.google.com/forms/d/e/1FAIpQLSd_1ODS_LIFb7KwTvibI4uianack9oiHMdSve9RRdab0fcqXA/viewform'}
+              className="px-6 md:px-8 py-3 ShadowBlur text-md md:text-xl rounded-full font-semibold text-gray-900 bg-primary border border-primary focus:outline-none text-center"
+            >
+              Feedback Form
+            </Link>
+          </div>
       </div>
     </div>
   );
